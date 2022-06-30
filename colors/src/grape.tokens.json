@@ -1,0 +1,34 @@
+{
+  "grape": {
+    "0": {
+      "value": "#f8f0fc"
+    },
+    "1": {
+      "value": "#f3d9fa"
+    },
+    "2": {
+      "value": "#eebefa"
+    },
+    "3": {
+      "value": "#e599f7"
+    },
+    "4": {
+      "value": "#da77f2"
+    },
+    "5": {
+      "value": "#cc5de8"
+    },
+    "6": {
+      "value": "#be4bdb"
+    },
+    "7": {
+      "value": "#ae3ec9"
+    },
+    "8": {
+      "value": "#9c36b5"
+    },
+    "9": {
+      "value": "#862e9c"
+    }
+  }
+}

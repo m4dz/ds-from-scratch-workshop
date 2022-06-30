@@ -1,0 +1,12 @@
+@mixin text {
+  font-family: var(--font-sans);
+  max-inline-size: var(--size-content-2);
+  font-size: var(--font-size-2);
+  line-height: var(--font-lineheight-3);
+  font-weight: var(--font-weight-1);
+  color: var(--text2);
+}
+
+@mixin strong {
+  font-weight: var(--font-weight-3);
+}

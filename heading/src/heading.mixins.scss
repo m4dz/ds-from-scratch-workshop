@@ -1,0 +1,11 @@
+@mixin heading($level: 1) {
+  font-family: var(--font-sans);
+  font-weight: var(--font-weight-1);
+
+  @if $level == 1 {
+    font-size: var(--font-size-6);
+    color: var(--text2);
+  } @else {
+    font-size: var(--font-size-4);
+  }
+}

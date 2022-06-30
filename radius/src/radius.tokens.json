@@ -1,0 +1,25 @@
+{
+  "radius": {
+    "1": {
+      "value": "2px"
+    },
+    "2": {
+      "value": "5px"
+    },
+    "3": {
+      "value": "1rem"
+    },
+    "4": {
+      "value": "2rem"
+    },
+    "5": {
+      "value": "4rem"
+    },
+    "6": {
+      "value": "8rem"
+    },
+    "round": {
+      "value": "1e5px"
+    }
+  }
+}

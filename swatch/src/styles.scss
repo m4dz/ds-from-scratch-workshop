@@ -1,0 +1,97 @@
+@use '../../mixins.scss';
+
+:host {
+  --swatch-size: var(--size-12);
+}
+
+// LAYOUT
+main {
+  display: flex;
+  flex-flow: row wrap;
+  align-items: center;
+  align-content: center;
+  justify-content: center;
+  gap: var(--size-5);
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+}
+
+section {
+  display: grid;
+  gap: var(--size-6);
+}
+
+.surface-samples {
+  display: grid;
+  grid-template-columns: var(--swatch-size) var(--swatch-size);
+  grid-auto-rows: var(--swatch-size);
+  gap: var(--size-6);
+
+  & > * {
+    @include mixins.heading();
+    border-radius: var(--radius-3);
+    display: grid;
+    place-content: center;
+  }
+}
+
+.text-samples {
+  display: grid;
+  gap: var(--size-4);
+
+  & > * {
+    @include mixins.heading(2);
+    display: inline-flex;
+    align-items: center;
+    gap: var(--size-2);
+  }
+
+  span {
+    display: inline-block;
+    flex-shrink: 0;
+    inline-size: var(--size-6);
+    block-size: var(--size-6);
+    border-radius: var(--radius-round);
+
+    &.text1 {
+      background-color: var(--text1);
+    }
+    &.text2 {
+      background-color: var(--text2);
+    }
+  }
+}
+
+// THEME
+.brand {
+  color: var(--brand);
+  background-color: var(--brand);
+}
+
+.surface1 {
+  background-color: var(--surface1);
+  color: var(--text2);
+}
+
+.surface2 {
+  background-color: var(--surface2);
+  color: var(--text2);
+}
+
+.surface3 {
+  background-color: var(--surface3);
+  color: var(--text1);
+}
+
+.surface4 {
+  background-color: var(--surface4);
+  color: var(--text1);
+}
+
+.dot,
+.surface {
+  @include mixins.box-shadow;
+}

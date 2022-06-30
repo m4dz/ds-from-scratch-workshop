@@ -1,0 +1,16 @@
+{
+  "name": "@backlight-dev/m4dz.blank-l4z7r710",
+  "version": "0.1.2",
+  "description": "",
+  "license": "MIT",
+  "type": "module",
+  "homepage": "{{ homepage }}",
+  "scripts": {
+    "serve": "npx backlight@latest serve 6gdSs2LibiVwsxzp9x2B --open"
+  },
+  "devDependencies": {
+    "@divriots/dockit-core": "^0.7.2",
+    "lit": "^2.2.0"
+  },
+  "dependencies": {}
+}

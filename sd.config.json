@@ -1,0 +1,20 @@
+{
+  "source": [
+    "**/*.tokens.json"
+  ],
+  "platforms": {
+    "css": {
+      "transformGroup": "css",
+      "buildPath": "tokens/",
+      "files": [
+        {
+          "destination": "open-props.css",
+          "format": "css/variables",
+          "options": {
+            "selector": ":where(html)"
+          }
+        }
+      ]
+    }
+  }
+}

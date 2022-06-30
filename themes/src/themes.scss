@@ -1,0 +1,31 @@
+@use '../../mixins.scss';
+
+:root {
+  @include mixins.theme('light');
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    @include mixins.theme('dark', dark);
+  }
+}
+
+[color-scheme='light'] {
+  @include mixins.theme('light');
+}
+
+[color-scheme='dark'] {
+  @include mixins.theme('dark', dark);
+}
+
+[color-scheme='dim'] {
+  @include mixins.theme('dim', dark);
+}
+
+[color-scheme='grape'] {
+  @include mixins.theme('grape');
+}
+
+body {
+  background-color: var(--surface1);
+}

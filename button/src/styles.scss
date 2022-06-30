@@ -1,0 +1,55 @@
+@use '../../mixins.scss';
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+:host {
+  display: inline-grid;
+}
+
+button {
+  --btn-bg: var(--surface3);
+  --btn-color: var(--text1);
+  --icon-color: var(--btn-color);
+  --icon-size: 1em;
+
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: var(--size-1);
+
+  padding: var(--size-2) var(--size-3);
+  border-radius: var(--radius-round);
+  border: none;
+
+  cursor: pointer;
+
+  background-color: var(--btn-bg);
+  color: var(--btn-color);
+}
+
+:host([primary]) {
+  button {
+    --btn-bg: var(--brand);
+    --btn-color: var(--surface1);
+  }
+}
+
+:host([overlayed]) {
+  position: relative;
+
+  button {
+    position: absolute;
+    inset: 0;
+    width: 100% /* FF fix */;
+    display: grid;
+    border: none;
+    background-color: transparent;
+    pointer-events: all;
+    padding: 0;
+  }
+}

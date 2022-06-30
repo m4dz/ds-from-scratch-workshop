@@ -1,0 +1,21 @@
+@use '../../mixins.scss';
+
+:host {
+  display: grid;
+  place-content: center;
+}
+
+i {
+  background: var(--icon-color, #000);
+
+  mask: var(--icon) center / contain no-repeat;
+  -webkit-mask: var(--icon) center / contain no-repeat;
+
+  display: inline-block;
+  width: var(--icon-size, var(--size-8));
+  height: var(--icon-size, var(--size-8));
+
+  span {
+    @include mixins.sr-only;
+  }
+}

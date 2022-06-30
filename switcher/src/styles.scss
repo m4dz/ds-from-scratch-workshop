@@ -1,0 +1,8 @@
+@use '../../mixins.scss';
+// @import '../../tokens/open-props.css';
+
+:host {
+  --toggle-pad: var(--size-2);
+  --toggle-size: var(--size-4);
+  --icon-size: var(--toggle-size);
+}

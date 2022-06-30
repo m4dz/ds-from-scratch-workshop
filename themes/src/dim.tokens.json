@@ -1,0 +1,33 @@
+{
+  "theme": {
+    "dim": {
+      "brand": {
+        "value": "{orange.4}"
+      },
+      "text1": {
+        "value": "{gray.3}"
+      },
+      "text2": {
+        "value": "{gray.4}"
+      },
+      "surface1": {
+        "value": "{gray.8}"
+      },
+      "surface2": {
+        "value": "{gray.7}"
+      },
+      "surface3": {
+        "value": "{gray.6}"
+      },
+      "surface4": {
+        "value": "{gray.5}"
+      },
+      "surface-shadow": {
+        "value": "200 10% 13%"
+      },
+      "shadow-strength": {
+        "value": "20%"
+      }
+    }
+  }
+}

@@ -1,0 +1,14 @@
+@mixin theme($name, $color-scheme: light) {
+  --brand: var(--theme-#{$name}-brand);
+  --text1: var(--theme-#{$name}-text1);
+  --text2: var(--theme-#{$name}-text2);
+  --surface1: var(--theme-#{$name}-surface1);
+  --surface2: var(--theme-#{$name}-surface2);
+  --surface3: var(--theme-#{$name}-surface3);
+  --surface4: var(--theme-#{$name}-surface4);
+  --surface-shadow: var(--theme-#{$name}-surface-shadow);
+  --shadow-strength: var(--theme-#{$name}-shadow-strength);
+
+  color-scheme: $color-scheme;
+  accent-color: var(--brand);
+}

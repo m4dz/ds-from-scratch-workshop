@@ -1,0 +1,42 @@
+{
+ "packages": {
+  "dir": "",
+  "menu": [
+   [
+    "TOKENS",
+    [
+     "tokens",
+     "colors",
+     "sizes",
+     "font",
+     "radius",
+     "border",
+     "themes"
+    ]
+   ],
+   [
+    "CORE",
+    [
+     "heading",
+     "text",
+     "icon",
+     "button"
+    ]
+   ],
+   [
+    "COMPONENTS",
+    [
+     "swatch",
+     "toggle",
+     "switcher"
+    ]
+   ],
+   [
+    "INFRASTRUCTURE",
+    [
+     "doc-layout"
+    ]
+   ]
+  ]
+ }
+}

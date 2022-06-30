@@ -1,0 +1,40 @@
+@use '../../mixins.scss';
+
+dockit-layout {
+  --proxy--dockit-layout-bg: var(--surface1);
+  --proxy--dockit-layout-header-border-color: var(--surface4);
+  --proxy--dockit-layout-toggle-button-bg: var(--brand);
+  --proxy--dockit-layout-toggle-button-color: var(--surface1);
+  // --proxy--dockit-layout-navigation-link-color: var(--brand);
+  --proxy--dockit-layout-navigation-current-link-color: var(--brand);
+}
+
+dockit-css-showcases code {
+  font-size: var(--font-size-0);
+}
+
+.box {
+  width: var(--size-10);
+  height: var(--size-10);
+  @include mixins.box-shadow;
+  border-radius: var(--radius-1);
+
+  &.wide {
+    width: var(--size-14);
+    height: var(--size-14);
+    background-color: var(--brand);
+  }
+
+  &.border {
+    border-style: solid;
+    border-color: var(--brand);
+  }
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  width: max-content;
+  font-size: 1.5rem;
+}

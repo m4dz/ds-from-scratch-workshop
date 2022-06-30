@@ -1,0 +1,15 @@
+@use '../../mixins.scss';
+
+p,
+ul,
+ol {
+  @include mixins.text();
+}
+
+p strong {
+  @include mixins.strong();
+}
+
+a {
+  color: var(--brand);
+}

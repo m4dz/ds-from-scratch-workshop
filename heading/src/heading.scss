@@ -1,0 +1,9 @@
+@use '../../mixins.scss';
+
+h1 {
+  @include mixins.heading();
+}
+
+h2 {
+  @include mixins.heading(2);
+}

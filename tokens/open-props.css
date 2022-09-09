@@ -1,9 +1,49 @@
 /**
- * Do not edit directly
- * Generated on Fri, 09 Sep 2022 11:38:26 GMT
+ * Do not edit directly, this file was auto-generated
  */
 
 :where(html) {
+  --token-set-order-0: global;
+  --token-set-order-1: themeDark;
+  --token-set-order-2: themeDim;
+  --token-set-order-3: themeGrape;
+  --token-set-order-4: themeLight;
+  --theme-light-brand: #fd7e14;
+  --theme-light-text1: #343a40;
+  --theme-light-text2: #495057;
+  --theme-light-surface1: #f8f9fa;
+  --theme-light-surface2: #f1f3f5;
+  --theme-light-surface3: #e9ecef;
+  --theme-light-surface4: #dee2e6;
+  --theme-light-surface-shadow: 200 10% 20%;
+  --theme-light-shadow-strength: 2%;
+  --theme-grape-brand: #cc5de8;
+  --theme-grape-text1: #862e9c;
+  --theme-grape-text2: #ae3ec9;
+  --theme-grape-surface1: #f8f0fc;
+  --theme-grape-surface2: #f3d9fa;
+  --theme-grape-surface3: #eebefa;
+  --theme-grape-surface4: #e599f7;
+  --theme-grape-surface-shadow: 288 30% 20%;
+  --theme-grape-shadow-strength: 2%;
+  --theme-dim-brand: #ffa94d;
+  --theme-dim-text1: #dee2e6;
+  --theme-dim-text2: #ced4da;
+  --theme-dim-surface1: #343a40;
+  --theme-dim-surface2: #495057;
+  --theme-dim-surface3: #868e96;
+  --theme-dim-surface4: #adb5bd;
+  --theme-dim-surface-shadow: 200 10% 13%;
+  --theme-dim-shadow-strength: 20%;
+  --theme-dark-brand: #ffc078;
+  --theme-dark-text1: #f1f3f5;
+  --theme-dark-text2: #dee2e6;
+  --theme-dark-surface1: #212529;
+  --theme-dark-surface2: #343a40;
+  --theme-dark-surface3: #495057;
+  --theme-dark-surface4: #868e96;
+  --theme-dark-surface-shadow: 200 50% 3%;
+  --theme-dark-shadow-strength: 80%;
   --border-size-1: 1px;
   --border-size-2: 2px;
   --border-size-3: 5px;
@@ -95,40 +135,4 @@
   --size-content-3: 60rem;
   --size-000: -0.5rem;
   --size-00: -0.25rem;
-  --theme-dark-brand: #ffc078;
-  --theme-dark-text1: #f1f3f5;
-  --theme-dark-text2: #dee2e6;
-  --theme-dark-surface1: #212529;
-  --theme-dark-surface2: #343a40;
-  --theme-dark-surface3: #495057;
-  --theme-dark-surface4: #868e96;
-  --theme-dark-surface-shadow: 200 50% 3%;
-  --theme-dark-shadow-strength: 80%;
-  --theme-dim-brand: #ffa94d;
-  --theme-dim-text1: #dee2e6;
-  --theme-dim-text2: #ced4da;
-  --theme-dim-surface1: #343a40;
-  --theme-dim-surface2: #495057;
-  --theme-dim-surface3: #868e96;
-  --theme-dim-surface4: #adb5bd;
-  --theme-dim-surface-shadow: 200 10% 13%;
-  --theme-dim-shadow-strength: 20%;
-  --theme-grape-brand: #cc5de8;
-  --theme-grape-text1: #862e9c;
-  --theme-grape-text2: #ae3ec9;
-  --theme-grape-surface1: #f8f0fc;
-  --theme-grape-surface2: #f3d9fa;
-  --theme-grape-surface3: #eebefa;
-  --theme-grape-surface4: #e599f7;
-  --theme-grape-surface-shadow: 288 30% 20%;
-  --theme-grape-shadow-strength: 2%;
-  --theme-light-brand: #fd7e14;
-  --theme-light-text1: #343a40;
-  --theme-light-text2: #495057;
-  --theme-light-surface1: #f8f9fa;
-  --theme-light-surface2: #f1f3f5;
-  --theme-light-surface3: #e9ecef;
-  --theme-light-surface4: #dee2e6;
-  --theme-light-surface-shadow: 200 10% 20%;
-  --theme-light-shadow-strength: 2%;
 }

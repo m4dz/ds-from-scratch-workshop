@@ -44,6 +44,8 @@
   --theme-dark-surface4: #868e96;
   --theme-dark-surface-shadow: 200 50% 3%;
   --theme-dark-shadow-strength: 80%;
+  --shadow-1: [object Object];
+  --new-shadow: [object Object],[object Object];
   --border-size-1: 1px;
   --border-size-2: 2px;
   --border-size-3: 5px;

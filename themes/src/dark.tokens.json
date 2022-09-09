@@ -1,6 +1,6 @@
 {
   "theme": {
-    "tokenset": "theme",
+    "tokenset": "tema",
     "dark": {
       "brand": {
         "value": "{orange.3}"

@@ -1897,7 +1897,9 @@
           }
         }
       }
-    },
+    }
+  },
+  "theme-dim$": {
     "theme-dim": {
       "dim": {
         "brand": {
@@ -2063,7 +2065,9 @@
           }
         }
       }
-    },
+    }
+  },
+  "theme-grape$": {
     "theme-grape": {
       "grape": {
         "brand": {
@@ -2229,7 +2233,9 @@
           }
         }
       }
-    },
+    }
+  },
+  "theme-light$": {
     "theme-light": {
       "light": {
         "brand": {

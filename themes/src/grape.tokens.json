@@ -1,6 +1,6 @@
 {
   "theme-grape": {
-    "tokenset": "theme-dark$",
+    "tokenset": "theme-grape$",
     "grape": {
       "brand": {
         "value": "{grape.5}"

@@ -1,6 +1,6 @@
 {
   "theme": {
-    "tokenset": "theme-dim",
+    "tokenset": "theme",
     "dim": {
       "brand": {
         "value": "{orange.4}"

@@ -178,7 +178,7 @@
         ]
       },
       "4": {
-        "value": "#da77f2",
+        "value": "#da77f3",
         "type": "color",
         "filePath": "colors/src/grape.tokens.json",
         "isSource": true,
@@ -2564,5 +2564,15 @@
         ]
       }
     }
+  },
+  "$themes": [],
+  "$metadata": {
+    "tokenSetOrder": [
+      "global",
+      "themeDark",
+      "themeDim",
+      "themeGrape",
+      "themeLight"
+    ]
   }
 }

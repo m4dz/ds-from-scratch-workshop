@@ -1,13 +1,12 @@
 import styles from './styles.scss?inline';
 
-function iconify(strings, icn) {
-  return `${strings[0]}https://api.iconify.design/ph:${icn}.svg${strings[1]}`;
-}
-
 const template = document.createElement('template');
 template.innerHTML = `
   <style>${styles}</style>
-  <i><span><slot></span></i>`;
+  <i>
+    <span class="icn material-symbols-outlined"></span>
+    <span class="caption"><slot></span>
+  </i>`;
 
 class Icon extends HTMLElement {
   constructor() {
@@ -22,9 +21,7 @@ class Icon extends HTMLElement {
 
   setIcon() {
     const icn = this.getAttribute('icn');
-    this.shadowRoot
-      .querySelector('i')
-      .setAttribute('style', iconify`--icon: url(${icn})`);
+    this.shadowRoot.querySelector('.icn').textContent = icn;
   }
 }
 

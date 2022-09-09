@@ -1,3 +1,9 @@
 import '..';
 
-export const switcherDefault = () => `<ds-switcher></ds-switcher>`;
+export default {
+  render: () => {
+    return `<ds-switcher></ds-switcher>`;
+  },
+};
+
+export const switcher_default = {};

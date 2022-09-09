@@ -30,11 +30,17 @@ section {
   grid-auto-rows: var(--swatch-size);
   gap: var(--size-6);
 
-  & > * {
-    @include mixins.heading();
-    border-radius: var(--radius-3);
-    display: grid;
-    place-content: center;
+  .surface1 {
+    @include mixins.card(1);
+  }
+  .surface2 {
+    @include mixins.card(2);
+  }
+  .surface3 {
+    @include mixins.card(3, true);
+  }
+  .surface4 {
+    @include mixins.card(4, true);
   }
 }
 
@@ -71,27 +77,6 @@ section {
   background-color: var(--brand);
 }
 
-.surface1 {
-  background-color: var(--surface1);
-  color: var(--text2);
-}
-
-.surface2 {
-  background-color: var(--surface2);
-  color: var(--text2);
-}
-
-.surface3 {
-  background-color: var(--surface3);
-  color: var(--text1);
-}
-
-.surface4 {
-  background-color: var(--surface4);
-  color: var(--text1);
-}
-
-.dot,
-.surface {
+.dot {
   @include mixins.box-shadow;
 }

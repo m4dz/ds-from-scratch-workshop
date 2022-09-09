@@ -30,11 +30,11 @@
       "type": "color"
     },
     "surface-shadow": {
-      "value": "200 50% 3%",
+      "value": "{shadow.dark.tint}",
       "type": "boxShadow"
     },
     "shadow-strength": {
-      "value": "80%",
+      "value": "{shadow.dark.strenght}",
       "type": "opacity"
     }
   }

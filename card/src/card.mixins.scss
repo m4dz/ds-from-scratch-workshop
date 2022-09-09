@@ -1,0 +1,17 @@
+@use '../../heading/src/heading.mixins.scss' as heading;
+@use '../../shadow/src/shadow.mixins.scss' as shadow;
+
+@mixin card($level: 1, $invert: false) {
+  min-width: var(--size-12);
+  min-height: var(--size-12);
+
+  @include heading.heading();
+  border-radius: var(--radius-3);
+  display: grid;
+  place-content: center;
+
+  background-color: var(--surface#{$level});
+  color: if($invert, var(--text1), var(--text2));
+
+  @include shadow.box-shadow;
+}

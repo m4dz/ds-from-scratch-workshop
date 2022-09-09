@@ -7,7 +7,8 @@ import '@divriots/dockit-core/css-showcases/dockit-css-showcases.define.js';
 
 import appStyles from '../../styles.scss?inline';
 import commonStyles from './styles.scss?inline';
-import logoSvg from './sunny-tech.svg?raw';
+// import logoSvg from './sunny-tech.svg?raw';
+const logoSvg = '';
 
 import '../../switcher';
 

@@ -38,7 +38,7 @@ myBytton.addEventListener('clicked', () => {
 
 ```html preview-story
 <ds-button primary>
-  <ds-icon icn="heart-fill"></ds-icon>
+  <ds-icon icn="search"></ds-icon>
   This is a primary button
 </ds-button>
 ```
@@ -48,7 +48,7 @@ myBytton.addEventListener('clicked', () => {
 <ds-button overlayed>
   <ds-icon
     slot="content"
-    icn="crosshair-simple"
+    icn="file_upload"
     style="--size: var(--size-8); --color: var(--brand)"
   ></ds-icon>
 </ds-button>

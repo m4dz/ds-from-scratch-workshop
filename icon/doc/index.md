@@ -23,13 +23,13 @@ default in the final rendering on non-assistive devices.
 ## Examples
 
 ```html preview-story
-<ds-icon icn="sun-bold">light</ds-icon>
+<ds-icon icn="lightbulb">light</ds-icon>
 ```
 
 ```html preview-story
-<ds-icon icn="moon-fill" style="--icon-color: var(--orange-5)"></ds-icon>
+<ds-icon icn="light" style="--icon-color: var(--orange-5)"></ds-icon>
 ```
 
 ```html preview-story
-<ds-icon icn="drop" style="--icon-size: var(--size-12)"></ds-icon>
+<ds-icon icn="search" style="--icon-size: var(--size-12)"></ds-icon>
 ```

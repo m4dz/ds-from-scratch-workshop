@@ -1733,744 +1733,664 @@
   },
   "themeDark": {
     "theme-dark": {
-      "dark": {
-        "brand": {
+      "brand": {
+        "value": "{orange.3}",
+        "type": "color",
+        "filePath": "themes/src/dark.tokens.json",
+        "isSource": true,
+        "original": {
           "value": "{orange.3}",
-          "type": "color",
-          "filePath": "themes/src/dark.tokens.json",
-          "isSource": true,
-          "original": {
-            "value": "{orange.3}",
-            "type": "color"
-          },
-          "attributes": {
-            "category": "theme-dark",
-            "type": "dark",
-            "item": "brand"
-          },
-          "path": {
-            "0": "theme-dark",
-            "1": "dark",
-            "2": "brand"
-          }
+          "type": "color"
         },
-        "text1": {
+        "attributes": {
+          "category": "theme-dark",
+          "type": "brand"
+        },
+        "path": {
+          "0": "theme-dark",
+          "1": "brand"
+        }
+      },
+      "text1": {
+        "value": "{gray.1}",
+        "type": "color",
+        "filePath": "themes/src/dark.tokens.json",
+        "isSource": true,
+        "original": {
           "value": "{gray.1}",
-          "type": "color",
-          "filePath": "themes/src/dark.tokens.json",
-          "isSource": true,
-          "original": {
-            "value": "{gray.1}",
-            "type": "color"
-          },
-          "attributes": {
-            "category": "theme-dark",
-            "type": "dark",
-            "item": "text1"
-          },
-          "path": {
-            "0": "theme-dark",
-            "1": "dark",
-            "2": "text1"
-          }
+          "type": "color"
         },
-        "text2": {
+        "attributes": {
+          "category": "theme-dark",
+          "type": "text1"
+        },
+        "path": {
+          "0": "theme-dark",
+          "1": "text1"
+        }
+      },
+      "text2": {
+        "value": "{gray.3}",
+        "type": "color",
+        "filePath": "themes/src/dark.tokens.json",
+        "isSource": true,
+        "original": {
           "value": "{gray.3}",
-          "type": "color",
-          "filePath": "themes/src/dark.tokens.json",
-          "isSource": true,
-          "original": {
-            "value": "{gray.3}",
-            "type": "color"
-          },
-          "attributes": {
-            "category": "theme-dark",
-            "type": "dark",
-            "item": "text2"
-          },
-          "path": {
-            "0": "theme-dark",
-            "1": "dark",
-            "2": "text2"
-          }
+          "type": "color"
         },
-        "surface1": {
+        "attributes": {
+          "category": "theme-dark",
+          "type": "text2"
+        },
+        "path": {
+          "0": "theme-dark",
+          "1": "text2"
+        }
+      },
+      "surface1": {
+        "value": "{gray.9}",
+        "type": "color",
+        "filePath": "themes/src/dark.tokens.json",
+        "isSource": true,
+        "original": {
           "value": "{gray.9}",
-          "type": "color",
-          "filePath": "themes/src/dark.tokens.json",
-          "isSource": true,
-          "original": {
-            "value": "{gray.9}",
-            "type": "color"
-          },
-          "attributes": {
-            "category": "theme-dark",
-            "type": "dark",
-            "item": "surface1"
-          },
-          "path": {
-            "0": "theme-dark",
-            "1": "dark",
-            "2": "surface1"
-          }
+          "type": "color"
         },
-        "surface2": {
+        "attributes": {
+          "category": "theme-dark",
+          "type": "surface1"
+        },
+        "path": {
+          "0": "theme-dark",
+          "1": "surface1"
+        }
+      },
+      "surface2": {
+        "value": "{gray.8}",
+        "type": "color",
+        "filePath": "themes/src/dark.tokens.json",
+        "isSource": true,
+        "original": {
           "value": "{gray.8}",
-          "type": "color",
-          "filePath": "themes/src/dark.tokens.json",
-          "isSource": true,
-          "original": {
-            "value": "{gray.8}",
-            "type": "color"
-          },
-          "attributes": {
-            "category": "theme-dark",
-            "type": "dark",
-            "item": "surface2"
-          },
-          "path": {
-            "0": "theme-dark",
-            "1": "dark",
-            "2": "surface2"
-          }
+          "type": "color"
         },
-        "surface3": {
+        "attributes": {
+          "category": "theme-dark",
+          "type": "surface2"
+        },
+        "path": {
+          "0": "theme-dark",
+          "1": "surface2"
+        }
+      },
+      "surface3": {
+        "value": "{gray.7}",
+        "type": "color",
+        "filePath": "themes/src/dark.tokens.json",
+        "isSource": true,
+        "original": {
           "value": "{gray.7}",
-          "type": "color",
-          "filePath": "themes/src/dark.tokens.json",
-          "isSource": true,
-          "original": {
-            "value": "{gray.7}",
-            "type": "color"
-          },
-          "attributes": {
-            "category": "theme-dark",
-            "type": "dark",
-            "item": "surface3"
-          },
-          "path": {
-            "0": "theme-dark",
-            "1": "dark",
-            "2": "surface3"
-          }
+          "type": "color"
         },
-        "surface4": {
+        "attributes": {
+          "category": "theme-dark",
+          "type": "surface3"
+        },
+        "path": {
+          "0": "theme-dark",
+          "1": "surface3"
+        }
+      },
+      "surface4": {
+        "value": "{gray.6}",
+        "type": "color",
+        "filePath": "themes/src/dark.tokens.json",
+        "isSource": true,
+        "original": {
           "value": "{gray.6}",
-          "type": "color",
-          "filePath": "themes/src/dark.tokens.json",
-          "isSource": true,
-          "original": {
-            "value": "{gray.6}",
-            "type": "color"
-          },
-          "attributes": {
-            "category": "theme-dark",
-            "type": "dark",
-            "item": "surface4"
-          },
-          "path": {
-            "0": "theme-dark",
-            "1": "dark",
-            "2": "surface4"
-          }
+          "type": "color"
         },
-        "surface-shadow": {
+        "attributes": {
+          "category": "theme-dark",
+          "type": "surface4"
+        },
+        "path": {
+          "0": "theme-dark",
+          "1": "surface4"
+        }
+      },
+      "surface-shadow": {
+        "value": "200 50% 3%",
+        "type": "boxShadow",
+        "filePath": "themes/src/dark.tokens.json",
+        "isSource": true,
+        "original": {
           "value": "200 50% 3%",
-          "type": "boxShadow",
-          "filePath": "themes/src/dark.tokens.json",
-          "isSource": true,
-          "original": {
-            "value": "200 50% 3%",
-            "type": "boxShadow"
-          },
-          "attributes": {
-            "category": "theme-dark",
-            "type": "dark",
-            "item": "surface-shadow"
-          },
-          "path": {
-            "0": "theme-dark",
-            "1": "dark",
-            "2": "surface-shadow"
-          }
+          "type": "boxShadow"
         },
-        "shadow-strength": {
+        "attributes": {
+          "category": "theme-dark",
+          "type": "surface-shadow"
+        },
+        "path": {
+          "0": "theme-dark",
+          "1": "surface-shadow"
+        }
+      },
+      "shadow-strength": {
+        "value": "80%",
+        "type": "opacity",
+        "filePath": "themes/src/dark.tokens.json",
+        "isSource": true,
+        "original": {
           "value": "80%",
-          "type": "opacity",
-          "filePath": "themes/src/dark.tokens.json",
-          "isSource": true,
-          "original": {
-            "value": "80%",
-            "type": "opacity"
-          },
-          "attributes": {
-            "category": "theme-dark",
-            "type": "dark",
-            "item": "shadow-strength"
-          },
-          "path": {
-            "0": "theme-dark",
-            "1": "dark",
-            "2": "shadow-strength"
-          }
+          "type": "opacity"
+        },
+        "attributes": {
+          "category": "theme-dark",
+          "type": "shadow-strength"
+        },
+        "path": {
+          "0": "theme-dark",
+          "1": "shadow-strength"
         }
       }
     }
   },
   "themeDim": {
     "theme-dim": {
-      "dim": {
-        "brand": {
+      "brand": {
+        "value": "{orange.4}",
+        "type": "color",
+        "filePath": "themes/src/dim.tokens.json",
+        "isSource": true,
+        "original": {
           "value": "{orange.4}",
-          "type": "color",
-          "filePath": "themes/src/dim.tokens.json",
-          "isSource": true,
-          "original": {
-            "value": "{orange.4}",
-            "type": "color"
-          },
-          "attributes": {
-            "category": "theme-dim",
-            "type": "dim",
-            "item": "brand"
-          },
-          "path": {
-            "0": "theme-dim",
-            "1": "dim",
-            "2": "brand"
-          }
+          "type": "color"
         },
-        "text1": {
+        "attributes": {
+          "category": "theme-dim",
+          "type": "brand"
+        },
+        "path": {
+          "0": "theme-dim",
+          "1": "brand"
+        }
+      },
+      "text1": {
+        "value": "{gray.3}",
+        "type": "color",
+        "filePath": "themes/src/dim.tokens.json",
+        "isSource": true,
+        "original": {
           "value": "{gray.3}",
-          "type": "color",
-          "filePath": "themes/src/dim.tokens.json",
-          "isSource": true,
-          "original": {
-            "value": "{gray.3}",
-            "type": "color"
-          },
-          "attributes": {
-            "category": "theme-dim",
-            "type": "dim",
-            "item": "text1"
-          },
-          "path": {
-            "0": "theme-dim",
-            "1": "dim",
-            "2": "text1"
-          }
+          "type": "color"
         },
-        "text2": {
+        "attributes": {
+          "category": "theme-dim",
+          "type": "text1"
+        },
+        "path": {
+          "0": "theme-dim",
+          "1": "text1"
+        }
+      },
+      "text2": {
+        "value": "{gray.4}",
+        "type": "color",
+        "filePath": "themes/src/dim.tokens.json",
+        "isSource": true,
+        "original": {
           "value": "{gray.4}",
-          "type": "color",
-          "filePath": "themes/src/dim.tokens.json",
-          "isSource": true,
-          "original": {
-            "value": "{gray.4}",
-            "type": "color"
-          },
-          "attributes": {
-            "category": "theme-dim",
-            "type": "dim",
-            "item": "text2"
-          },
-          "path": {
-            "0": "theme-dim",
-            "1": "dim",
-            "2": "text2"
-          }
+          "type": "color"
         },
-        "surface1": {
+        "attributes": {
+          "category": "theme-dim",
+          "type": "text2"
+        },
+        "path": {
+          "0": "theme-dim",
+          "1": "text2"
+        }
+      },
+      "surface1": {
+        "value": "{gray.8}",
+        "type": "color",
+        "filePath": "themes/src/dim.tokens.json",
+        "isSource": true,
+        "original": {
           "value": "{gray.8}",
-          "type": "color",
-          "filePath": "themes/src/dim.tokens.json",
-          "isSource": true,
-          "original": {
-            "value": "{gray.8}",
-            "type": "color"
-          },
-          "attributes": {
-            "category": "theme-dim",
-            "type": "dim",
-            "item": "surface1"
-          },
-          "path": {
-            "0": "theme-dim",
-            "1": "dim",
-            "2": "surface1"
-          }
+          "type": "color"
         },
-        "surface2": {
+        "attributes": {
+          "category": "theme-dim",
+          "type": "surface1"
+        },
+        "path": {
+          "0": "theme-dim",
+          "1": "surface1"
+        }
+      },
+      "surface2": {
+        "value": "{gray.7}",
+        "type": "color",
+        "filePath": "themes/src/dim.tokens.json",
+        "isSource": true,
+        "original": {
           "value": "{gray.7}",
-          "type": "color",
-          "filePath": "themes/src/dim.tokens.json",
-          "isSource": true,
-          "original": {
-            "value": "{gray.7}",
-            "type": "color"
-          },
-          "attributes": {
-            "category": "theme-dim",
-            "type": "dim",
-            "item": "surface2"
-          },
-          "path": {
-            "0": "theme-dim",
-            "1": "dim",
-            "2": "surface2"
-          }
+          "type": "color"
         },
-        "surface3": {
+        "attributes": {
+          "category": "theme-dim",
+          "type": "surface2"
+        },
+        "path": {
+          "0": "theme-dim",
+          "1": "surface2"
+        }
+      },
+      "surface3": {
+        "value": "{gray.6}",
+        "type": "color",
+        "filePath": "themes/src/dim.tokens.json",
+        "isSource": true,
+        "original": {
           "value": "{gray.6}",
-          "type": "color",
-          "filePath": "themes/src/dim.tokens.json",
-          "isSource": true,
-          "original": {
-            "value": "{gray.6}",
-            "type": "color"
-          },
-          "attributes": {
-            "category": "theme-dim",
-            "type": "dim",
-            "item": "surface3"
-          },
-          "path": {
-            "0": "theme-dim",
-            "1": "dim",
-            "2": "surface3"
-          }
+          "type": "color"
         },
-        "surface4": {
+        "attributes": {
+          "category": "theme-dim",
+          "type": "surface3"
+        },
+        "path": {
+          "0": "theme-dim",
+          "1": "surface3"
+        }
+      },
+      "surface4": {
+        "value": "{gray.5}",
+        "type": "color",
+        "filePath": "themes/src/dim.tokens.json",
+        "isSource": true,
+        "original": {
           "value": "{gray.5}",
-          "type": "color",
-          "filePath": "themes/src/dim.tokens.json",
-          "isSource": true,
-          "original": {
-            "value": "{gray.5}",
-            "type": "color"
-          },
-          "attributes": {
-            "category": "theme-dim",
-            "type": "dim",
-            "item": "surface4"
-          },
-          "path": {
-            "0": "theme-dim",
-            "1": "dim",
-            "2": "surface4"
-          }
+          "type": "color"
         },
-        "surface-shadow": {
+        "attributes": {
+          "category": "theme-dim",
+          "type": "surface4"
+        },
+        "path": {
+          "0": "theme-dim",
+          "1": "surface4"
+        }
+      },
+      "surface-shadow": {
+        "value": "200 10% 13%",
+        "type": "boxShadow",
+        "filePath": "themes/src/dim.tokens.json",
+        "isSource": true,
+        "original": {
           "value": "200 10% 13%",
-          "type": "boxShadow",
-          "filePath": "themes/src/dim.tokens.json",
-          "isSource": true,
-          "original": {
-            "value": "200 10% 13%",
-            "type": "boxShadow"
-          },
-          "attributes": {
-            "category": "theme-dim",
-            "type": "dim",
-            "item": "surface-shadow"
-          },
-          "path": {
-            "0": "theme-dim",
-            "1": "dim",
-            "2": "surface-shadow"
-          }
+          "type": "boxShadow"
         },
-        "shadow-strength": {
+        "attributes": {
+          "category": "theme-dim",
+          "type": "surface-shadow"
+        },
+        "path": {
+          "0": "theme-dim",
+          "1": "surface-shadow"
+        }
+      },
+      "shadow-strength": {
+        "value": "20%",
+        "type": "opacity",
+        "filePath": "themes/src/dim.tokens.json",
+        "isSource": true,
+        "original": {
           "value": "20%",
-          "type": "opacity",
-          "filePath": "themes/src/dim.tokens.json",
-          "isSource": true,
-          "original": {
-            "value": "20%",
-            "type": "opacity"
-          },
-          "attributes": {
-            "category": "theme-dim",
-            "type": "dim",
-            "item": "shadow-strength"
-          },
-          "path": {
-            "0": "theme-dim",
-            "1": "dim",
-            "2": "shadow-strength"
-          }
+          "type": "opacity"
+        },
+        "attributes": {
+          "category": "theme-dim",
+          "type": "shadow-strength"
+        },
+        "path": {
+          "0": "theme-dim",
+          "1": "shadow-strength"
         }
       }
     }
   },
   "themeGrape": {
     "theme-grape": {
-      "grape": {
-        "brand": {
+      "brand": {
+        "value": "{grape.5}",
+        "type": "color",
+        "filePath": "themes/src/grape.tokens.json",
+        "isSource": true,
+        "original": {
           "value": "{grape.5}",
-          "type": "color",
-          "filePath": "themes/src/grape.tokens.json",
-          "isSource": true,
-          "original": {
-            "value": "{grape.5}",
-            "type": "color"
-          },
-          "attributes": {
-            "category": "theme-grape",
-            "type": "grape",
-            "item": "brand"
-          },
-          "path": {
-            "0": "theme-grape",
-            "1": "grape",
-            "2": "brand"
-          }
+          "type": "color"
         },
-        "text1": {
+        "attributes": {
+          "category": "theme-grape",
+          "type": "brand"
+        },
+        "path": {
+          "0": "theme-grape",
+          "1": "brand"
+        }
+      },
+      "text1": {
+        "value": "{grape.9}",
+        "type": "color",
+        "filePath": "themes/src/grape.tokens.json",
+        "isSource": true,
+        "original": {
           "value": "{grape.9}",
-          "type": "color",
-          "filePath": "themes/src/grape.tokens.json",
-          "isSource": true,
-          "original": {
-            "value": "{grape.9}",
-            "type": "color"
-          },
-          "attributes": {
-            "category": "theme-grape",
-            "type": "grape",
-            "item": "text1"
-          },
-          "path": {
-            "0": "theme-grape",
-            "1": "grape",
-            "2": "text1"
-          }
+          "type": "color"
         },
-        "text2": {
+        "attributes": {
+          "category": "theme-grape",
+          "type": "text1"
+        },
+        "path": {
+          "0": "theme-grape",
+          "1": "text1"
+        }
+      },
+      "text2": {
+        "value": "{grape.7}",
+        "type": "color",
+        "filePath": "themes/src/grape.tokens.json",
+        "isSource": true,
+        "original": {
           "value": "{grape.7}",
-          "type": "color",
-          "filePath": "themes/src/grape.tokens.json",
-          "isSource": true,
-          "original": {
-            "value": "{grape.7}",
-            "type": "color"
-          },
-          "attributes": {
-            "category": "theme-grape",
-            "type": "grape",
-            "item": "text2"
-          },
-          "path": {
-            "0": "theme-grape",
-            "1": "grape",
-            "2": "text2"
-          }
+          "type": "color"
         },
-        "surface1": {
+        "attributes": {
+          "category": "theme-grape",
+          "type": "text2"
+        },
+        "path": {
+          "0": "theme-grape",
+          "1": "text2"
+        }
+      },
+      "surface1": {
+        "value": "{grape.0}",
+        "type": "color",
+        "filePath": "themes/src/grape.tokens.json",
+        "isSource": true,
+        "original": {
           "value": "{grape.0}",
-          "type": "color",
-          "filePath": "themes/src/grape.tokens.json",
-          "isSource": true,
-          "original": {
-            "value": "{grape.0}",
-            "type": "color"
-          },
-          "attributes": {
-            "category": "theme-grape",
-            "type": "grape",
-            "item": "surface1"
-          },
-          "path": {
-            "0": "theme-grape",
-            "1": "grape",
-            "2": "surface1"
-          }
+          "type": "color"
         },
-        "surface2": {
+        "attributes": {
+          "category": "theme-grape",
+          "type": "surface1"
+        },
+        "path": {
+          "0": "theme-grape",
+          "1": "surface1"
+        }
+      },
+      "surface2": {
+        "value": "{grape.1}",
+        "type": "color",
+        "filePath": "themes/src/grape.tokens.json",
+        "isSource": true,
+        "original": {
           "value": "{grape.1}",
-          "type": "color",
-          "filePath": "themes/src/grape.tokens.json",
-          "isSource": true,
-          "original": {
-            "value": "{grape.1}",
-            "type": "color"
-          },
-          "attributes": {
-            "category": "theme-grape",
-            "type": "grape",
-            "item": "surface2"
-          },
-          "path": {
-            "0": "theme-grape",
-            "1": "grape",
-            "2": "surface2"
-          }
+          "type": "color"
         },
-        "surface3": {
+        "attributes": {
+          "category": "theme-grape",
+          "type": "surface2"
+        },
+        "path": {
+          "0": "theme-grape",
+          "1": "surface2"
+        }
+      },
+      "surface3": {
+        "value": "{grape.2}",
+        "type": "color",
+        "filePath": "themes/src/grape.tokens.json",
+        "isSource": true,
+        "original": {
           "value": "{grape.2}",
-          "type": "color",
-          "filePath": "themes/src/grape.tokens.json",
-          "isSource": true,
-          "original": {
-            "value": "{grape.2}",
-            "type": "color"
-          },
-          "attributes": {
-            "category": "theme-grape",
-            "type": "grape",
-            "item": "surface3"
-          },
-          "path": {
-            "0": "theme-grape",
-            "1": "grape",
-            "2": "surface3"
-          }
+          "type": "color"
         },
-        "surface4": {
+        "attributes": {
+          "category": "theme-grape",
+          "type": "surface3"
+        },
+        "path": {
+          "0": "theme-grape",
+          "1": "surface3"
+        }
+      },
+      "surface4": {
+        "value": "{grape.3}",
+        "type": "color",
+        "filePath": "themes/src/grape.tokens.json",
+        "isSource": true,
+        "original": {
           "value": "{grape.3}",
-          "type": "color",
-          "filePath": "themes/src/grape.tokens.json",
-          "isSource": true,
-          "original": {
-            "value": "{grape.3}",
-            "type": "color"
-          },
-          "attributes": {
-            "category": "theme-grape",
-            "type": "grape",
-            "item": "surface4"
-          },
-          "path": {
-            "0": "theme-grape",
-            "1": "grape",
-            "2": "surface4"
-          }
+          "type": "color"
         },
-        "surface-shadow": {
+        "attributes": {
+          "category": "theme-grape",
+          "type": "surface4"
+        },
+        "path": {
+          "0": "theme-grape",
+          "1": "surface4"
+        }
+      },
+      "surface-shadow": {
+        "value": "288 30% 20%",
+        "type": "boxShadow",
+        "filePath": "themes/src/grape.tokens.json",
+        "isSource": true,
+        "original": {
           "value": "288 30% 20%",
-          "type": "boxShadow",
-          "filePath": "themes/src/grape.tokens.json",
-          "isSource": true,
-          "original": {
-            "value": "288 30% 20%",
-            "type": "boxShadow"
-          },
-          "attributes": {
-            "category": "theme-grape",
-            "type": "grape",
-            "item": "surface-shadow"
-          },
-          "path": {
-            "0": "theme-grape",
-            "1": "grape",
-            "2": "surface-shadow"
-          }
+          "type": "boxShadow"
         },
-        "shadow-strength": {
+        "attributes": {
+          "category": "theme-grape",
+          "type": "surface-shadow"
+        },
+        "path": {
+          "0": "theme-grape",
+          "1": "surface-shadow"
+        }
+      },
+      "shadow-strength": {
+        "value": "2%",
+        "type": "opacity",
+        "filePath": "themes/src/grape.tokens.json",
+        "isSource": true,
+        "original": {
           "value": "2%",
-          "type": "opacity",
-          "filePath": "themes/src/grape.tokens.json",
-          "isSource": true,
-          "original": {
-            "value": "2%",
-            "type": "opacity"
-          },
-          "attributes": {
-            "category": "theme-grape",
-            "type": "grape",
-            "item": "shadow-strength"
-          },
-          "path": {
-            "0": "theme-grape",
-            "1": "grape",
-            "2": "shadow-strength"
-          }
+          "type": "opacity"
+        },
+        "attributes": {
+          "category": "theme-grape",
+          "type": "shadow-strength"
+        },
+        "path": {
+          "0": "theme-grape",
+          "1": "shadow-strength"
         }
       }
     }
   },
   "themeLight": {
     "theme-light": {
-      "light": {
-        "brand": {
+      "brand": {
+        "value": "{orange.6}",
+        "type": "color",
+        "filePath": "themes/src/light.tokens.json",
+        "isSource": true,
+        "original": {
           "value": "{orange.6}",
-          "type": "color",
-          "filePath": "themes/src/light.tokens.json",
-          "isSource": true,
-          "original": {
-            "value": "{orange.6}",
-            "type": "color"
-          },
-          "attributes": {
-            "category": "theme-light",
-            "type": "light",
-            "item": "brand"
-          },
-          "path": {
-            "0": "theme-light",
-            "1": "light",
-            "2": "brand"
-          }
+          "type": "color"
         },
-        "text1": {
+        "attributes": {
+          "category": "theme-light",
+          "type": "brand"
+        },
+        "path": {
+          "0": "theme-light",
+          "1": "brand"
+        }
+      },
+      "text1": {
+        "value": "{gray.8}",
+        "type": "color",
+        "filePath": "themes/src/light.tokens.json",
+        "isSource": true,
+        "original": {
           "value": "{gray.8}",
-          "type": "color",
-          "filePath": "themes/src/light.tokens.json",
-          "isSource": true,
-          "original": {
-            "value": "{gray.8}",
-            "type": "color"
-          },
-          "attributes": {
-            "category": "theme-light",
-            "type": "light",
-            "item": "text1"
-          },
-          "path": {
-            "0": "theme-light",
-            "1": "light",
-            "2": "text1"
-          }
+          "type": "color"
         },
-        "text2": {
+        "attributes": {
+          "category": "theme-light",
+          "type": "text1"
+        },
+        "path": {
+          "0": "theme-light",
+          "1": "text1"
+        }
+      },
+      "text2": {
+        "value": "{gray.7}",
+        "type": "color",
+        "filePath": "themes/src/light.tokens.json",
+        "isSource": true,
+        "original": {
           "value": "{gray.7}",
-          "type": "color",
-          "filePath": "themes/src/light.tokens.json",
-          "isSource": true,
-          "original": {
-            "value": "{gray.7}",
-            "type": "color"
-          },
-          "attributes": {
-            "category": "theme-light",
-            "type": "light",
-            "item": "text2"
-          },
-          "path": {
-            "0": "theme-light",
-            "1": "light",
-            "2": "text2"
-          }
+          "type": "color"
         },
-        "surface1": {
+        "attributes": {
+          "category": "theme-light",
+          "type": "text2"
+        },
+        "path": {
+          "0": "theme-light",
+          "1": "text2"
+        }
+      },
+      "surface1": {
+        "value": "{gray.0}",
+        "type": "color",
+        "filePath": "themes/src/light.tokens.json",
+        "isSource": true,
+        "original": {
           "value": "{gray.0}",
-          "type": "color",
-          "filePath": "themes/src/light.tokens.json",
-          "isSource": true,
-          "original": {
-            "value": "{gray.0}",
-            "type": "color"
-          },
-          "attributes": {
-            "category": "theme-light",
-            "type": "light",
-            "item": "surface1"
-          },
-          "path": {
-            "0": "theme-light",
-            "1": "light",
-            "2": "surface1"
-          }
+          "type": "color"
         },
-        "surface2": {
+        "attributes": {
+          "category": "theme-light",
+          "type": "surface1"
+        },
+        "path": {
+          "0": "theme-light",
+          "1": "surface1"
+        }
+      },
+      "surface2": {
+        "value": "{gray.1}",
+        "type": "color",
+        "filePath": "themes/src/light.tokens.json",
+        "isSource": true,
+        "original": {
           "value": "{gray.1}",
-          "type": "color",
-          "filePath": "themes/src/light.tokens.json",
-          "isSource": true,
-          "original": {
-            "value": "{gray.1}",
-            "type": "color"
-          },
-          "attributes": {
-            "category": "theme-light",
-            "type": "light",
-            "item": "surface2"
-          },
-          "path": {
-            "0": "theme-light",
-            "1": "light",
-            "2": "surface2"
-          }
+          "type": "color"
         },
-        "surface3": {
+        "attributes": {
+          "category": "theme-light",
+          "type": "surface2"
+        },
+        "path": {
+          "0": "theme-light",
+          "1": "surface2"
+        }
+      },
+      "surface3": {
+        "value": "{gray.2}",
+        "type": "color",
+        "filePath": "themes/src/light.tokens.json",
+        "isSource": true,
+        "original": {
           "value": "{gray.2}",
-          "type": "color",
-          "filePath": "themes/src/light.tokens.json",
-          "isSource": true,
-          "original": {
-            "value": "{gray.2}",
-            "type": "color"
-          },
-          "attributes": {
-            "category": "theme-light",
-            "type": "light",
-            "item": "surface3"
-          },
-          "path": {
-            "0": "theme-light",
-            "1": "light",
-            "2": "surface3"
-          }
+          "type": "color"
         },
-        "surface4": {
+        "attributes": {
+          "category": "theme-light",
+          "type": "surface3"
+        },
+        "path": {
+          "0": "theme-light",
+          "1": "surface3"
+        }
+      },
+      "surface4": {
+        "value": "{gray.3}",
+        "type": "color",
+        "filePath": "themes/src/light.tokens.json",
+        "isSource": true,
+        "original": {
           "value": "{gray.3}",
-          "type": "color",
-          "filePath": "themes/src/light.tokens.json",
-          "isSource": true,
-          "original": {
-            "value": "{gray.3}",
-            "type": "color"
-          },
-          "attributes": {
-            "category": "theme-light",
-            "type": "light",
-            "item": "surface4"
-          },
-          "path": {
-            "0": "theme-light",
-            "1": "light",
-            "2": "surface4"
-          }
+          "type": "color"
         },
-        "surface-shadow": {
+        "attributes": {
+          "category": "theme-light",
+          "type": "surface4"
+        },
+        "path": {
+          "0": "theme-light",
+          "1": "surface4"
+        }
+      },
+      "surface-shadow": {
+        "value": "200 10% 20%",
+        "type": "boxShadow",
+        "filePath": "themes/src/light.tokens.json",
+        "isSource": true,
+        "original": {
           "value": "200 10% 20%",
-          "type": "boxShadow",
-          "filePath": "themes/src/light.tokens.json",
-          "isSource": true,
-          "original": {
-            "value": "200 10% 20%",
-            "type": "boxShadow"
-          },
-          "attributes": {
-            "category": "theme-light",
-            "type": "light",
-            "item": "surface-shadow"
-          },
-          "path": {
-            "0": "theme-light",
-            "1": "light",
-            "2": "surface-shadow"
-          }
+          "type": "boxShadow"
         },
-        "shadow-strength": {
+        "attributes": {
+          "category": "theme-light",
+          "type": "surface-shadow"
+        },
+        "path": {
+          "0": "theme-light",
+          "1": "surface-shadow"
+        }
+      },
+      "shadow-strength": {
+        "value": "2%",
+        "type": "opacity",
+        "filePath": "themes/src/light.tokens.json",
+        "isSource": true,
+        "original": {
           "value": "2%",
-          "type": "opacity",
-          "filePath": "themes/src/light.tokens.json",
-          "isSource": true,
-          "original": {
-            "value": "2%",
-            "type": "opacity"
-          },
-          "attributes": {
-            "category": "theme-light",
-            "type": "light",
-            "item": "shadow-strength"
-          },
-          "path": {
-            "0": "theme-light",
-            "1": "light",
-            "2": "shadow-strength"
-          }
+          "type": "opacity"
+        },
+        "attributes": {
+          "category": "theme-light",
+          "type": "shadow-strength"
+        },
+        "path": {
+          "0": "theme-light",
+          "1": "shadow-strength"
         }
       }
     }

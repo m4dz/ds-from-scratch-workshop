@@ -1,43 +1,41 @@
 {
   "theme-dim": {
     "tokenset": "themeDim",
-    "dim": {
-      "brand": {
-        "value": "{orange.4}",
-        "type": "color"
-      },
-      "text1": {
-        "value": "{gray.3}",
-        "type": "color"
-      },
-      "text2": {
-        "value": "{gray.4}",
-        "type": "color"
-      },
-      "surface1": {
-        "value": "{gray.8}",
-        "type": "color"
-      },
-      "surface2": {
-        "value": "{gray.7}",
-        "type": "color"
-      },
-      "surface3": {
-        "value": "{gray.6}",
-        "type": "color"
-      },
-      "surface4": {
-        "value": "{gray.5}",
-        "type": "color"
-      },
-      "surface-shadow": {
-        "value": "200 10% 13%",
-        "type": "boxShadow"
-      },
-      "shadow-strength": {
-        "value": "20%",
-        "type": "opacity"
-      }
+    "brand": {
+      "value": "{orange.4}",
+      "type": "color"
+    },
+    "text1": {
+      "value": "{gray.3}",
+      "type": "color"
+    },
+    "text2": {
+      "value": "{gray.4}",
+      "type": "color"
+    },
+    "surface1": {
+      "value": "{gray.8}",
+      "type": "color"
+    },
+    "surface2": {
+      "value": "{gray.7}",
+      "type": "color"
+    },
+    "surface3": {
+      "value": "{gray.6}",
+      "type": "color"
+    },
+    "surface4": {
+      "value": "{gray.5}",
+      "type": "color"
+    },
+    "surface-shadow": {
+      "value": "200 10% 13%",
+      "type": "boxShadow"
+    },
+    "shadow-strength": {
+      "value": "20%",
+      "type": "opacity"
     }
   }
 }

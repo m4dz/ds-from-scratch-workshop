@@ -15,7 +15,7 @@
   --theme-light-surface2: #f1f3f5;
   --theme-light-surface3: #e9ecef;
   --theme-light-surface4: #dee2e6;
-  --theme-light-surface-shadow: [object Object];
+  --theme-light-surface-shadow: 200 10% 20%;
   --theme-light-shadow-strength: 2%;
   --theme-grape-brand: #5de8d6;
   --theme-grape-text1: #862e9c;
@@ -24,7 +24,7 @@
   --theme-grape-surface2: #f3d9fa;
   --theme-grape-surface3: #eebefa;
   --theme-grape-surface4: #e599f7;
-  --theme-grape-surface-shadow: [object Object];
+  --theme-grape-surface-shadow: 288 30% 20%;
   --theme-grape-shadow-strength: 2%;
   --theme-dim-brand: #ffa94d;
   --theme-dim-text1: #dee2e6;
@@ -33,7 +33,7 @@
   --theme-dim-surface2: #495057;
   --theme-dim-surface3: #868e96;
   --theme-dim-surface4: #adb5bd;
-  --theme-dim-surface-shadow: [object Object];
+  --theme-dim-surface-shadow: 200 10% 13%;
   --theme-dim-shadow-strength: 20%;
   --theme-dark-brand: #ffc078;
   --theme-dark-text1: #f1f3f5;
@@ -42,7 +42,7 @@
   --theme-dark-surface2: #343a40;
   --theme-dark-surface3: #495057;
   --theme-dark-surface4: #868e96;
-  --theme-dark-surface-shadow: [object Object];
+  --theme-dark-surface-shadow: 200 50% 3%;
   --theme-dark-shadow-strength: 80%;
   --border-size-1: 1px;
   --border-size-2: 2px;

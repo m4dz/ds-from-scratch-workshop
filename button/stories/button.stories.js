@@ -5,10 +5,11 @@ export default {
   argTypes: {
     variant: {
       control: { type: 'select' },
-      options: ['primary', 'overlayed'],
+      options: ['default', 'primary', 'icon', 'overlayed'],
     },
     icon: {
       control: { type: 'text' },
+      defaultValue: 'favorite',
     },
   },
   render: ({ variant, icon }) => {
@@ -23,7 +24,7 @@ export default {
       l = `<span slot="content">${l}</span>`;
     }
 
-    if (icon) {
+    if (variant == 'icon') {
       l = `<ds-icon icn="${icon}"></ds-icon> ${l} with icon`;
     }
 
@@ -41,7 +42,7 @@ export const button_primary = {
 
 export const button_icon = {
   args: {
-    icon: 'favorite',
+    variant: 'icon',
   },
 };
 

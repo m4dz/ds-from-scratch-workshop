@@ -20,9 +20,9 @@
       }
     },
     "colored": {
-      "strength": {
-        "value": "2%",
-        "type": "opacity"
+      "tint": {
+        "value": "288 30% 20%",
+        "type": "color"
       }
     }
   }

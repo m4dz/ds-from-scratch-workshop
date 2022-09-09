@@ -426,6 +426,10 @@
       "shadow-strength": {
         "value": "80%",
         "type": "opacity"
+      },
+      "button": {
+        "value": "{theme-dark.brand}",
+        "type": "color"
       }
     },
     "--shadow-1": {

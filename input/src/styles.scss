@@ -1,0 +1,54 @@
+@use '../../mixins.scss';
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+:host {
+  --c: var(--input-color, var(--text2));
+  --bg: var(--input-background, var(--surface2));
+  --bd: var(--input-border, var(--surface3));
+  --fc: var(--input-focus, var(--brand));
+
+  --icon-size: var(--font-size-2);
+  --icon-color: var(--c);
+
+  display: inline-grid;
+}
+
+.wrapper {
+  display: inline-flex;
+  padding: var(--size-1);
+
+  border: var(--border-size-2) solid var(--bd);
+  border-radius: var(--radius-round);
+
+  color: var(--c);
+  background-color: var(--bg);
+}
+
+.wrapper:focus-within {
+  border-color: var(--fc);
+}
+
+input {
+  margin: 0 var(--size-2);
+  border: none;
+  background-color: var(--bg);
+}
+
+input:focus,
+input:focus-visible {
+  border: none;
+  outline: none;
+}
+
+input::placeholder {
+  font-style: italic;
+}
+
+ds-icon {
+  margin-left: var(--size-1);
+}

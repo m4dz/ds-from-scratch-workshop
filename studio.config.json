@@ -1,43 +1,44 @@
 {
- "packages": {
-  "dir": "",
-  "menu": [
-   [
-    "TOKENS",
-    [
-     "tokens",
-     "colors",
-     "sizes",
-     "font",
-     "radius",
-     "border",
-     "themes",
-     "shadow"
+  "packages": {
+    "dir": "",
+    "menu": [
+      [
+        "TOKENS",
+        [
+          "tokens",
+          "colors",
+          "sizes",
+          "font",
+          "radius",
+          "border",
+          "themes",
+          "shadow"
+        ]
+      ],
+      [
+        "CORE",
+        [
+          "heading",
+          "text",
+          "icon",
+          "button",
+          "input"
+        ]
+      ],
+      [
+        "COMPONENTS",
+        [
+          "toggle",
+          "switcher",
+          "card"
+        ]
+      ],
+      [
+        "INFRASTRUCTURE",
+        [
+          "doc-layout"
+        ]
+      ]
     ]
-   ],
-   [
-    "CORE",
-    [
-     "heading",
-     "text",
-     "icon",
-     "button"
-    ]
-   ],
-   [
-    "COMPONENTS",
-    [
-     "toggle",
-     "switcher",
-     "card"
-    ]
-   ],
-   [
-    "INFRASTRUCTURE",
-    [
-     "doc-layout"
-    ]
-   ]
-  ]
- }
+  }
 }

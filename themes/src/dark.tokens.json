@@ -1,33 +1,41 @@
 {
-  "theme": {
-    "dark": {
-      "brand": {
-        "value": "{orange.3}"
-      },
-      "text1": {
-        "value": "{gray.1}"
-      },
-      "text2": {
-        "value": "{gray.3}"
-      },
-      "surface1": {
-        "value": "{gray.9}"
-      },
-      "surface2": {
-        "value": "{gray.8}"
-      },
-      "surface3": {
-        "value": "{gray.7}"
-      },
-      "surface4": {
-        "value": "{gray.6}"
-      },
-      "surface-shadow": {
-        "value": "200 50% 3%"
-      },
-      "shadow-strength": {
-        "value": "80%"
-      }
+  "theme-dark": {
+    "tokenset": "themeDark",
+    "brand": {
+      "value": "{orange.3}",
+      "type": "color"
+    },
+    "text1": {
+      "value": "{gray.1}",
+      "type": "color"
+    },
+    "text2": {
+      "value": "{gray.3}",
+      "type": "color"
+    },
+    "surface1": {
+      "value": "{gray.9}",
+      "type": "color"
+    },
+    "surface2": {
+      "value": "{gray.8}",
+      "type": "color"
+    },
+    "surface3": {
+      "value": "{gray.7}",
+      "type": "color"
+    },
+    "surface4": {
+      "value": "{gray.6}",
+      "type": "color"
+    },
+    "surface-shadow": {
+      "value": "200 50% 3%",
+      "type": "boxShadow"
+    },
+    "shadow-strength": {
+      "value": "80%",
+      "type": "opacity"
     }
   }
 }

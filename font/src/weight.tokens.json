@@ -1,32 +1,42 @@
 {
   "font": {
+    "tokenset": "global",
     "weight": {
       "1": {
-        "value": "100"
+        "value": "100",
+        "type": "fontWeight"
       },
       "2": {
-        "value": "200"
+        "value": "200",
+        "type": "fontWeight"
       },
       "3": {
-        "value": "300"
+        "value": "300",
+        "type": "fontWeight"
       },
       "4": {
-        "value": "400"
+        "value": "400",
+        "type": "fontWeight"
       },
       "5": {
-        "value": "500"
+        "value": "500",
+        "type": "fontWeight"
       },
       "6": {
-        "value": "600"
+        "value": "600",
+        "type": "fontWeight"
       },
       "7": {
-        "value": "700"
+        "value": "700",
+        "type": "fontWeight"
       },
       "8": {
-        "value": "800"
+        "value": "800",
+        "type": "fontWeight"
       },
       "9": {
-        "value": "900"
+        "value": "900",
+        "type": "fontWeight"
       }
     }
   }

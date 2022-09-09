@@ -1,2206 +1,2396 @@
 {
-  "border": {
-    "size": {
-      "1": {
-        "value": "1px",
-        "filePath": "border/src/border.tokens.json",
-        "isSource": true,
-        "original": {
-          "value": "1px"
-        },
-        "attributes": {
-          "category": "border",
-          "type": "size",
-          "item": "1"
-        },
-        "path": {
-          "0": "border",
-          "1": "size",
-          "2": "1"
-        }
-      },
-      "2": {
-        "value": "2px",
-        "filePath": "border/src/border.tokens.json",
-        "isSource": true,
-        "original": {
-          "value": "2px"
-        },
-        "attributes": {
-          "category": "border",
-          "type": "size",
-          "item": "2"
-        },
-        "path": {
-          "0": "border",
-          "1": "size",
-          "2": "2"
-        }
-      },
-      "3": {
-        "value": "5px",
-        "filePath": "border/src/border.tokens.json",
-        "isSource": true,
-        "original": {
-          "value": "5px"
-        },
-        "attributes": {
-          "category": "border",
-          "type": "size",
-          "item": "3"
-        },
-        "path": {
-          "0": "border",
-          "1": "size",
-          "2": "3"
-        }
-      },
-      "4": {
-        "value": "10px",
-        "filePath": "border/src/border.tokens.json",
-        "isSource": true,
-        "original": {
-          "value": "10px"
-        },
-        "attributes": {
-          "category": "border",
-          "type": "size",
-          "item": "4"
-        },
-        "path": {
-          "0": "border",
-          "1": "size",
-          "2": "4"
-        }
-      },
-      "5": {
-        "value": "25px",
-        "filePath": "border/src/border.tokens.json",
-        "isSource": true,
-        "original": {
-          "value": "25px"
-        },
-        "attributes": {
-          "category": "border",
-          "type": "size",
-          "item": "5"
-        },
-        "path": {
-          "0": "border",
-          "1": "size",
-          "2": "5"
-        }
-      }
-    }
-  },
-  "grape": {
-    "0": {
-      "value": "#f8f0fc",
-      "filePath": "colors/src/grape.tokens.json",
-      "isSource": true,
-      "original": {
-        "value": "#f8f0fc"
-      },
-      "attributes": {
-        "category": "grape",
-        "type": "0"
-      },
-      "path": {
-        "0": "grape",
-        "1": "0"
-      }
-    },
-    "1": {
-      "value": "#f3d9fa",
-      "filePath": "colors/src/grape.tokens.json",
-      "isSource": true,
-      "original": {
-        "value": "#f3d9fa"
-      },
-      "attributes": {
-        "category": "grape",
-        "type": "1"
-      },
-      "path": {
-        "0": "grape",
-        "1": "1"
-      }
-    },
-    "2": {
-      "value": "#eebefa",
-      "filePath": "colors/src/grape.tokens.json",
-      "isSource": true,
-      "original": {
-        "value": "#eebefa"
-      },
-      "attributes": {
-        "category": "grape",
-        "type": "2"
-      },
-      "path": {
-        "0": "grape",
-        "1": "2"
-      }
-    },
-    "3": {
-      "value": "#e599f7",
-      "filePath": "colors/src/grape.tokens.json",
-      "isSource": true,
-      "original": {
-        "value": "#e599f7"
-      },
-      "attributes": {
-        "category": "grape",
-        "type": "3"
-      },
-      "path": {
-        "0": "grape",
-        "1": "3"
-      }
-    },
-    "4": {
-      "value": "#da77f2",
-      "filePath": "colors/src/grape.tokens.json",
-      "isSource": true,
-      "original": {
-        "value": "#da77f2"
-      },
-      "attributes": {
-        "category": "grape",
-        "type": "4"
-      },
-      "path": {
-        "0": "grape",
-        "1": "4"
-      }
-    },
-    "5": {
-      "value": "#cc5de8",
-      "filePath": "colors/src/grape.tokens.json",
-      "isSource": true,
-      "original": {
-        "value": "#cc5de8"
-      },
-      "attributes": {
-        "category": "grape",
-        "type": "5"
-      },
-      "path": {
-        "0": "grape",
-        "1": "5"
-      }
-    },
-    "6": {
-      "value": "#be4bdb",
-      "filePath": "colors/src/grape.tokens.json",
-      "isSource": true,
-      "original": {
-        "value": "#be4bdb"
-      },
-      "attributes": {
-        "category": "grape",
-        "type": "6"
-      },
-      "path": {
-        "0": "grape",
-        "1": "6"
-      }
-    },
-    "7": {
-      "value": "#ae3ec9",
-      "filePath": "colors/src/grape.tokens.json",
-      "isSource": true,
-      "original": {
-        "value": "#ae3ec9"
-      },
-      "attributes": {
-        "category": "grape",
-        "type": "7"
-      },
-      "path": {
-        "0": "grape",
-        "1": "7"
-      }
-    },
-    "8": {
-      "value": "#9c36b5",
-      "filePath": "colors/src/grape.tokens.json",
-      "isSource": true,
-      "original": {
-        "value": "#9c36b5"
-      },
-      "attributes": {
-        "category": "grape",
-        "type": "8"
-      },
-      "path": {
-        "0": "grape",
-        "1": "8"
-      }
-    },
-    "9": {
-      "value": "#862e9c",
-      "filePath": "colors/src/grape.tokens.json",
-      "isSource": true,
-      "original": {
-        "value": "#862e9c"
-      },
-      "attributes": {
-        "category": "grape",
-        "type": "9"
-      },
-      "path": {
-        "0": "grape",
-        "1": "9"
-      }
-    }
-  },
-  "gray": {
-    "0": {
-      "value": "#f8f9fa",
-      "filePath": "colors/src/gray.tokens.json",
-      "isSource": true,
-      "original": {
-        "value": "#f8f9fa"
-      },
-      "attributes": {
-        "category": "gray",
-        "type": "0"
-      },
-      "path": {
-        "0": "gray",
-        "1": "0"
-      }
-    },
-    "1": {
-      "value": "#f1f3f5",
-      "filePath": "colors/src/gray.tokens.json",
-      "isSource": true,
-      "original": {
-        "value": "#f1f3f5"
-      },
-      "attributes": {
-        "category": "gray",
-        "type": "1"
-      },
-      "path": {
-        "0": "gray",
-        "1": "1"
-      }
-    },
-    "2": {
-      "value": "#e9ecef",
-      "filePath": "colors/src/gray.tokens.json",
-      "isSource": true,
-      "original": {
-        "value": "#e9ecef"
-      },
-      "attributes": {
-        "category": "gray",
-        "type": "2"
-      },
-      "path": {
-        "0": "gray",
-        "1": "2"
-      }
-    },
-    "3": {
-      "value": "#dee2e6",
-      "filePath": "colors/src/gray.tokens.json",
-      "isSource": true,
-      "original": {
-        "value": "#dee2e6"
-      },
-      "attributes": {
-        "category": "gray",
-        "type": "3"
-      },
-      "path": {
-        "0": "gray",
-        "1": "3"
-      }
-    },
-    "4": {
-      "value": "#ced4da",
-      "filePath": "colors/src/gray.tokens.json",
-      "isSource": true,
-      "original": {
-        "value": "#ced4da"
-      },
-      "attributes": {
-        "category": "gray",
-        "type": "4"
-      },
-      "path": {
-        "0": "gray",
-        "1": "4"
-      }
-    },
-    "5": {
-      "value": "#adb5bd",
-      "filePath": "colors/src/gray.tokens.json",
-      "isSource": true,
-      "original": {
-        "value": "#adb5bd"
-      },
-      "attributes": {
-        "category": "gray",
-        "type": "5"
-      },
-      "path": {
-        "0": "gray",
-        "1": "5"
-      }
-    },
-    "6": {
-      "value": "#868e96",
-      "filePath": "colors/src/gray.tokens.json",
-      "isSource": true,
-      "original": {
-        "value": "#868e96"
-      },
-      "attributes": {
-        "category": "gray",
-        "type": "6"
-      },
-      "path": {
-        "0": "gray",
-        "1": "6"
-      }
-    },
-    "7": {
-      "value": "#495057",
-      "filePath": "colors/src/gray.tokens.json",
-      "isSource": true,
-      "original": {
-        "value": "#495057"
-      },
-      "attributes": {
-        "category": "gray",
-        "type": "7"
-      },
-      "path": {
-        "0": "gray",
-        "1": "7"
-      }
-    },
-    "8": {
-      "value": "#343a40",
-      "filePath": "colors/src/gray.tokens.json",
-      "isSource": true,
-      "original": {
-        "value": "#343a40"
-      },
-      "attributes": {
-        "category": "gray",
-        "type": "8"
-      },
-      "path": {
-        "0": "gray",
-        "1": "8"
-      }
-    },
-    "9": {
-      "value": "#212529",
-      "filePath": "colors/src/gray.tokens.json",
-      "isSource": true,
-      "original": {
-        "value": "#212529"
-      },
-      "attributes": {
-        "category": "gray",
-        "type": "9"
-      },
-      "path": {
-        "0": "gray",
-        "1": "9"
-      }
-    }
-  },
-  "orange": {
-    "0": {
-      "value": "#fff4e6",
-      "filePath": "colors/src/orange.tokens.json",
-      "isSource": true,
-      "original": {
-        "value": "#fff4e6"
-      },
-      "attributes": {
-        "category": "orange",
-        "type": "0"
-      },
-      "path": {
-        "0": "orange",
-        "1": "0"
-      }
-    },
-    "1": {
-      "value": "#ffe8cc",
-      "filePath": "colors/src/orange.tokens.json",
-      "isSource": true,
-      "original": {
-        "value": "#ffe8cc"
-      },
-      "attributes": {
-        "category": "orange",
-        "type": "1"
-      },
-      "path": {
-        "0": "orange",
-        "1": "1"
-      }
-    },
-    "2": {
-      "value": "#ffd8a8",
-      "filePath": "colors/src/orange.tokens.json",
-      "isSource": true,
-      "original": {
-        "value": "#ffd8a8"
-      },
-      "attributes": {
-        "category": "orange",
-        "type": "2"
-      },
-      "path": {
-        "0": "orange",
-        "1": "2"
-      }
-    },
-    "3": {
-      "value": "#ffc078",
-      "filePath": "colors/src/orange.tokens.json",
-      "isSource": true,
-      "original": {
-        "value": "#ffc078"
-      },
-      "attributes": {
-        "category": "orange",
-        "type": "3"
-      },
-      "path": {
-        "0": "orange",
-        "1": "3"
-      }
-    },
-    "4": {
-      "value": "#ffa94d",
-      "filePath": "colors/src/orange.tokens.json",
-      "isSource": true,
-      "original": {
-        "value": "#ffa94d"
-      },
-      "attributes": {
-        "category": "orange",
-        "type": "4"
-      },
-      "path": {
-        "0": "orange",
-        "1": "4"
-      }
-    },
-    "5": {
-      "value": "#ff922b",
-      "filePath": "colors/src/orange.tokens.json",
-      "isSource": true,
-      "original": {
-        "value": "#ff922b"
-      },
-      "attributes": {
-        "category": "orange",
-        "type": "5"
-      },
-      "path": {
-        "0": "orange",
-        "1": "5"
-      }
-    },
-    "6": {
-      "value": "#fd7e14",
-      "filePath": "colors/src/orange.tokens.json",
-      "isSource": true,
-      "original": {
-        "value": "#fd7e14"
-      },
-      "attributes": {
-        "category": "orange",
-        "type": "6"
-      },
-      "path": {
-        "0": "orange",
-        "1": "6"
-      }
-    },
-    "7": {
-      "value": "#f76707",
-      "filePath": "colors/src/orange.tokens.json",
-      "isSource": true,
-      "original": {
-        "value": "#f76707"
-      },
-      "attributes": {
-        "category": "orange",
-        "type": "7"
-      },
-      "path": {
-        "0": "orange",
-        "1": "7"
-      }
-    },
-    "8": {
-      "value": "#e8590c",
-      "filePath": "colors/src/orange.tokens.json",
-      "isSource": true,
-      "original": {
-        "value": "#e8590c"
-      },
-      "attributes": {
-        "category": "orange",
-        "type": "8"
-      },
-      "path": {
-        "0": "orange",
-        "1": "8"
-      }
-    },
-    "9": {
-      "value": "#d9480f",
-      "filePath": "colors/src/orange.tokens.json",
-      "isSource": true,
-      "original": {
-        "value": "#d9480f"
-      },
-      "attributes": {
-        "category": "orange",
-        "type": "9"
-      },
-      "path": {
-        "0": "orange",
-        "1": "9"
-      }
-    }
-  },
-  "font": {
-    "sans": {
-      "value": "system-ui,-apple-system,Segoe UI,Roboto,Ubuntu,Cantarell,Noto Sans,sans-serif",
-      "filePath": "font/src/family.tokens.json",
-      "isSource": true,
-      "original": {
-        "value": "system-ui,-apple-system,Segoe UI,Roboto,Ubuntu,Cantarell,Noto Sans,sans-serif"
-      },
-      "attributes": {
-        "category": "font",
-        "type": "sans"
-      },
-      "path": {
-        "0": "font",
-        "1": "sans"
-      }
-    },
-    "serif": {
-      "value": "ui-serif,serif",
-      "filePath": "font/src/family.tokens.json",
-      "isSource": true,
-      "original": {
-        "value": "ui-serif,serif"
-      },
-      "attributes": {
-        "category": "font",
-        "type": "serif"
-      },
-      "path": {
-        "0": "font",
-        "1": "serif"
-      }
-    },
-    "mono": {
-      "value": "Dank Mono,Operator Mono,Inconsolata,Fira Mono,ui-monospace,SF Mono,Monaco,Droid Sans Mono,Source Code Pro,monospace",
-      "filePath": "font/src/family.tokens.json",
-      "isSource": true,
-      "original": {
-        "value": "Dank Mono,Operator Mono,Inconsolata,Fira Mono,ui-monospace,SF Mono,Monaco,Droid Sans Mono,Source Code Pro,monospace"
-      },
-      "attributes": {
-        "category": "font",
-        "type": "mono"
-      },
-      "path": {
-        "0": "font",
-        "1": "mono"
-      }
-    },
-    "lineheight": {
-      "0": {
-        "value": "1.1",
-        "filePath": "font/src/lineheight.tokens.json",
-        "isSource": true,
-        "original": {
-          "value": "1.1"
-        },
-        "attributes": {
-          "category": "font",
-          "type": "lineheight",
-          "item": "0"
-        },
-        "path": {
-          "0": "font",
-          "1": "lineheight",
-          "2": "0"
-        }
-      },
-      "1": {
-        "value": "1.25",
-        "filePath": "font/src/lineheight.tokens.json",
-        "isSource": true,
-        "original": {
-          "value": "1.25"
-        },
-        "attributes": {
-          "category": "font",
-          "type": "lineheight",
-          "item": "1"
-        },
-        "path": {
-          "0": "font",
-          "1": "lineheight",
-          "2": "1"
-        }
-      },
-      "2": {
-        "value": "1.375",
-        "filePath": "font/src/lineheight.tokens.json",
-        "isSource": true,
-        "original": {
-          "value": "1.375"
-        },
-        "attributes": {
-          "category": "font",
-          "type": "lineheight",
-          "item": "2"
-        },
-        "path": {
-          "0": "font",
-          "1": "lineheight",
-          "2": "2"
-        }
-      },
-      "3": {
-        "value": "1.5",
-        "filePath": "font/src/lineheight.tokens.json",
-        "isSource": true,
-        "original": {
-          "value": "1.5"
-        },
-        "attributes": {
-          "category": "font",
-          "type": "lineheight",
-          "item": "3"
-        },
-        "path": {
-          "0": "font",
-          "1": "lineheight",
-          "2": "3"
-        }
-      },
-      "4": {
-        "value": "1.75",
-        "filePath": "font/src/lineheight.tokens.json",
-        "isSource": true,
-        "original": {
-          "value": "1.75"
-        },
-        "attributes": {
-          "category": "font",
-          "type": "lineheight",
-          "item": "4"
-        },
-        "path": {
-          "0": "font",
-          "1": "lineheight",
-          "2": "4"
-        }
-      },
-      "5": {
-        "value": "2",
-        "filePath": "font/src/lineheight.tokens.json",
-        "isSource": true,
-        "original": {
-          "value": "2"
-        },
-        "attributes": {
-          "category": "font",
-          "type": "lineheight",
-          "item": "5"
-        },
-        "path": {
-          "0": "font",
-          "1": "lineheight",
-          "2": "5"
-        }
-      },
-      "00": {
-        "value": ".95",
-        "filePath": "font/src/lineheight.tokens.json",
-        "isSource": true,
-        "original": {
-          "value": ".95"
-        },
-        "attributes": {
-          "category": "font",
-          "type": "lineheight",
-          "item": "00"
-        },
-        "path": {
-          "0": "font",
-          "1": "lineheight",
-          "2": "00"
-        }
-      }
-    },
-    "size": {
-      "0": {
-        "value": ".75rem",
-        "filePath": "font/src/size.tokens.json",
-        "isSource": true,
-        "original": {
-          "value": ".75rem"
-        },
-        "attributes": {
-          "category": "font",
-          "type": "size",
-          "item": "0"
-        },
-        "path": {
-          "0": "font",
-          "1": "size",
-          "2": "0"
-        }
-      },
-      "1": {
-        "value": "1rem",
-        "filePath": "font/src/size.tokens.json",
-        "isSource": true,
-        "original": {
-          "value": "1rem"
-        },
-        "attributes": {
-          "category": "font",
-          "type": "size",
-          "item": "1"
-        },
-        "path": {
-          "0": "font",
-          "1": "size",
-          "2": "1"
-        }
-      },
-      "2": {
-        "value": "1.1rem",
-        "filePath": "font/src/size.tokens.json",
-        "isSource": true,
-        "original": {
-          "value": "1.1rem"
-        },
-        "attributes": {
-          "category": "font",
-          "type": "size",
-          "item": "2"
-        },
-        "path": {
-          "0": "font",
-          "1": "size",
-          "2": "2"
-        }
-      },
-      "3": {
-        "value": "1.25rem",
-        "filePath": "font/src/size.tokens.json",
-        "isSource": true,
-        "original": {
-          "value": "1.25rem"
-        },
-        "attributes": {
-          "category": "font",
-          "type": "size",
-          "item": "3"
-        },
-        "path": {
-          "0": "font",
-          "1": "size",
-          "2": "3"
-        }
-      },
-      "4": {
-        "value": "1.5rem",
-        "filePath": "font/src/size.tokens.json",
-        "isSource": true,
-        "original": {
-          "value": "1.5rem"
-        },
-        "attributes": {
-          "category": "font",
-          "type": "size",
-          "item": "4"
-        },
-        "path": {
-          "0": "font",
-          "1": "size",
-          "2": "4"
-        }
-      },
-      "5": {
-        "value": "2rem",
-        "filePath": "font/src/size.tokens.json",
-        "isSource": true,
-        "original": {
-          "value": "2rem"
-        },
-        "attributes": {
-          "category": "font",
-          "type": "size",
-          "item": "5"
-        },
-        "path": {
-          "0": "font",
-          "1": "size",
-          "2": "5"
-        }
-      },
-      "6": {
-        "value": "2.5rem",
-        "filePath": "font/src/size.tokens.json",
-        "isSource": true,
-        "original": {
-          "value": "2.5rem"
-        },
-        "attributes": {
-          "category": "font",
-          "type": "size",
-          "item": "6"
-        },
-        "path": {
-          "0": "font",
-          "1": "size",
-          "2": "6"
-        }
-      },
-      "7": {
-        "value": "3rem",
-        "filePath": "font/src/size.tokens.json",
-        "isSource": true,
-        "original": {
-          "value": "3rem"
-        },
-        "attributes": {
-          "category": "font",
-          "type": "size",
-          "item": "7"
-        },
-        "path": {
-          "0": "font",
-          "1": "size",
-          "2": "7"
-        }
-      },
-      "8": {
-        "value": "3.5rem",
-        "filePath": "font/src/size.tokens.json",
-        "isSource": true,
-        "original": {
-          "value": "3.5rem"
-        },
-        "attributes": {
-          "category": "font",
-          "type": "size",
-          "item": "8"
-        },
-        "path": {
-          "0": "font",
-          "1": "size",
-          "2": "8"
-        }
-      },
-      "00": {
-        "value": ".5rem",
-        "filePath": "font/src/size.tokens.json",
-        "isSource": true,
-        "original": {
-          "value": ".5rem"
-        },
-        "attributes": {
-          "category": "font",
-          "type": "size",
-          "item": "00"
-        },
-        "path": {
-          "0": "font",
-          "1": "size",
-          "2": "00"
-        }
-      }
-    },
-    "weight": {
-      "1": {
-        "value": "100",
-        "filePath": "font/src/weight.tokens.json",
-        "isSource": true,
-        "original": {
-          "value": "100"
-        },
-        "attributes": {
-          "category": "font",
-          "type": "weight",
-          "item": "1"
-        },
-        "path": {
-          "0": "font",
-          "1": "weight",
-          "2": "1"
-        }
-      },
-      "2": {
-        "value": "200",
-        "filePath": "font/src/weight.tokens.json",
-        "isSource": true,
-        "original": {
-          "value": "200"
-        },
-        "attributes": {
-          "category": "font",
-          "type": "weight",
-          "item": "2"
-        },
-        "path": {
-          "0": "font",
-          "1": "weight",
-          "2": "2"
-        }
-      },
-      "3": {
-        "value": "300",
-        "filePath": "font/src/weight.tokens.json",
-        "isSource": true,
-        "original": {
-          "value": "300"
-        },
-        "attributes": {
-          "category": "font",
-          "type": "weight",
-          "item": "3"
-        },
-        "path": {
-          "0": "font",
-          "1": "weight",
-          "2": "3"
-        }
-      },
-      "4": {
-        "value": "400",
-        "filePath": "font/src/weight.tokens.json",
-        "isSource": true,
-        "original": {
-          "value": "400"
-        },
-        "attributes": {
-          "category": "font",
-          "type": "weight",
-          "item": "4"
-        },
-        "path": {
-          "0": "font",
-          "1": "weight",
-          "2": "4"
-        }
-      },
-      "5": {
-        "value": "500",
-        "filePath": "font/src/weight.tokens.json",
-        "isSource": true,
-        "original": {
-          "value": "500"
-        },
-        "attributes": {
-          "category": "font",
-          "type": "weight",
-          "item": "5"
-        },
-        "path": {
-          "0": "font",
-          "1": "weight",
-          "2": "5"
-        }
-      },
-      "6": {
-        "value": "600",
-        "filePath": "font/src/weight.tokens.json",
-        "isSource": true,
-        "original": {
-          "value": "600"
-        },
-        "attributes": {
-          "category": "font",
-          "type": "weight",
-          "item": "6"
-        },
-        "path": {
-          "0": "font",
-          "1": "weight",
-          "2": "6"
-        }
-      },
-      "7": {
-        "value": "700",
-        "filePath": "font/src/weight.tokens.json",
-        "isSource": true,
-        "original": {
-          "value": "700"
-        },
-        "attributes": {
-          "category": "font",
-          "type": "weight",
-          "item": "7"
-        },
-        "path": {
-          "0": "font",
-          "1": "weight",
-          "2": "7"
-        }
-      },
-      "8": {
-        "value": "800",
-        "filePath": "font/src/weight.tokens.json",
-        "isSource": true,
-        "original": {
-          "value": "800"
-        },
-        "attributes": {
-          "category": "font",
-          "type": "weight",
-          "item": "8"
-        },
-        "path": {
-          "0": "font",
-          "1": "weight",
-          "2": "8"
-        }
-      },
-      "9": {
-        "value": "900",
-        "filePath": "font/src/weight.tokens.json",
-        "isSource": true,
-        "original": {
-          "value": "900"
-        },
-        "attributes": {
-          "category": "font",
-          "type": "weight",
-          "item": "9"
-        },
-        "path": {
-          "0": "font",
-          "1": "weight",
-          "2": "9"
-        }
-      }
-    }
-  },
-  "radius": {
-    "1": {
-      "value": "2px",
-      "filePath": "radius/src/radius.tokens.json",
-      "isSource": true,
-      "original": {
-        "value": "2px"
-      },
-      "attributes": {
-        "category": "radius",
-        "type": "1"
-      },
-      "path": {
-        "0": "radius",
-        "1": "1"
-      }
-    },
-    "2": {
-      "value": "5px",
-      "filePath": "radius/src/radius.tokens.json",
-      "isSource": true,
-      "original": {
-        "value": "5px"
-      },
-      "attributes": {
-        "category": "radius",
-        "type": "2"
-      },
-      "path": {
-        "0": "radius",
-        "1": "2"
-      }
-    },
-    "3": {
-      "value": "1rem",
-      "filePath": "radius/src/radius.tokens.json",
-      "isSource": true,
-      "original": {
-        "value": "1rem"
-      },
-      "attributes": {
-        "category": "radius",
-        "type": "3"
-      },
-      "path": {
-        "0": "radius",
-        "1": "3"
-      }
-    },
-    "4": {
-      "value": "2rem",
-      "filePath": "radius/src/radius.tokens.json",
-      "isSource": true,
-      "original": {
-        "value": "2rem"
-      },
-      "attributes": {
-        "category": "radius",
-        "type": "4"
-      },
-      "path": {
-        "0": "radius",
-        "1": "4"
-      }
-    },
-    "5": {
-      "value": "4rem",
-      "filePath": "radius/src/radius.tokens.json",
-      "isSource": true,
-      "original": {
-        "value": "4rem"
-      },
-      "attributes": {
-        "category": "radius",
-        "type": "5"
-      },
-      "path": {
-        "0": "radius",
-        "1": "5"
-      }
-    },
-    "6": {
-      "value": "8rem",
-      "filePath": "radius/src/radius.tokens.json",
-      "isSource": true,
-      "original": {
-        "value": "8rem"
-      },
-      "attributes": {
-        "category": "radius",
-        "type": "6"
-      },
-      "path": {
-        "0": "radius",
-        "1": "6"
-      }
-    },
-    "round": {
-      "value": "1e5px",
-      "filePath": "radius/src/radius.tokens.json",
-      "isSource": true,
-      "original": {
-        "value": "1e5px"
-      },
-      "attributes": {
-        "category": "radius",
-        "type": "round"
-      },
-      "path": {
-        "0": "radius",
-        "1": "round"
-      }
-    }
-  },
-  "size": {
-    "1": {
-      "value": "0.25rem",
-      "filePath": "sizes/src/size.tokens.json",
-      "isSource": true,
-      "original": {
-        "value": ".25rem"
-      },
-      "attributes": {
-        "category": "size",
-        "type": "1"
-      },
-      "path": {
-        "0": "size",
-        "1": "1"
-      }
-    },
-    "2": {
-      "value": "0.5rem",
-      "filePath": "sizes/src/size.tokens.json",
-      "isSource": true,
-      "original": {
-        "value": ".5rem"
-      },
-      "attributes": {
-        "category": "size",
-        "type": "2"
-      },
-      "path": {
-        "0": "size",
-        "1": "2"
-      }
-    },
-    "3": {
-      "value": "1rem",
-      "filePath": "sizes/src/size.tokens.json",
-      "isSource": true,
-      "original": {
-        "value": "1rem"
-      },
-      "attributes": {
-        "category": "size",
-        "type": "3"
-      },
-      "path": {
-        "0": "size",
-        "1": "3"
-      }
-    },
-    "4": {
-      "value": "1.25rem",
-      "filePath": "sizes/src/size.tokens.json",
-      "isSource": true,
-      "original": {
-        "value": "1.25rem"
-      },
-      "attributes": {
-        "category": "size",
-        "type": "4"
-      },
-      "path": {
-        "0": "size",
-        "1": "4"
-      }
-    },
-    "5": {
-      "value": "1.5rem",
-      "filePath": "sizes/src/size.tokens.json",
-      "isSource": true,
-      "original": {
-        "value": "1.5rem"
-      },
-      "attributes": {
-        "category": "size",
-        "type": "5"
-      },
-      "path": {
-        "0": "size",
-        "1": "5"
-      }
-    },
-    "6": {
-      "value": "1.75rem",
-      "filePath": "sizes/src/size.tokens.json",
-      "isSource": true,
-      "original": {
-        "value": "1.75rem"
-      },
-      "attributes": {
-        "category": "size",
-        "type": "6"
-      },
-      "path": {
-        "0": "size",
-        "1": "6"
-      }
-    },
-    "7": {
-      "value": "2rem",
-      "filePath": "sizes/src/size.tokens.json",
-      "isSource": true,
-      "original": {
-        "value": "2rem"
-      },
-      "attributes": {
-        "category": "size",
-        "type": "7"
-      },
-      "path": {
-        "0": "size",
-        "1": "7"
-      }
-    },
-    "8": {
-      "value": "3rem",
-      "filePath": "sizes/src/size.tokens.json",
-      "isSource": true,
-      "original": {
-        "value": "3rem"
-      },
-      "attributes": {
-        "category": "size",
-        "type": "8"
-      },
-      "path": {
-        "0": "size",
-        "1": "8"
-      }
-    },
-    "9": {
-      "value": "4rem",
-      "filePath": "sizes/src/size.tokens.json",
-      "isSource": true,
-      "original": {
-        "value": "4rem"
-      },
-      "attributes": {
-        "category": "size",
-        "type": "9"
-      },
-      "path": {
-        "0": "size",
-        "1": "9"
-      }
-    },
-    "10": {
-      "value": "5rem",
-      "filePath": "sizes/src/size.tokens.json",
-      "isSource": true,
-      "original": {
-        "value": "5rem"
-      },
-      "attributes": {
-        "category": "size",
-        "type": "10"
-      },
-      "path": {
-        "0": "size",
-        "1": "10"
-      }
-    },
-    "11": {
-      "value": "7.5rem",
-      "filePath": "sizes/src/size.tokens.json",
-      "isSource": true,
-      "original": {
-        "value": "7.5rem"
-      },
-      "attributes": {
-        "category": "size",
-        "type": "11"
-      },
-      "path": {
-        "0": "size",
-        "1": "11"
-      }
-    },
-    "12": {
-      "value": "10rem",
-      "filePath": "sizes/src/size.tokens.json",
-      "isSource": true,
-      "original": {
-        "value": "10rem"
-      },
-      "attributes": {
-        "category": "size",
-        "type": "12"
-      },
-      "path": {
-        "0": "size",
-        "1": "12"
-      }
-    },
-    "13": {
-      "value": "15rem",
-      "filePath": "sizes/src/size.tokens.json",
-      "isSource": true,
-      "original": {
-        "value": "15rem"
-      },
-      "attributes": {
-        "category": "size",
-        "type": "13"
-      },
-      "path": {
-        "0": "size",
-        "1": "13"
-      }
-    },
-    "14": {
-      "value": "20rem",
-      "filePath": "sizes/src/size.tokens.json",
-      "isSource": true,
-      "original": {
-        "value": "20rem"
-      },
-      "attributes": {
-        "category": "size",
-        "type": "14"
-      },
-      "path": {
-        "0": "size",
-        "1": "14"
-      }
-    },
-    "15": {
-      "value": "30rem",
-      "filePath": "sizes/src/size.tokens.json",
-      "isSource": true,
-      "original": {
-        "value": "30rem"
-      },
-      "attributes": {
-        "category": "size",
-        "type": "15"
-      },
-      "path": {
-        "0": "size",
-        "1": "15"
-      }
-    },
-    "content": {
-      "1": {
-        "value": "20rem",
-        "filePath": "sizes/src/content.tokens.json",
-        "isSource": true,
-        "original": {
-          "value": "20ch"
-        },
-        "attributes": {
-          "category": "size",
-          "type": "content",
-          "item": "1"
-        },
-        "path": {
-          "0": "size",
-          "1": "content",
-          "2": "1"
-        }
-      },
-      "2": {
-        "value": "45rem",
-        "filePath": "sizes/src/content.tokens.json",
-        "isSource": true,
-        "original": {
-          "value": "45ch"
-        },
-        "attributes": {
-          "category": "size",
-          "type": "content",
-          "item": "2"
-        },
-        "path": {
-          "0": "size",
-          "1": "content",
-          "2": "2"
-        }
-      },
-      "3": {
-        "value": "60rem",
-        "filePath": "sizes/src/content.tokens.json",
-        "isSource": true,
-        "original": {
-          "value": "60ch"
-        },
-        "attributes": {
-          "category": "size",
-          "type": "content",
-          "item": "3"
-        },
-        "path": {
-          "0": "size",
-          "1": "content",
-          "2": "3"
-        }
-      }
-    },
-    "000": {
-      "value": "-0.5rem",
-      "filePath": "sizes/src/size.tokens.json",
-      "isSource": true,
-      "original": {
-        "value": "-.5rem"
-      },
-      "attributes": {
-        "category": "size",
-        "type": "000"
-      },
-      "path": {
-        "0": "size",
-        "1": "000"
-      }
-    },
-    "00": {
-      "value": "-0.25rem",
-      "filePath": "sizes/src/size.tokens.json",
-      "isSource": true,
-      "original": {
-        "value": "-.25rem"
-      },
-      "attributes": {
-        "category": "size",
-        "type": "00"
-      },
-      "path": {
-        "0": "size",
-        "1": "00"
-      }
-    }
-  },
-  "theme": {
-    "dark": {
-      "brand": {
-        "value": "{orange.3}",
-        "filePath": "themes/src/dark.tokens.json",
-        "isSource": true,
-        "original": {
-          "value": "{orange.3}"
-        },
-        "attributes": {
-          "category": "theme",
-          "type": "dark",
-          "item": "brand"
-        },
-        "path": {
-          "0": "theme",
-          "1": "dark",
-          "2": "brand"
-        }
-      },
-      "text1": {
-        "value": "{gray.1}",
-        "filePath": "themes/src/dark.tokens.json",
-        "isSource": true,
-        "original": {
-          "value": "{gray.1}"
-        },
-        "attributes": {
-          "category": "theme",
-          "type": "dark",
-          "item": "text1"
-        },
-        "path": {
-          "0": "theme",
-          "1": "dark",
-          "2": "text1"
-        }
-      },
-      "text2": {
-        "value": "{gray.3}",
-        "filePath": "themes/src/dark.tokens.json",
-        "isSource": true,
-        "original": {
-          "value": "{gray.3}"
-        },
-        "attributes": {
-          "category": "theme",
-          "type": "dark",
-          "item": "text2"
-        },
-        "path": {
-          "0": "theme",
-          "1": "dark",
-          "2": "text2"
-        }
-      },
-      "surface1": {
-        "value": "{gray.9}",
-        "filePath": "themes/src/dark.tokens.json",
-        "isSource": true,
-        "original": {
-          "value": "{gray.9}"
-        },
-        "attributes": {
-          "category": "theme",
-          "type": "dark",
-          "item": "surface1"
-        },
-        "path": {
-          "0": "theme",
-          "1": "dark",
-          "2": "surface1"
-        }
-      },
-      "surface2": {
-        "value": "{gray.8}",
-        "filePath": "themes/src/dark.tokens.json",
-        "isSource": true,
-        "original": {
-          "value": "{gray.8}"
-        },
-        "attributes": {
-          "category": "theme",
-          "type": "dark",
-          "item": "surface2"
-        },
-        "path": {
-          "0": "theme",
-          "1": "dark",
-          "2": "surface2"
-        }
-      },
-      "surface3": {
-        "value": "{gray.7}",
-        "filePath": "themes/src/dark.tokens.json",
-        "isSource": true,
-        "original": {
-          "value": "{gray.7}"
-        },
-        "attributes": {
-          "category": "theme",
-          "type": "dark",
-          "item": "surface3"
-        },
-        "path": {
-          "0": "theme",
-          "1": "dark",
-          "2": "surface3"
-        }
-      },
-      "surface4": {
-        "value": "{gray.6}",
-        "filePath": "themes/src/dark.tokens.json",
-        "isSource": true,
-        "original": {
-          "value": "{gray.6}"
-        },
-        "attributes": {
-          "category": "theme",
-          "type": "dark",
-          "item": "surface4"
-        },
-        "path": {
-          "0": "theme",
-          "1": "dark",
-          "2": "surface4"
-        }
-      },
-      "surface-shadow": {
-        "value": "200 50% 3%",
-        "filePath": "themes/src/dark.tokens.json",
-        "isSource": true,
-        "original": {
-          "value": "200 50% 3%"
-        },
-        "attributes": {
-          "category": "theme",
-          "type": "dark",
-          "item": "surface-shadow"
-        },
-        "path": {
-          "0": "theme",
-          "1": "dark",
-          "2": "surface-shadow"
-        }
-      },
-      "shadow-strength": {
-        "value": "80%",
-        "filePath": "themes/src/dark.tokens.json",
-        "isSource": true,
-        "original": {
-          "value": "80%"
-        },
-        "attributes": {
-          "category": "theme",
-          "type": "dark",
-          "item": "shadow-strength"
-        },
-        "path": {
-          "0": "theme",
-          "1": "dark",
-          "2": "shadow-strength"
-        }
-      }
-    },
-    "dim": {
-      "brand": {
-        "value": "{orange.4}",
-        "filePath": "themes/src/dim.tokens.json",
-        "isSource": true,
-        "original": {
-          "value": "{orange.4}"
-        },
-        "attributes": {
-          "category": "theme",
-          "type": "dim",
-          "item": "brand"
-        },
-        "path": {
-          "0": "theme",
-          "1": "dim",
-          "2": "brand"
-        }
-      },
-      "text1": {
-        "value": "{gray.3}",
-        "filePath": "themes/src/dim.tokens.json",
-        "isSource": true,
-        "original": {
-          "value": "{gray.3}"
-        },
-        "attributes": {
-          "category": "theme",
-          "type": "dim",
-          "item": "text1"
-        },
-        "path": {
-          "0": "theme",
-          "1": "dim",
-          "2": "text1"
-        }
-      },
-      "text2": {
-        "value": "{gray.4}",
-        "filePath": "themes/src/dim.tokens.json",
-        "isSource": true,
-        "original": {
-          "value": "{gray.4}"
-        },
-        "attributes": {
-          "category": "theme",
-          "type": "dim",
-          "item": "text2"
-        },
-        "path": {
-          "0": "theme",
-          "1": "dim",
-          "2": "text2"
-        }
-      },
-      "surface1": {
-        "value": "{gray.8}",
-        "filePath": "themes/src/dim.tokens.json",
-        "isSource": true,
-        "original": {
-          "value": "{gray.8}"
-        },
-        "attributes": {
-          "category": "theme",
-          "type": "dim",
-          "item": "surface1"
-        },
-        "path": {
-          "0": "theme",
-          "1": "dim",
-          "2": "surface1"
-        }
-      },
-      "surface2": {
-        "value": "{gray.7}",
-        "filePath": "themes/src/dim.tokens.json",
-        "isSource": true,
-        "original": {
-          "value": "{gray.7}"
-        },
-        "attributes": {
-          "category": "theme",
-          "type": "dim",
-          "item": "surface2"
-        },
-        "path": {
-          "0": "theme",
-          "1": "dim",
-          "2": "surface2"
-        }
-      },
-      "surface3": {
-        "value": "{gray.6}",
-        "filePath": "themes/src/dim.tokens.json",
-        "isSource": true,
-        "original": {
-          "value": "{gray.6}"
-        },
-        "attributes": {
-          "category": "theme",
-          "type": "dim",
-          "item": "surface3"
-        },
-        "path": {
-          "0": "theme",
-          "1": "dim",
-          "2": "surface3"
-        }
-      },
-      "surface4": {
-        "value": "{gray.5}",
-        "filePath": "themes/src/dim.tokens.json",
-        "isSource": true,
-        "original": {
-          "value": "{gray.5}"
-        },
-        "attributes": {
-          "category": "theme",
-          "type": "dim",
-          "item": "surface4"
-        },
-        "path": {
-          "0": "theme",
-          "1": "dim",
-          "2": "surface4"
-        }
-      },
-      "surface-shadow": {
-        "value": "200 10% 13%",
-        "filePath": "themes/src/dim.tokens.json",
-        "isSource": true,
-        "original": {
-          "value": "200 10% 13%"
-        },
-        "attributes": {
-          "category": "theme",
-          "type": "dim",
-          "item": "surface-shadow"
-        },
-        "path": {
-          "0": "theme",
-          "1": "dim",
-          "2": "surface-shadow"
-        }
-      },
-      "shadow-strength": {
-        "value": "20%",
-        "filePath": "themes/src/dim.tokens.json",
-        "isSource": true,
-        "original": {
-          "value": "20%"
-        },
-        "attributes": {
-          "category": "theme",
-          "type": "dim",
-          "item": "shadow-strength"
-        },
-        "path": {
-          "0": "theme",
-          "1": "dim",
-          "2": "shadow-strength"
+  "global": {
+    "border": {
+      "size": {
+        "1": {
+          "value": "1px",
+          "type": "borderWidth",
+          "filePath": "border/src/border.tokens.json",
+          "isSource": true,
+          "original": {
+            "value": "1px",
+            "type": "borderWidth"
+          },
+          "attributes": {
+            "category": "border",
+            "type": "size",
+            "item": "1"
+          },
+          "path": {
+            "0": "border",
+            "1": "size",
+            "2": "1"
+          }
+        },
+        "2": {
+          "value": "2px",
+          "type": "borderWidth",
+          "filePath": "border/src/border.tokens.json",
+          "isSource": true,
+          "original": {
+            "value": "2px",
+            "type": "borderWidth"
+          },
+          "attributes": {
+            "category": "border",
+            "type": "size",
+            "item": "2"
+          },
+          "path": {
+            "0": "border",
+            "1": "size",
+            "2": "2"
+          }
+        },
+        "3": {
+          "value": "5px",
+          "type": "borderWidth",
+          "filePath": "border/src/border.tokens.json",
+          "isSource": true,
+          "original": {
+            "value": "5px",
+            "type": "borderWidth"
+          },
+          "attributes": {
+            "category": "border",
+            "type": "size",
+            "item": "3"
+          },
+          "path": {
+            "0": "border",
+            "1": "size",
+            "2": "3"
+          }
+        },
+        "4": {
+          "value": "10px",
+          "type": "borderWidth",
+          "filePath": "border/src/border.tokens.json",
+          "isSource": true,
+          "original": {
+            "value": "10px",
+            "type": "borderWidth"
+          },
+          "attributes": {
+            "category": "border",
+            "type": "size",
+            "item": "4"
+          },
+          "path": {
+            "0": "border",
+            "1": "size",
+            "2": "4"
+          }
+        },
+        "5": {
+          "value": "25px",
+          "type": "borderWidth",
+          "filePath": "border/src/border.tokens.json",
+          "isSource": true,
+          "original": {
+            "value": "25px",
+            "type": "borderWidth"
+          },
+          "attributes": {
+            "category": "border",
+            "type": "size",
+            "item": "5"
+          },
+          "path": {
+            "0": "border",
+            "1": "size",
+            "2": "5"
+          }
         }
       }
     },
     "grape": {
+      "0": {
+        "value": "#f8f0fc",
+        "type": "color",
+        "filePath": "colors/src/grape.tokens.json",
+        "isSource": true,
+        "original": {
+          "value": "#f8f0fc",
+          "type": "color"
+        },
+        "attributes": {
+          "category": "grape",
+          "type": "0"
+        },
+        "path": {
+          "0": "grape",
+          "1": "0"
+        }
+      },
+      "1": {
+        "value": "#f3d9fa",
+        "type": "color",
+        "filePath": "colors/src/grape.tokens.json",
+        "isSource": true,
+        "original": {
+          "value": "#f3d9fa",
+          "type": "color"
+        },
+        "attributes": {
+          "category": "grape",
+          "type": "1"
+        },
+        "path": {
+          "0": "grape",
+          "1": "1"
+        }
+      },
+      "2": {
+        "value": "#eebefa",
+        "type": "color",
+        "filePath": "colors/src/grape.tokens.json",
+        "isSource": true,
+        "original": {
+          "value": "#eebefa",
+          "type": "color"
+        },
+        "attributes": {
+          "category": "grape",
+          "type": "2"
+        },
+        "path": {
+          "0": "grape",
+          "1": "2"
+        }
+      },
+      "3": {
+        "value": "#e599f7",
+        "type": "color",
+        "filePath": "colors/src/grape.tokens.json",
+        "isSource": true,
+        "original": {
+          "value": "#e599f7",
+          "type": "color"
+        },
+        "attributes": {
+          "category": "grape",
+          "type": "3"
+        },
+        "path": {
+          "0": "grape",
+          "1": "3"
+        }
+      },
+      "4": {
+        "value": "#da77f2",
+        "type": "color",
+        "filePath": "colors/src/grape.tokens.json",
+        "isSource": true,
+        "original": {
+          "value": "#da77f2",
+          "type": "color"
+        },
+        "attributes": {
+          "category": "grape",
+          "type": "4"
+        },
+        "path": {
+          "0": "grape",
+          "1": "4"
+        }
+      },
+      "5": {
+        "value": "#cc5de8",
+        "type": "color",
+        "filePath": "colors/src/grape.tokens.json",
+        "isSource": true,
+        "original": {
+          "value": "#cc5de8",
+          "type": "color"
+        },
+        "attributes": {
+          "category": "grape",
+          "type": "5"
+        },
+        "path": {
+          "0": "grape",
+          "1": "5"
+        }
+      },
+      "6": {
+        "value": "#be4bdb",
+        "type": "color",
+        "filePath": "colors/src/grape.tokens.json",
+        "isSource": true,
+        "original": {
+          "value": "#be4bdb",
+          "type": "color"
+        },
+        "attributes": {
+          "category": "grape",
+          "type": "6"
+        },
+        "path": {
+          "0": "grape",
+          "1": "6"
+        }
+      },
+      "7": {
+        "value": "#ae3ec9",
+        "type": "color",
+        "filePath": "colors/src/grape.tokens.json",
+        "isSource": true,
+        "original": {
+          "value": "#ae3ec9",
+          "type": "color"
+        },
+        "attributes": {
+          "category": "grape",
+          "type": "7"
+        },
+        "path": {
+          "0": "grape",
+          "1": "7"
+        }
+      },
+      "8": {
+        "value": "#9c36b5",
+        "type": "color",
+        "filePath": "colors/src/grape.tokens.json",
+        "isSource": true,
+        "original": {
+          "value": "#9c36b5",
+          "type": "color"
+        },
+        "attributes": {
+          "category": "grape",
+          "type": "8"
+        },
+        "path": {
+          "0": "grape",
+          "1": "8"
+        }
+      },
+      "9": {
+        "value": "#862e9c",
+        "type": "color",
+        "filePath": "colors/src/grape.tokens.json",
+        "isSource": true,
+        "original": {
+          "value": "#862e9c",
+          "type": "color"
+        },
+        "attributes": {
+          "category": "grape",
+          "type": "9"
+        },
+        "path": {
+          "0": "grape",
+          "1": "9"
+        }
+      }
+    },
+    "gray": {
+      "0": {
+        "value": "#f8f9fa",
+        "type": "color",
+        "filePath": "colors/src/gray.tokens.json",
+        "isSource": true,
+        "original": {
+          "value": "#f8f9fa",
+          "type": "color"
+        },
+        "attributes": {
+          "category": "gray",
+          "type": "0"
+        },
+        "path": {
+          "0": "gray",
+          "1": "0"
+        }
+      },
+      "1": {
+        "value": "#f1f3f5",
+        "type": "color",
+        "filePath": "colors/src/gray.tokens.json",
+        "isSource": true,
+        "original": {
+          "value": "#f1f3f5",
+          "type": "color"
+        },
+        "attributes": {
+          "category": "gray",
+          "type": "1"
+        },
+        "path": {
+          "0": "gray",
+          "1": "1"
+        }
+      },
+      "2": {
+        "value": "#e9ecef",
+        "type": "color",
+        "filePath": "colors/src/gray.tokens.json",
+        "isSource": true,
+        "original": {
+          "value": "#e9ecef",
+          "type": "color"
+        },
+        "attributes": {
+          "category": "gray",
+          "type": "2"
+        },
+        "path": {
+          "0": "gray",
+          "1": "2"
+        }
+      },
+      "3": {
+        "value": "#dee2e6",
+        "type": "color",
+        "filePath": "colors/src/gray.tokens.json",
+        "isSource": true,
+        "original": {
+          "value": "#dee2e6",
+          "type": "color"
+        },
+        "attributes": {
+          "category": "gray",
+          "type": "3"
+        },
+        "path": {
+          "0": "gray",
+          "1": "3"
+        }
+      },
+      "4": {
+        "value": "#ced4da",
+        "type": "color",
+        "filePath": "colors/src/gray.tokens.json",
+        "isSource": true,
+        "original": {
+          "value": "#ced4da",
+          "type": "color"
+        },
+        "attributes": {
+          "category": "gray",
+          "type": "4"
+        },
+        "path": {
+          "0": "gray",
+          "1": "4"
+        }
+      },
+      "5": {
+        "value": "#adb5bd",
+        "type": "color",
+        "filePath": "colors/src/gray.tokens.json",
+        "isSource": true,
+        "original": {
+          "value": "#adb5bd",
+          "type": "color"
+        },
+        "attributes": {
+          "category": "gray",
+          "type": "5"
+        },
+        "path": {
+          "0": "gray",
+          "1": "5"
+        }
+      },
+      "6": {
+        "value": "#868e96",
+        "type": "color",
+        "filePath": "colors/src/gray.tokens.json",
+        "isSource": true,
+        "original": {
+          "value": "#868e96",
+          "type": "color"
+        },
+        "attributes": {
+          "category": "gray",
+          "type": "6"
+        },
+        "path": {
+          "0": "gray",
+          "1": "6"
+        }
+      },
+      "7": {
+        "value": "#495057",
+        "type": "color",
+        "filePath": "colors/src/gray.tokens.json",
+        "isSource": true,
+        "original": {
+          "value": "#495057",
+          "type": "color"
+        },
+        "attributes": {
+          "category": "gray",
+          "type": "7"
+        },
+        "path": {
+          "0": "gray",
+          "1": "7"
+        }
+      },
+      "8": {
+        "value": "#343a40",
+        "type": "color",
+        "filePath": "colors/src/gray.tokens.json",
+        "isSource": true,
+        "original": {
+          "value": "#343a40",
+          "type": "color"
+        },
+        "attributes": {
+          "category": "gray",
+          "type": "8"
+        },
+        "path": {
+          "0": "gray",
+          "1": "8"
+        }
+      },
+      "9": {
+        "value": "#212529",
+        "type": "color",
+        "filePath": "colors/src/gray.tokens.json",
+        "isSource": true,
+        "original": {
+          "value": "#212529",
+          "type": "color"
+        },
+        "attributes": {
+          "category": "gray",
+          "type": "9"
+        },
+        "path": {
+          "0": "gray",
+          "1": "9"
+        }
+      }
+    },
+    "orange": {
+      "0": {
+        "value": "#fff4e6",
+        "type": "color",
+        "filePath": "colors/src/orange.tokens.json",
+        "isSource": true,
+        "original": {
+          "value": "#fff4e6",
+          "type": "color"
+        },
+        "attributes": {
+          "category": "orange",
+          "type": "0"
+        },
+        "path": {
+          "0": "orange",
+          "1": "0"
+        }
+      },
+      "1": {
+        "value": "#ffe8cc",
+        "type": "color",
+        "filePath": "colors/src/orange.tokens.json",
+        "isSource": true,
+        "original": {
+          "value": "#ffe8cc",
+          "type": "color"
+        },
+        "attributes": {
+          "category": "orange",
+          "type": "1"
+        },
+        "path": {
+          "0": "orange",
+          "1": "1"
+        }
+      },
+      "2": {
+        "value": "#ffd8a8",
+        "type": "color",
+        "filePath": "colors/src/orange.tokens.json",
+        "isSource": true,
+        "original": {
+          "value": "#ffd8a8",
+          "type": "color"
+        },
+        "attributes": {
+          "category": "orange",
+          "type": "2"
+        },
+        "path": {
+          "0": "orange",
+          "1": "2"
+        }
+      },
+      "3": {
+        "value": "#ffc078",
+        "type": "color",
+        "filePath": "colors/src/orange.tokens.json",
+        "isSource": true,
+        "original": {
+          "value": "#ffc078",
+          "type": "color"
+        },
+        "attributes": {
+          "category": "orange",
+          "type": "3"
+        },
+        "path": {
+          "0": "orange",
+          "1": "3"
+        }
+      },
+      "4": {
+        "value": "#ffa94d",
+        "type": "color",
+        "filePath": "colors/src/orange.tokens.json",
+        "isSource": true,
+        "original": {
+          "value": "#ffa94d",
+          "type": "color"
+        },
+        "attributes": {
+          "category": "orange",
+          "type": "4"
+        },
+        "path": {
+          "0": "orange",
+          "1": "4"
+        }
+      },
+      "5": {
+        "value": "#ff922b",
+        "type": "color",
+        "filePath": "colors/src/orange.tokens.json",
+        "isSource": true,
+        "original": {
+          "value": "#ff922b",
+          "type": "color"
+        },
+        "attributes": {
+          "category": "orange",
+          "type": "5"
+        },
+        "path": {
+          "0": "orange",
+          "1": "5"
+        }
+      },
+      "6": {
+        "value": "#fd7e14",
+        "type": "color",
+        "filePath": "colors/src/orange.tokens.json",
+        "isSource": true,
+        "original": {
+          "value": "#fd7e14",
+          "type": "color"
+        },
+        "attributes": {
+          "category": "orange",
+          "type": "6"
+        },
+        "path": {
+          "0": "orange",
+          "1": "6"
+        }
+      },
+      "7": {
+        "value": "#f76707",
+        "type": "color",
+        "filePath": "colors/src/orange.tokens.json",
+        "isSource": true,
+        "original": {
+          "value": "#f76707",
+          "type": "color"
+        },
+        "attributes": {
+          "category": "orange",
+          "type": "7"
+        },
+        "path": {
+          "0": "orange",
+          "1": "7"
+        }
+      },
+      "8": {
+        "value": "#e8590c",
+        "type": "color",
+        "filePath": "colors/src/orange.tokens.json",
+        "isSource": true,
+        "original": {
+          "value": "#e8590c",
+          "type": "color"
+        },
+        "attributes": {
+          "category": "orange",
+          "type": "8"
+        },
+        "path": {
+          "0": "orange",
+          "1": "8"
+        }
+      },
+      "9": {
+        "value": "#d9480f",
+        "type": "color",
+        "filePath": "colors/src/orange.tokens.json",
+        "isSource": true,
+        "original": {
+          "value": "#d9480f",
+          "type": "color"
+        },
+        "attributes": {
+          "category": "orange",
+          "type": "9"
+        },
+        "path": {
+          "0": "orange",
+          "1": "9"
+        }
+      }
+    },
+    "font": {
+      "sans": {
+        "value": "system-ui,-apple-system,Segoe UI,Roboto,Ubuntu,Cantarell,Noto Sans,sans-serif",
+        "type": "fontFamily",
+        "filePath": "font/src/family.tokens.json",
+        "isSource": true,
+        "original": {
+          "value": "system-ui,-apple-system,Segoe UI,Roboto,Ubuntu,Cantarell,Noto Sans,sans-serif",
+          "type": "fontFamily"
+        },
+        "attributes": {
+          "category": "font",
+          "type": "sans"
+        },
+        "path": {
+          "0": "font",
+          "1": "sans"
+        }
+      },
+      "serif": {
+        "value": "ui-serif,serif",
+        "type": "fontFamily",
+        "filePath": "font/src/family.tokens.json",
+        "isSource": true,
+        "original": {
+          "value": "ui-serif,serif",
+          "type": "fontFamily"
+        },
+        "attributes": {
+          "category": "font",
+          "type": "serif"
+        },
+        "path": {
+          "0": "font",
+          "1": "serif"
+        }
+      },
+      "mono": {
+        "value": "Dank Mono,Operator Mono,Inconsolata,Fira Mono,ui-monospace,SF Mono,Monaco,Droid Sans Mono,Source Code Pro,monospace",
+        "type": "fontFamily",
+        "filePath": "font/src/family.tokens.json",
+        "isSource": true,
+        "original": {
+          "value": "Dank Mono,Operator Mono,Inconsolata,Fira Mono,ui-monospace,SF Mono,Monaco,Droid Sans Mono,Source Code Pro,monospace",
+          "type": "fontFamily"
+        },
+        "attributes": {
+          "category": "font",
+          "type": "mono"
+        },
+        "path": {
+          "0": "font",
+          "1": "mono"
+        }
+      },
+      "lineheight": {
+        "0": {
+          "value": "1.1",
+          "type": "lineHeight",
+          "filePath": "font/src/lineheight.tokens.json",
+          "isSource": true,
+          "original": {
+            "value": "1.1",
+            "type": "lineHeight"
+          },
+          "attributes": {
+            "category": "font",
+            "type": "lineheight",
+            "item": "0"
+          },
+          "path": {
+            "0": "font",
+            "1": "lineheight",
+            "2": "0"
+          }
+        },
+        "1": {
+          "value": "1.25",
+          "type": "lineHeight",
+          "filePath": "font/src/lineheight.tokens.json",
+          "isSource": true,
+          "original": {
+            "value": "1.25",
+            "type": "lineHeight"
+          },
+          "attributes": {
+            "category": "font",
+            "type": "lineheight",
+            "item": "1"
+          },
+          "path": {
+            "0": "font",
+            "1": "lineheight",
+            "2": "1"
+          }
+        },
+        "2": {
+          "value": "1.375",
+          "type": "lineHeight",
+          "filePath": "font/src/lineheight.tokens.json",
+          "isSource": true,
+          "original": {
+            "value": "1.375",
+            "type": "lineHeight"
+          },
+          "attributes": {
+            "category": "font",
+            "type": "lineheight",
+            "item": "2"
+          },
+          "path": {
+            "0": "font",
+            "1": "lineheight",
+            "2": "2"
+          }
+        },
+        "3": {
+          "value": "1.5",
+          "type": "lineHeight",
+          "filePath": "font/src/lineheight.tokens.json",
+          "isSource": true,
+          "original": {
+            "value": "1.5",
+            "type": "lineHeight"
+          },
+          "attributes": {
+            "category": "font",
+            "type": "lineheight",
+            "item": "3"
+          },
+          "path": {
+            "0": "font",
+            "1": "lineheight",
+            "2": "3"
+          }
+        },
+        "4": {
+          "value": "1.75",
+          "type": "lineHeight",
+          "filePath": "font/src/lineheight.tokens.json",
+          "isSource": true,
+          "original": {
+            "value": "1.75",
+            "type": "lineHeight"
+          },
+          "attributes": {
+            "category": "font",
+            "type": "lineheight",
+            "item": "4"
+          },
+          "path": {
+            "0": "font",
+            "1": "lineheight",
+            "2": "4"
+          }
+        },
+        "5": {
+          "value": "2",
+          "type": "lineHeight",
+          "filePath": "font/src/lineheight.tokens.json",
+          "isSource": true,
+          "original": {
+            "value": "2",
+            "type": "lineHeight"
+          },
+          "attributes": {
+            "category": "font",
+            "type": "lineheight",
+            "item": "5"
+          },
+          "path": {
+            "0": "font",
+            "1": "lineheight",
+            "2": "5"
+          }
+        },
+        "00": {
+          "value": ".95",
+          "type": "lineHeight",
+          "filePath": "font/src/lineheight.tokens.json",
+          "isSource": true,
+          "original": {
+            "value": ".95",
+            "type": "lineHeight"
+          },
+          "attributes": {
+            "category": "font",
+            "type": "lineheight",
+            "item": "00"
+          },
+          "path": {
+            "0": "font",
+            "1": "lineheight",
+            "2": "00"
+          }
+        }
+      },
+      "size": {
+        "0": {
+          "value": ".75rem",
+          "type": "lineHeight",
+          "filePath": "font/src/size.tokens.json",
+          "isSource": true,
+          "original": {
+            "value": ".75rem",
+            "type": "lineHeight"
+          },
+          "attributes": {
+            "category": "font",
+            "type": "size",
+            "item": "0"
+          },
+          "path": {
+            "0": "font",
+            "1": "size",
+            "2": "0"
+          }
+        },
+        "1": {
+          "value": "1rem",
+          "type": "lineHeight",
+          "filePath": "font/src/size.tokens.json",
+          "isSource": true,
+          "original": {
+            "value": "1rem",
+            "type": "lineHeight"
+          },
+          "attributes": {
+            "category": "font",
+            "type": "size",
+            "item": "1"
+          },
+          "path": {
+            "0": "font",
+            "1": "size",
+            "2": "1"
+          }
+        },
+        "2": {
+          "value": "1.1rem",
+          "type": "lineHeight",
+          "filePath": "font/src/size.tokens.json",
+          "isSource": true,
+          "original": {
+            "value": "1.1rem",
+            "type": "lineHeight"
+          },
+          "attributes": {
+            "category": "font",
+            "type": "size",
+            "item": "2"
+          },
+          "path": {
+            "0": "font",
+            "1": "size",
+            "2": "2"
+          }
+        },
+        "3": {
+          "value": "1.25rem",
+          "type": "lineHeight",
+          "filePath": "font/src/size.tokens.json",
+          "isSource": true,
+          "original": {
+            "value": "1.25rem",
+            "type": "lineHeight"
+          },
+          "attributes": {
+            "category": "font",
+            "type": "size",
+            "item": "3"
+          },
+          "path": {
+            "0": "font",
+            "1": "size",
+            "2": "3"
+          }
+        },
+        "4": {
+          "value": "1.5rem",
+          "type": "lineHeight",
+          "filePath": "font/src/size.tokens.json",
+          "isSource": true,
+          "original": {
+            "value": "1.5rem",
+            "type": "lineHeight"
+          },
+          "attributes": {
+            "category": "font",
+            "type": "size",
+            "item": "4"
+          },
+          "path": {
+            "0": "font",
+            "1": "size",
+            "2": "4"
+          }
+        },
+        "5": {
+          "value": "2rem",
+          "type": "lineHeight",
+          "filePath": "font/src/size.tokens.json",
+          "isSource": true,
+          "original": {
+            "value": "2rem",
+            "type": "lineHeight"
+          },
+          "attributes": {
+            "category": "font",
+            "type": "size",
+            "item": "5"
+          },
+          "path": {
+            "0": "font",
+            "1": "size",
+            "2": "5"
+          }
+        },
+        "6": {
+          "value": "2.5rem",
+          "type": "lineHeight",
+          "filePath": "font/src/size.tokens.json",
+          "isSource": true,
+          "original": {
+            "value": "2.5rem",
+            "type": "lineHeight"
+          },
+          "attributes": {
+            "category": "font",
+            "type": "size",
+            "item": "6"
+          },
+          "path": {
+            "0": "font",
+            "1": "size",
+            "2": "6"
+          }
+        },
+        "7": {
+          "value": "3rem",
+          "type": "lineHeight",
+          "filePath": "font/src/size.tokens.json",
+          "isSource": true,
+          "original": {
+            "value": "3rem",
+            "type": "lineHeight"
+          },
+          "attributes": {
+            "category": "font",
+            "type": "size",
+            "item": "7"
+          },
+          "path": {
+            "0": "font",
+            "1": "size",
+            "2": "7"
+          }
+        },
+        "8": {
+          "value": "3.5rem",
+          "type": "lineHeight",
+          "filePath": "font/src/size.tokens.json",
+          "isSource": true,
+          "original": {
+            "value": "3.5rem",
+            "type": "lineHeight"
+          },
+          "attributes": {
+            "category": "font",
+            "type": "size",
+            "item": "8"
+          },
+          "path": {
+            "0": "font",
+            "1": "size",
+            "2": "8"
+          }
+        },
+        "00": {
+          "value": ".5rem",
+          "type": "lineHeight",
+          "filePath": "font/src/size.tokens.json",
+          "isSource": true,
+          "original": {
+            "value": ".5rem",
+            "type": "lineHeight"
+          },
+          "attributes": {
+            "category": "font",
+            "type": "size",
+            "item": "00"
+          },
+          "path": {
+            "0": "font",
+            "1": "size",
+            "2": "00"
+          }
+        }
+      },
+      "weight": {
+        "1": {
+          "value": "100",
+          "type": "fontWeight",
+          "filePath": "font/src/weight.tokens.json",
+          "isSource": true,
+          "original": {
+            "value": "100",
+            "type": "fontWeight"
+          },
+          "attributes": {
+            "category": "font",
+            "type": "weight",
+            "item": "1"
+          },
+          "path": {
+            "0": "font",
+            "1": "weight",
+            "2": "1"
+          }
+        },
+        "2": {
+          "value": "200",
+          "type": "fontWeight",
+          "filePath": "font/src/weight.tokens.json",
+          "isSource": true,
+          "original": {
+            "value": "200",
+            "type": "fontWeight"
+          },
+          "attributes": {
+            "category": "font",
+            "type": "weight",
+            "item": "2"
+          },
+          "path": {
+            "0": "font",
+            "1": "weight",
+            "2": "2"
+          }
+        },
+        "3": {
+          "value": "300",
+          "type": "fontWeight",
+          "filePath": "font/src/weight.tokens.json",
+          "isSource": true,
+          "original": {
+            "value": "300",
+            "type": "fontWeight"
+          },
+          "attributes": {
+            "category": "font",
+            "type": "weight",
+            "item": "3"
+          },
+          "path": {
+            "0": "font",
+            "1": "weight",
+            "2": "3"
+          }
+        },
+        "4": {
+          "value": "400",
+          "type": "fontWeight",
+          "filePath": "font/src/weight.tokens.json",
+          "isSource": true,
+          "original": {
+            "value": "400",
+            "type": "fontWeight"
+          },
+          "attributes": {
+            "category": "font",
+            "type": "weight",
+            "item": "4"
+          },
+          "path": {
+            "0": "font",
+            "1": "weight",
+            "2": "4"
+          }
+        },
+        "5": {
+          "value": "500",
+          "type": "fontWeight",
+          "filePath": "font/src/weight.tokens.json",
+          "isSource": true,
+          "original": {
+            "value": "500",
+            "type": "fontWeight"
+          },
+          "attributes": {
+            "category": "font",
+            "type": "weight",
+            "item": "5"
+          },
+          "path": {
+            "0": "font",
+            "1": "weight",
+            "2": "5"
+          }
+        },
+        "6": {
+          "value": "600",
+          "type": "fontWeight",
+          "filePath": "font/src/weight.tokens.json",
+          "isSource": true,
+          "original": {
+            "value": "600",
+            "type": "fontWeight"
+          },
+          "attributes": {
+            "category": "font",
+            "type": "weight",
+            "item": "6"
+          },
+          "path": {
+            "0": "font",
+            "1": "weight",
+            "2": "6"
+          }
+        },
+        "7": {
+          "value": "700",
+          "type": "fontWeight",
+          "filePath": "font/src/weight.tokens.json",
+          "isSource": true,
+          "original": {
+            "value": "700",
+            "type": "fontWeight"
+          },
+          "attributes": {
+            "category": "font",
+            "type": "weight",
+            "item": "7"
+          },
+          "path": {
+            "0": "font",
+            "1": "weight",
+            "2": "7"
+          }
+        },
+        "8": {
+          "value": "800",
+          "type": "fontWeight",
+          "filePath": "font/src/weight.tokens.json",
+          "isSource": true,
+          "original": {
+            "value": "800",
+            "type": "fontWeight"
+          },
+          "attributes": {
+            "category": "font",
+            "type": "weight",
+            "item": "8"
+          },
+          "path": {
+            "0": "font",
+            "1": "weight",
+            "2": "8"
+          }
+        },
+        "9": {
+          "value": "900",
+          "type": "fontWeight",
+          "filePath": "font/src/weight.tokens.json",
+          "isSource": true,
+          "original": {
+            "value": "900",
+            "type": "fontWeight"
+          },
+          "attributes": {
+            "category": "font",
+            "type": "weight",
+            "item": "9"
+          },
+          "path": {
+            "0": "font",
+            "1": "weight",
+            "2": "9"
+          }
+        }
+      }
+    },
+    "radius": {
+      "1": {
+        "value": "2px",
+        "type": "borderRadius",
+        "filePath": "radius/src/radius.tokens.json",
+        "isSource": true,
+        "original": {
+          "value": "2px",
+          "type": "borderRadius"
+        },
+        "attributes": {
+          "category": "radius",
+          "type": "1"
+        },
+        "path": {
+          "0": "radius",
+          "1": "1"
+        }
+      },
+      "2": {
+        "value": "5px",
+        "type": "borderRadius",
+        "filePath": "radius/src/radius.tokens.json",
+        "isSource": true,
+        "original": {
+          "value": "5px",
+          "type": "borderRadius"
+        },
+        "attributes": {
+          "category": "radius",
+          "type": "2"
+        },
+        "path": {
+          "0": "radius",
+          "1": "2"
+        }
+      },
+      "3": {
+        "value": "1rem",
+        "type": "borderRadius",
+        "filePath": "radius/src/radius.tokens.json",
+        "isSource": true,
+        "original": {
+          "value": "1rem",
+          "type": "borderRadius"
+        },
+        "attributes": {
+          "category": "radius",
+          "type": "3"
+        },
+        "path": {
+          "0": "radius",
+          "1": "3"
+        }
+      },
+      "4": {
+        "value": "2rem",
+        "type": "borderRadius",
+        "filePath": "radius/src/radius.tokens.json",
+        "isSource": true,
+        "original": {
+          "value": "2rem",
+          "type": "borderRadius"
+        },
+        "attributes": {
+          "category": "radius",
+          "type": "4"
+        },
+        "path": {
+          "0": "radius",
+          "1": "4"
+        }
+      },
+      "5": {
+        "value": "4rem",
+        "type": "borderRadius",
+        "filePath": "radius/src/radius.tokens.json",
+        "isSource": true,
+        "original": {
+          "value": "4rem",
+          "type": "borderRadius"
+        },
+        "attributes": {
+          "category": "radius",
+          "type": "5"
+        },
+        "path": {
+          "0": "radius",
+          "1": "5"
+        }
+      },
+      "6": {
+        "value": "8rem",
+        "type": "borderRadius",
+        "filePath": "radius/src/radius.tokens.json",
+        "isSource": true,
+        "original": {
+          "value": "8rem",
+          "type": "borderRadius"
+        },
+        "attributes": {
+          "category": "radius",
+          "type": "6"
+        },
+        "path": {
+          "0": "radius",
+          "1": "6"
+        }
+      },
+      "round": {
+        "value": "1e5px",
+        "type": "borderRadius",
+        "filePath": "radius/src/radius.tokens.json",
+        "isSource": true,
+        "original": {
+          "value": "1e5px",
+          "type": "borderRadius"
+        },
+        "attributes": {
+          "category": "radius",
+          "type": "round"
+        },
+        "path": {
+          "0": "radius",
+          "1": "round"
+        }
+      }
+    },
+    "size": {
+      "1": {
+        "value": "0.25rem",
+        "type": "sizing",
+        "filePath": "sizes/src/size.tokens.json",
+        "isSource": true,
+        "original": {
+          "value": ".25rem",
+          "type": "sizing"
+        },
+        "attributes": {
+          "category": "size",
+          "type": "1"
+        },
+        "path": {
+          "0": "size",
+          "1": "1"
+        }
+      },
+      "2": {
+        "value": "0.5rem",
+        "type": "sizing",
+        "filePath": "sizes/src/size.tokens.json",
+        "isSource": true,
+        "original": {
+          "value": ".5rem",
+          "type": "sizing"
+        },
+        "attributes": {
+          "category": "size",
+          "type": "2"
+        },
+        "path": {
+          "0": "size",
+          "1": "2"
+        }
+      },
+      "3": {
+        "value": "1rem",
+        "type": "sizing",
+        "filePath": "sizes/src/size.tokens.json",
+        "isSource": true,
+        "original": {
+          "value": "1rem",
+          "type": "sizing"
+        },
+        "attributes": {
+          "category": "size",
+          "type": "3"
+        },
+        "path": {
+          "0": "size",
+          "1": "3"
+        }
+      },
+      "4": {
+        "value": "1.25rem",
+        "type": "sizing",
+        "filePath": "sizes/src/size.tokens.json",
+        "isSource": true,
+        "original": {
+          "value": "1.25rem",
+          "type": "sizing"
+        },
+        "attributes": {
+          "category": "size",
+          "type": "4"
+        },
+        "path": {
+          "0": "size",
+          "1": "4"
+        }
+      },
+      "5": {
+        "value": "1.5rem",
+        "type": "sizing",
+        "filePath": "sizes/src/size.tokens.json",
+        "isSource": true,
+        "original": {
+          "value": "1.5rem",
+          "type": "sizing"
+        },
+        "attributes": {
+          "category": "size",
+          "type": "5"
+        },
+        "path": {
+          "0": "size",
+          "1": "5"
+        }
+      },
+      "6": {
+        "value": "1.75rem",
+        "type": "sizing",
+        "filePath": "sizes/src/size.tokens.json",
+        "isSource": true,
+        "original": {
+          "value": "1.75rem",
+          "type": "sizing"
+        },
+        "attributes": {
+          "category": "size",
+          "type": "6"
+        },
+        "path": {
+          "0": "size",
+          "1": "6"
+        }
+      },
+      "7": {
+        "value": "2rem",
+        "type": "sizing",
+        "filePath": "sizes/src/size.tokens.json",
+        "isSource": true,
+        "original": {
+          "value": "2rem",
+          "type": "sizing"
+        },
+        "attributes": {
+          "category": "size",
+          "type": "7"
+        },
+        "path": {
+          "0": "size",
+          "1": "7"
+        }
+      },
+      "8": {
+        "value": "3rem",
+        "type": "sizing",
+        "filePath": "sizes/src/size.tokens.json",
+        "isSource": true,
+        "original": {
+          "value": "3rem",
+          "type": "sizing"
+        },
+        "attributes": {
+          "category": "size",
+          "type": "8"
+        },
+        "path": {
+          "0": "size",
+          "1": "8"
+        }
+      },
+      "9": {
+        "value": "4rem",
+        "type": "sizing",
+        "filePath": "sizes/src/size.tokens.json",
+        "isSource": true,
+        "original": {
+          "value": "4rem",
+          "type": "sizing"
+        },
+        "attributes": {
+          "category": "size",
+          "type": "9"
+        },
+        "path": {
+          "0": "size",
+          "1": "9"
+        }
+      },
+      "10": {
+        "value": "5rem",
+        "type": "sizing",
+        "filePath": "sizes/src/size.tokens.json",
+        "isSource": true,
+        "original": {
+          "value": "5rem",
+          "type": "sizing"
+        },
+        "attributes": {
+          "category": "size",
+          "type": "10"
+        },
+        "path": {
+          "0": "size",
+          "1": "10"
+        }
+      },
+      "11": {
+        "value": "7.5rem",
+        "type": "sizing",
+        "filePath": "sizes/src/size.tokens.json",
+        "isSource": true,
+        "original": {
+          "value": "7.5rem",
+          "type": "sizing"
+        },
+        "attributes": {
+          "category": "size",
+          "type": "11"
+        },
+        "path": {
+          "0": "size",
+          "1": "11"
+        }
+      },
+      "12": {
+        "value": "10rem",
+        "type": "sizing",
+        "filePath": "sizes/src/size.tokens.json",
+        "isSource": true,
+        "original": {
+          "value": "10rem",
+          "type": "sizing"
+        },
+        "attributes": {
+          "category": "size",
+          "type": "12"
+        },
+        "path": {
+          "0": "size",
+          "1": "12"
+        }
+      },
+      "13": {
+        "value": "15rem",
+        "type": "sizing",
+        "filePath": "sizes/src/size.tokens.json",
+        "isSource": true,
+        "original": {
+          "value": "15rem",
+          "type": "sizing"
+        },
+        "attributes": {
+          "category": "size",
+          "type": "13"
+        },
+        "path": {
+          "0": "size",
+          "1": "13"
+        }
+      },
+      "14": {
+        "value": "20rem",
+        "type": "sizing",
+        "filePath": "sizes/src/size.tokens.json",
+        "isSource": true,
+        "original": {
+          "value": "20rem",
+          "type": "sizing"
+        },
+        "attributes": {
+          "category": "size",
+          "type": "14"
+        },
+        "path": {
+          "0": "size",
+          "1": "14"
+        }
+      },
+      "15": {
+        "value": "30rem",
+        "type": "sizing",
+        "filePath": "sizes/src/size.tokens.json",
+        "isSource": true,
+        "original": {
+          "value": "30rem",
+          "type": "sizing"
+        },
+        "attributes": {
+          "category": "size",
+          "type": "15"
+        },
+        "path": {
+          "0": "size",
+          "1": "15"
+        }
+      },
+      "content": {
+        "1": {
+          "value": "20rem",
+          "type": "sizing",
+          "filePath": "sizes/src/content.tokens.json",
+          "isSource": true,
+          "original": {
+            "value": "20ch",
+            "type": "sizing"
+          },
+          "attributes": {
+            "category": "size",
+            "type": "content",
+            "item": "1"
+          },
+          "path": {
+            "0": "size",
+            "1": "content",
+            "2": "1"
+          }
+        },
+        "2": {
+          "value": "45rem",
+          "type": "sizing",
+          "filePath": "sizes/src/content.tokens.json",
+          "isSource": true,
+          "original": {
+            "value": "45ch",
+            "type": "sizing"
+          },
+          "attributes": {
+            "category": "size",
+            "type": "content",
+            "item": "2"
+          },
+          "path": {
+            "0": "size",
+            "1": "content",
+            "2": "2"
+          }
+        },
+        "3": {
+          "value": "60rem",
+          "type": "sizing",
+          "filePath": "sizes/src/content.tokens.json",
+          "isSource": true,
+          "original": {
+            "value": "60ch",
+            "type": "sizing"
+          },
+          "attributes": {
+            "category": "size",
+            "type": "content",
+            "item": "3"
+          },
+          "path": {
+            "0": "size",
+            "1": "content",
+            "2": "3"
+          }
+        }
+      },
+      "000": {
+        "value": "-0.5rem",
+        "type": "sizing",
+        "filePath": "sizes/src/size.tokens.json",
+        "isSource": true,
+        "original": {
+          "value": "-.5rem",
+          "type": "sizing"
+        },
+        "attributes": {
+          "category": "size",
+          "type": "000"
+        },
+        "path": {
+          "0": "size",
+          "1": "000"
+        }
+      },
+      "00": {
+        "value": "-0.25rem",
+        "type": "sizing",
+        "filePath": "sizes/src/size.tokens.json",
+        "isSource": true,
+        "original": {
+          "value": "-.25rem",
+          "type": "sizing"
+        },
+        "attributes": {
+          "category": "size",
+          "type": "00"
+        },
+        "path": {
+          "0": "size",
+          "1": "00"
+        }
+      }
+    }
+  },
+  "themeDark": {
+    "theme-dark": {
+      "brand": {
+        "value": "{orange.3}",
+        "type": "color",
+        "filePath": "themes/src/dark.tokens.json",
+        "isSource": true,
+        "original": {
+          "value": "{orange.3}",
+          "type": "color"
+        },
+        "attributes": {
+          "category": "theme-dark",
+          "type": "brand"
+        },
+        "path": {
+          "0": "theme-dark",
+          "1": "brand"
+        }
+      },
+      "text1": {
+        "value": "{gray.1}",
+        "type": "color",
+        "filePath": "themes/src/dark.tokens.json",
+        "isSource": true,
+        "original": {
+          "value": "{gray.1}",
+          "type": "color"
+        },
+        "attributes": {
+          "category": "theme-dark",
+          "type": "text1"
+        },
+        "path": {
+          "0": "theme-dark",
+          "1": "text1"
+        }
+      },
+      "text2": {
+        "value": "{gray.3}",
+        "type": "color",
+        "filePath": "themes/src/dark.tokens.json",
+        "isSource": true,
+        "original": {
+          "value": "{gray.3}",
+          "type": "color"
+        },
+        "attributes": {
+          "category": "theme-dark",
+          "type": "text2"
+        },
+        "path": {
+          "0": "theme-dark",
+          "1": "text2"
+        }
+      },
+      "surface1": {
+        "value": "{gray.9}",
+        "type": "color",
+        "filePath": "themes/src/dark.tokens.json",
+        "isSource": true,
+        "original": {
+          "value": "{gray.9}",
+          "type": "color"
+        },
+        "attributes": {
+          "category": "theme-dark",
+          "type": "surface1"
+        },
+        "path": {
+          "0": "theme-dark",
+          "1": "surface1"
+        }
+      },
+      "surface2": {
+        "value": "{gray.8}",
+        "type": "color",
+        "filePath": "themes/src/dark.tokens.json",
+        "isSource": true,
+        "original": {
+          "value": "{gray.8}",
+          "type": "color"
+        },
+        "attributes": {
+          "category": "theme-dark",
+          "type": "surface2"
+        },
+        "path": {
+          "0": "theme-dark",
+          "1": "surface2"
+        }
+      },
+      "surface3": {
+        "value": "{gray.7}",
+        "type": "color",
+        "filePath": "themes/src/dark.tokens.json",
+        "isSource": true,
+        "original": {
+          "value": "{gray.7}",
+          "type": "color"
+        },
+        "attributes": {
+          "category": "theme-dark",
+          "type": "surface3"
+        },
+        "path": {
+          "0": "theme-dark",
+          "1": "surface3"
+        }
+      },
+      "surface4": {
+        "value": "{gray.6}",
+        "type": "color",
+        "filePath": "themes/src/dark.tokens.json",
+        "isSource": true,
+        "original": {
+          "value": "{gray.6}",
+          "type": "color"
+        },
+        "attributes": {
+          "category": "theme-dark",
+          "type": "surface4"
+        },
+        "path": {
+          "0": "theme-dark",
+          "1": "surface4"
+        }
+      },
+      "surface-shadow": {
+        "value": "200 50% 3%",
+        "type": "boxShadow",
+        "filePath": "themes/src/dark.tokens.json",
+        "isSource": true,
+        "original": {
+          "value": "200 50% 3%",
+          "type": "boxShadow"
+        },
+        "attributes": {
+          "category": "theme-dark",
+          "type": "surface-shadow"
+        },
+        "path": {
+          "0": "theme-dark",
+          "1": "surface-shadow"
+        }
+      },
+      "shadow-strength": {
+        "value": "80%",
+        "type": "opacity",
+        "filePath": "themes/src/dark.tokens.json",
+        "isSource": true,
+        "original": {
+          "value": "80%",
+          "type": "opacity"
+        },
+        "attributes": {
+          "category": "theme-dark",
+          "type": "shadow-strength"
+        },
+        "path": {
+          "0": "theme-dark",
+          "1": "shadow-strength"
+        }
+      }
+    }
+  },
+  "themeDim": {
+    "theme-dim": {
+      "brand": {
+        "value": "{orange.4}",
+        "type": "color",
+        "filePath": "themes/src/dim.tokens.json",
+        "isSource": true,
+        "original": {
+          "value": "{orange.4}",
+          "type": "color"
+        },
+        "attributes": {
+          "category": "theme-dim",
+          "type": "brand"
+        },
+        "path": {
+          "0": "theme-dim",
+          "1": "brand"
+        }
+      },
+      "text1": {
+        "value": "{gray.3}",
+        "type": "color",
+        "filePath": "themes/src/dim.tokens.json",
+        "isSource": true,
+        "original": {
+          "value": "{gray.3}",
+          "type": "color"
+        },
+        "attributes": {
+          "category": "theme-dim",
+          "type": "text1"
+        },
+        "path": {
+          "0": "theme-dim",
+          "1": "text1"
+        }
+      },
+      "text2": {
+        "value": "{gray.4}",
+        "type": "color",
+        "filePath": "themes/src/dim.tokens.json",
+        "isSource": true,
+        "original": {
+          "value": "{gray.4}",
+          "type": "color"
+        },
+        "attributes": {
+          "category": "theme-dim",
+          "type": "text2"
+        },
+        "path": {
+          "0": "theme-dim",
+          "1": "text2"
+        }
+      },
+      "surface1": {
+        "value": "{gray.8}",
+        "type": "color",
+        "filePath": "themes/src/dim.tokens.json",
+        "isSource": true,
+        "original": {
+          "value": "{gray.8}",
+          "type": "color"
+        },
+        "attributes": {
+          "category": "theme-dim",
+          "type": "surface1"
+        },
+        "path": {
+          "0": "theme-dim",
+          "1": "surface1"
+        }
+      },
+      "surface2": {
+        "value": "{gray.7}",
+        "type": "color",
+        "filePath": "themes/src/dim.tokens.json",
+        "isSource": true,
+        "original": {
+          "value": "{gray.7}",
+          "type": "color"
+        },
+        "attributes": {
+          "category": "theme-dim",
+          "type": "surface2"
+        },
+        "path": {
+          "0": "theme-dim",
+          "1": "surface2"
+        }
+      },
+      "surface3": {
+        "value": "{gray.6}",
+        "type": "color",
+        "filePath": "themes/src/dim.tokens.json",
+        "isSource": true,
+        "original": {
+          "value": "{gray.6}",
+          "type": "color"
+        },
+        "attributes": {
+          "category": "theme-dim",
+          "type": "surface3"
+        },
+        "path": {
+          "0": "theme-dim",
+          "1": "surface3"
+        }
+      },
+      "surface4": {
+        "value": "{gray.5}",
+        "type": "color",
+        "filePath": "themes/src/dim.tokens.json",
+        "isSource": true,
+        "original": {
+          "value": "{gray.5}",
+          "type": "color"
+        },
+        "attributes": {
+          "category": "theme-dim",
+          "type": "surface4"
+        },
+        "path": {
+          "0": "theme-dim",
+          "1": "surface4"
+        }
+      },
+      "surface-shadow": {
+        "value": "200 10% 13%",
+        "type": "boxShadow",
+        "filePath": "themes/src/dim.tokens.json",
+        "isSource": true,
+        "original": {
+          "value": "200 10% 13%",
+          "type": "boxShadow"
+        },
+        "attributes": {
+          "category": "theme-dim",
+          "type": "surface-shadow"
+        },
+        "path": {
+          "0": "theme-dim",
+          "1": "surface-shadow"
+        }
+      },
+      "shadow-strength": {
+        "value": "20%",
+        "type": "opacity",
+        "filePath": "themes/src/dim.tokens.json",
+        "isSource": true,
+        "original": {
+          "value": "20%",
+          "type": "opacity"
+        },
+        "attributes": {
+          "category": "theme-dim",
+          "type": "shadow-strength"
+        },
+        "path": {
+          "0": "theme-dim",
+          "1": "shadow-strength"
+        }
+      }
+    }
+  },
+  "themeGrape": {
+    "theme-grape": {
       "brand": {
         "value": "{grape.5}",
+        "type": "color",
         "filePath": "themes/src/grape.tokens.json",
         "isSource": true,
         "original": {
-          "value": "{grape.5}"
+          "value": "{grape.5}",
+          "type": "color"
         },
         "attributes": {
-          "category": "theme",
-          "type": "grape",
-          "item": "brand"
+          "category": "theme-grape",
+          "type": "brand"
         },
         "path": {
-          "0": "theme",
-          "1": "grape",
-          "2": "brand"
+          "0": "theme-grape",
+          "1": "brand"
         }
       },
       "text1": {
         "value": "{grape.9}",
+        "type": "color",
         "filePath": "themes/src/grape.tokens.json",
         "isSource": true,
         "original": {
-          "value": "{grape.9}"
+          "value": "{grape.9}",
+          "type": "color"
         },
         "attributes": {
-          "category": "theme",
-          "type": "grape",
-          "item": "text1"
+          "category": "theme-grape",
+          "type": "text1"
         },
         "path": {
-          "0": "theme",
-          "1": "grape",
-          "2": "text1"
+          "0": "theme-grape",
+          "1": "text1"
         }
       },
       "text2": {
         "value": "{grape.7}",
+        "type": "color",
         "filePath": "themes/src/grape.tokens.json",
         "isSource": true,
         "original": {
-          "value": "{grape.7}"
+          "value": "{grape.7}",
+          "type": "color"
         },
         "attributes": {
-          "category": "theme",
-          "type": "grape",
-          "item": "text2"
+          "category": "theme-grape",
+          "type": "text2"
         },
         "path": {
-          "0": "theme",
-          "1": "grape",
-          "2": "text2"
+          "0": "theme-grape",
+          "1": "text2"
         }
       },
       "surface1": {
         "value": "{grape.0}",
+        "type": "color",
         "filePath": "themes/src/grape.tokens.json",
         "isSource": true,
         "original": {
-          "value": "{grape.0}"
+          "value": "{grape.0}",
+          "type": "color"
         },
         "attributes": {
-          "category": "theme",
-          "type": "grape",
-          "item": "surface1"
+          "category": "theme-grape",
+          "type": "surface1"
         },
         "path": {
-          "0": "theme",
-          "1": "grape",
-          "2": "surface1"
+          "0": "theme-grape",
+          "1": "surface1"
         }
       },
       "surface2": {
         "value": "{grape.1}",
+        "type": "color",
         "filePath": "themes/src/grape.tokens.json",
         "isSource": true,
         "original": {
-          "value": "{grape.1}"
+          "value": "{grape.1}",
+          "type": "color"
         },
         "attributes": {
-          "category": "theme",
-          "type": "grape",
-          "item": "surface2"
+          "category": "theme-grape",
+          "type": "surface2"
         },
         "path": {
-          "0": "theme",
-          "1": "grape",
-          "2": "surface2"
+          "0": "theme-grape",
+          "1": "surface2"
         }
       },
       "surface3": {
         "value": "{grape.2}",
+        "type": "color",
         "filePath": "themes/src/grape.tokens.json",
         "isSource": true,
         "original": {
-          "value": "{grape.2}"
+          "value": "{grape.2}",
+          "type": "color"
         },
         "attributes": {
-          "category": "theme",
-          "type": "grape",
-          "item": "surface3"
+          "category": "theme-grape",
+          "type": "surface3"
         },
         "path": {
-          "0": "theme",
-          "1": "grape",
-          "2": "surface3"
+          "0": "theme-grape",
+          "1": "surface3"
         }
       },
       "surface4": {
         "value": "{grape.3}",
+        "type": "color",
         "filePath": "themes/src/grape.tokens.json",
         "isSource": true,
         "original": {
-          "value": "{grape.3}"
+          "value": "{grape.3}",
+          "type": "color"
         },
         "attributes": {
-          "category": "theme",
-          "type": "grape",
-          "item": "surface4"
+          "category": "theme-grape",
+          "type": "surface4"
         },
         "path": {
-          "0": "theme",
-          "1": "grape",
-          "2": "surface4"
+          "0": "theme-grape",
+          "1": "surface4"
         }
       },
       "surface-shadow": {
         "value": "288 30% 20%",
+        "type": "boxShadow",
         "filePath": "themes/src/grape.tokens.json",
         "isSource": true,
         "original": {
-          "value": "288 30% 20%"
+          "value": "288 30% 20%",
+          "type": "boxShadow"
         },
         "attributes": {
-          "category": "theme",
-          "type": "grape",
-          "item": "surface-shadow"
+          "category": "theme-grape",
+          "type": "surface-shadow"
         },
         "path": {
-          "0": "theme",
-          "1": "grape",
-          "2": "surface-shadow"
+          "0": "theme-grape",
+          "1": "surface-shadow"
         }
       },
       "shadow-strength": {
         "value": "2%",
+        "type": "opacity",
         "filePath": "themes/src/grape.tokens.json",
         "isSource": true,
         "original": {
-          "value": "2%"
+          "value": "2%",
+          "type": "opacity"
         },
         "attributes": {
-          "category": "theme",
-          "type": "grape",
-          "item": "shadow-strength"
+          "category": "theme-grape",
+          "type": "shadow-strength"
         },
         "path": {
-          "0": "theme",
-          "1": "grape",
-          "2": "shadow-strength"
+          "0": "theme-grape",
+          "1": "shadow-strength"
         }
       }
-    },
-    "light": {
+    }
+  },
+  "themeLight": {
+    "theme-light": {
       "brand": {
         "value": "{orange.6}",
+        "type": "color",
         "filePath": "themes/src/light.tokens.json",
         "isSource": true,
         "original": {
-          "value": "{orange.6}"
+          "value": "{orange.6}",
+          "type": "color"
         },
         "attributes": {
-          "category": "theme",
-          "type": "light",
-          "item": "brand"
+          "category": "theme-light",
+          "type": "brand"
         },
         "path": {
-          "0": "theme",
-          "1": "light",
-          "2": "brand"
+          "0": "theme-light",
+          "1": "brand"
         }
       },
       "text1": {
         "value": "{gray.8}",
+        "type": "color",
         "filePath": "themes/src/light.tokens.json",
         "isSource": true,
         "original": {
-          "value": "{gray.8}"
+          "value": "{gray.8}",
+          "type": "color"
         },
         "attributes": {
-          "category": "theme",
-          "type": "light",
-          "item": "text1"
+          "category": "theme-light",
+          "type": "text1"
         },
         "path": {
-          "0": "theme",
-          "1": "light",
-          "2": "text1"
+          "0": "theme-light",
+          "1": "text1"
         }
       },
       "text2": {
         "value": "{gray.7}",
+        "type": "color",
         "filePath": "themes/src/light.tokens.json",
         "isSource": true,
         "original": {
-          "value": "{gray.7}"
+          "value": "{gray.7}",
+          "type": "color"
         },
         "attributes": {
-          "category": "theme",
-          "type": "light",
-          "item": "text2"
+          "category": "theme-light",
+          "type": "text2"
         },
         "path": {
-          "0": "theme",
-          "1": "light",
-          "2": "text2"
+          "0": "theme-light",
+          "1": "text2"
         }
       },
       "surface1": {
         "value": "{gray.0}",
+        "type": "color",
         "filePath": "themes/src/light.tokens.json",
         "isSource": true,
         "original": {
-          "value": "{gray.0}"
+          "value": "{gray.0}",
+          "type": "color"
         },
         "attributes": {
-          "category": "theme",
-          "type": "light",
-          "item": "surface1"
+          "category": "theme-light",
+          "type": "surface1"
         },
         "path": {
-          "0": "theme",
-          "1": "light",
-          "2": "surface1"
+          "0": "theme-light",
+          "1": "surface1"
         }
       },
       "surface2": {
         "value": "{gray.1}",
+        "type": "color",
         "filePath": "themes/src/light.tokens.json",
         "isSource": true,
         "original": {
-          "value": "{gray.1}"
+          "value": "{gray.1}",
+          "type": "color"
         },
         "attributes": {
-          "category": "theme",
-          "type": "light",
-          "item": "surface2"
+          "category": "theme-light",
+          "type": "surface2"
         },
         "path": {
-          "0": "theme",
-          "1": "light",
-          "2": "surface2"
+          "0": "theme-light",
+          "1": "surface2"
         }
       },
       "surface3": {
         "value": "{gray.2}",
+        "type": "color",
         "filePath": "themes/src/light.tokens.json",
         "isSource": true,
         "original": {
-          "value": "{gray.2}"
+          "value": "{gray.2}",
+          "type": "color"
         },
         "attributes": {
-          "category": "theme",
-          "type": "light",
-          "item": "surface3"
+          "category": "theme-light",
+          "type": "surface3"
         },
         "path": {
-          "0": "theme",
-          "1": "light",
-          "2": "surface3"
+          "0": "theme-light",
+          "1": "surface3"
         }
       },
       "surface4": {
         "value": "{gray.3}",
+        "type": "color",
         "filePath": "themes/src/light.tokens.json",
         "isSource": true,
         "original": {
-          "value": "{gray.3}"
+          "value": "{gray.3}",
+          "type": "color"
         },
         "attributes": {
-          "category": "theme",
-          "type": "light",
-          "item": "surface4"
+          "category": "theme-light",
+          "type": "surface4"
         },
         "path": {
-          "0": "theme",
-          "1": "light",
-          "2": "surface4"
+          "0": "theme-light",
+          "1": "surface4"
         }
       },
       "surface-shadow": {
         "value": "200 10% 20%",
+        "type": "boxShadow",
         "filePath": "themes/src/light.tokens.json",
         "isSource": true,
         "original": {
-          "value": "200 10% 20%"
+          "value": "200 10% 20%",
+          "type": "boxShadow"
         },
         "attributes": {
-          "category": "theme",
-          "type": "light",
-          "item": "surface-shadow"
+          "category": "theme-light",
+          "type": "surface-shadow"
         },
         "path": {
-          "0": "theme",
-          "1": "light",
-          "2": "surface-shadow"
+          "0": "theme-light",
+          "1": "surface-shadow"
         }
       },
       "shadow-strength": {
         "value": "2%",
+        "type": "opacity",
         "filePath": "themes/src/light.tokens.json",
         "isSource": true,
         "original": {
-          "value": "2%"
+          "value": "2%",
+          "type": "opacity"
         },
         "attributes": {
-          "category": "theme",
-          "type": "light",
-          "item": "shadow-strength"
+          "category": "theme-light",
+          "type": "shadow-strength"
         },
         "path": {
-          "0": "theme",
-          "1": "light",
-          "2": "shadow-strength"
+          "0": "theme-light",
+          "1": "shadow-strength"
         }
       }
     }

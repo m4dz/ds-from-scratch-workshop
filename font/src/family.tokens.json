@@ -1,13 +1,17 @@
 {
   "font": {
+    "tokenset": "global",
     "sans": {
-      "value": "system-ui,-apple-system,Segoe UI,Roboto,Ubuntu,Cantarell,Noto Sans,sans-serif"
+      "value": "system-ui,-apple-system,Segoe UI,Roboto,Ubuntu,Cantarell,Noto Sans,sans-serif",
+      "type": "fontFamily"
     },
     "serif": {
-      "value": "ui-serif,serif"
+      "value": "ui-serif,serif",
+      "type": "fontFamily"
     },
     "mono": {
-      "value": "Dank Mono,Operator Mono,Inconsolata,Fira Mono,ui-monospace,SF Mono,Monaco,Droid Sans Mono,Source Code Pro,monospace"
+      "value": "Dank Mono,Operator Mono,Inconsolata,Fira Mono,ui-monospace,SF Mono,Monaco,Droid Sans Mono,Source Code Pro,monospace",
+      "type": "fontFamily"
     }
   }
 }

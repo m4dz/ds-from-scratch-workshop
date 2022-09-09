@@ -1,40 +1,25 @@
 {
   "shadow": {
+    "tokenset": "global",
     "light": {
       "tint": {
         "value": "200 10% 20%",
         "type": "color"
-      },
-      "strength": {
-        "value": "2%",
-        "type": "opacity"
       }
     },
     "dark": {
       "tint": {
         "value": "200 50% 3%",
         "type": "color"
-      },
-      "strength": {
-        "value": "80%",
-        "type": "opacity"
       }
     },
     "dim": {
       "tint": {
         "value": "200 10% 13%",
         "type": "color"
-      },
-      "strength": {
-        "value": "20%",
-        "type": "opacity"
       }
     },
     "colored": {
-      "tint": {
-        "value": "288 30% 20%",
-        "type": "color"
-      },
       "strength": {
         "value": "2%",
         "type": "opacity"

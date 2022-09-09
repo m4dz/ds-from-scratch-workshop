@@ -2,8 +2,8 @@
   "shadow": {
     "light": {
       "tint": {
-        "value": "hsl(200 10% 20%)",
-        "type": "boxShadow"
+        "value": "200 10% 20%",
+        "type": "color"
       },
       "strength": {
         "value": "2%",
@@ -12,8 +12,8 @@
     },
     "dark": {
       "tint": {
-        "value": "hsl(200 50% 3%)",
-        "type": "boxShadow"
+        "value": "200 50% 3%",
+        "type": "color"
       },
       "strength": {
         "value": "80%",
@@ -22,8 +22,8 @@
     },
     "dim": {
       "tint": {
-        "value": "hsl(200 10% 13%)",
-        "type": "boxShadow"
+        "value": "200 10% 13%",
+        "type": "color"
       },
       "strength": {
         "value": "20%",
@@ -32,8 +32,8 @@
     },
     "colored": {
       "tint": {
-        "value": "hsl(288 30% 20%)",
-        "type": "boxShadow"
+        "value": "288 30% 20%",
+        "type": "color"
       },
       "strength": {
         "value": "2%",

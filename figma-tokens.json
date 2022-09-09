@@ -1731,8 +1731,8 @@
       }
     }
   },
-  "theme-dark$": {
-    "theme-dark": {
+  "theme-light$": {
+    "theme": {
       "dark": {
         "brand": {
           "value": "{orange.3}",
@@ -1742,12 +1742,12 @@
             "value": "{orange.3}"
           },
           "attributes": {
-            "category": "theme-dark",
+            "category": "theme",
             "type": "dark",
             "item": "brand"
           },
           "path": {
-            "0": "theme-dark",
+            "0": "theme",
             "1": "dark",
             "2": "brand"
           }
@@ -1760,12 +1760,12 @@
             "value": "{gray.1}"
           },
           "attributes": {
-            "category": "theme-dark",
+            "category": "theme",
             "type": "dark",
             "item": "text1"
           },
           "path": {
-            "0": "theme-dark",
+            "0": "theme",
             "1": "dark",
             "2": "text1"
           }
@@ -1778,12 +1778,12 @@
             "value": "{gray.3}"
           },
           "attributes": {
-            "category": "theme-dark",
+            "category": "theme",
             "type": "dark",
             "item": "text2"
           },
           "path": {
-            "0": "theme-dark",
+            "0": "theme",
             "1": "dark",
             "2": "text2"
           }
@@ -1796,12 +1796,12 @@
             "value": "{gray.9}"
           },
           "attributes": {
-            "category": "theme-dark",
+            "category": "theme",
             "type": "dark",
             "item": "surface1"
           },
           "path": {
-            "0": "theme-dark",
+            "0": "theme",
             "1": "dark",
             "2": "surface1"
           }
@@ -1814,12 +1814,12 @@
             "value": "{gray.8}"
           },
           "attributes": {
-            "category": "theme-dark",
+            "category": "theme",
             "type": "dark",
             "item": "surface2"
           },
           "path": {
-            "0": "theme-dark",
+            "0": "theme",
             "1": "dark",
             "2": "surface2"
           }
@@ -1832,12 +1832,12 @@
             "value": "{gray.7}"
           },
           "attributes": {
-            "category": "theme-dark",
+            "category": "theme",
             "type": "dark",
             "item": "surface3"
           },
           "path": {
-            "0": "theme-dark",
+            "0": "theme",
             "1": "dark",
             "2": "surface3"
           }
@@ -1850,12 +1850,12 @@
             "value": "{gray.6}"
           },
           "attributes": {
-            "category": "theme-dark",
+            "category": "theme",
             "type": "dark",
             "item": "surface4"
           },
           "path": {
-            "0": "theme-dark",
+            "0": "theme",
             "1": "dark",
             "2": "surface4"
           }
@@ -1868,12 +1868,12 @@
             "value": "200 50% 3%"
           },
           "attributes": {
-            "category": "theme-dark",
+            "category": "theme",
             "type": "dark",
             "item": "surface-shadow"
           },
           "path": {
-            "0": "theme-dark",
+            "0": "theme",
             "1": "dark",
             "2": "surface-shadow"
           }
@@ -1886,21 +1886,17 @@
             "value": "80%"
           },
           "attributes": {
-            "category": "theme-dark",
+            "category": "theme",
             "type": "dark",
             "item": "shadow-strength"
           },
           "path": {
-            "0": "theme-dark",
+            "0": "theme",
             "1": "dark",
             "2": "shadow-strength"
           }
         }
-      }
-    }
-  },
-  "theme-dim$": {
-    "theme-dim": {
+      },
       "dim": {
         "brand": {
           "value": "{orange.4}",
@@ -1910,12 +1906,12 @@
             "value": "{orange.4}"
           },
           "attributes": {
-            "category": "theme-dim",
+            "category": "theme",
             "type": "dim",
             "item": "brand"
           },
           "path": {
-            "0": "theme-dim",
+            "0": "theme",
             "1": "dim",
             "2": "brand"
           }
@@ -1928,12 +1924,12 @@
             "value": "{gray.3}"
           },
           "attributes": {
-            "category": "theme-dim",
+            "category": "theme",
             "type": "dim",
             "item": "text1"
           },
           "path": {
-            "0": "theme-dim",
+            "0": "theme",
             "1": "dim",
             "2": "text1"
           }
@@ -1946,12 +1942,12 @@
             "value": "{gray.4}"
           },
           "attributes": {
-            "category": "theme-dim",
+            "category": "theme",
             "type": "dim",
             "item": "text2"
           },
           "path": {
-            "0": "theme-dim",
+            "0": "theme",
             "1": "dim",
             "2": "text2"
           }
@@ -1964,12 +1960,12 @@
             "value": "{gray.8}"
           },
           "attributes": {
-            "category": "theme-dim",
+            "category": "theme",
             "type": "dim",
             "item": "surface1"
           },
           "path": {
-            "0": "theme-dim",
+            "0": "theme",
             "1": "dim",
             "2": "surface1"
           }
@@ -1982,12 +1978,12 @@
             "value": "{gray.7}"
           },
           "attributes": {
-            "category": "theme-dim",
+            "category": "theme",
             "type": "dim",
             "item": "surface2"
           },
           "path": {
-            "0": "theme-dim",
+            "0": "theme",
             "1": "dim",
             "2": "surface2"
           }
@@ -2000,12 +1996,12 @@
             "value": "{gray.6}"
           },
           "attributes": {
-            "category": "theme-dim",
+            "category": "theme",
             "type": "dim",
             "item": "surface3"
           },
           "path": {
-            "0": "theme-dim",
+            "0": "theme",
             "1": "dim",
             "2": "surface3"
           }
@@ -2018,12 +2014,12 @@
             "value": "{gray.5}"
           },
           "attributes": {
-            "category": "theme-dim",
+            "category": "theme",
             "type": "dim",
             "item": "surface4"
           },
           "path": {
-            "0": "theme-dim",
+            "0": "theme",
             "1": "dim",
             "2": "surface4"
           }
@@ -2036,12 +2032,12 @@
             "value": "200 10% 13%"
           },
           "attributes": {
-            "category": "theme-dim",
+            "category": "theme",
             "type": "dim",
             "item": "surface-shadow"
           },
           "path": {
-            "0": "theme-dim",
+            "0": "theme",
             "1": "dim",
             "2": "surface-shadow"
           }
@@ -2054,21 +2050,17 @@
             "value": "20%"
           },
           "attributes": {
-            "category": "theme-dim",
+            "category": "theme",
             "type": "dim",
             "item": "shadow-strength"
           },
           "path": {
-            "0": "theme-dim",
+            "0": "theme",
             "1": "dim",
             "2": "shadow-strength"
           }
         }
-      }
-    }
-  },
-  "theme-grape$": {
-    "theme-grape": {
+      },
       "grape": {
         "brand": {
           "value": "{grape.5}",
@@ -2078,12 +2070,12 @@
             "value": "{grape.5}"
           },
           "attributes": {
-            "category": "theme-grape",
+            "category": "theme",
             "type": "grape",
             "item": "brand"
           },
           "path": {
-            "0": "theme-grape",
+            "0": "theme",
             "1": "grape",
             "2": "brand"
           }
@@ -2096,12 +2088,12 @@
             "value": "{grape.9}"
           },
           "attributes": {
-            "category": "theme-grape",
+            "category": "theme",
             "type": "grape",
             "item": "text1"
           },
           "path": {
-            "0": "theme-grape",
+            "0": "theme",
             "1": "grape",
             "2": "text1"
           }
@@ -2114,12 +2106,12 @@
             "value": "{grape.7}"
           },
           "attributes": {
-            "category": "theme-grape",
+            "category": "theme",
             "type": "grape",
             "item": "text2"
           },
           "path": {
-            "0": "theme-grape",
+            "0": "theme",
             "1": "grape",
             "2": "text2"
           }
@@ -2132,12 +2124,12 @@
             "value": "{grape.0}"
           },
           "attributes": {
-            "category": "theme-grape",
+            "category": "theme",
             "type": "grape",
             "item": "surface1"
           },
           "path": {
-            "0": "theme-grape",
+            "0": "theme",
             "1": "grape",
             "2": "surface1"
           }
@@ -2150,12 +2142,12 @@
             "value": "{grape.1}"
           },
           "attributes": {
-            "category": "theme-grape",
+            "category": "theme",
             "type": "grape",
             "item": "surface2"
           },
           "path": {
-            "0": "theme-grape",
+            "0": "theme",
             "1": "grape",
             "2": "surface2"
           }
@@ -2168,12 +2160,12 @@
             "value": "{grape.2}"
           },
           "attributes": {
-            "category": "theme-grape",
+            "category": "theme",
             "type": "grape",
             "item": "surface3"
           },
           "path": {
-            "0": "theme-grape",
+            "0": "theme",
             "1": "grape",
             "2": "surface3"
           }
@@ -2186,12 +2178,12 @@
             "value": "{grape.3}"
           },
           "attributes": {
-            "category": "theme-grape",
+            "category": "theme",
             "type": "grape",
             "item": "surface4"
           },
           "path": {
-            "0": "theme-grape",
+            "0": "theme",
             "1": "grape",
             "2": "surface4"
           }
@@ -2204,12 +2196,12 @@
             "value": "288 30% 20%"
           },
           "attributes": {
-            "category": "theme-grape",
+            "category": "theme",
             "type": "grape",
             "item": "surface-shadow"
           },
           "path": {
-            "0": "theme-grape",
+            "0": "theme",
             "1": "grape",
             "2": "surface-shadow"
           }
@@ -2222,21 +2214,17 @@
             "value": "2%"
           },
           "attributes": {
-            "category": "theme-grape",
+            "category": "theme",
             "type": "grape",
             "item": "shadow-strength"
           },
           "path": {
-            "0": "theme-grape",
+            "0": "theme",
             "1": "grape",
             "2": "shadow-strength"
           }
         }
-      }
-    }
-  },
-  "theme-light$": {
-    "theme-light": {
+      },
       "light": {
         "brand": {
           "value": "{orange.6}",
@@ -2246,12 +2234,12 @@
             "value": "{orange.6}"
           },
           "attributes": {
-            "category": "theme-light",
+            "category": "theme",
             "type": "light",
             "item": "brand"
           },
           "path": {
-            "0": "theme-light",
+            "0": "theme",
             "1": "light",
             "2": "brand"
           }
@@ -2264,12 +2252,12 @@
             "value": "{gray.8}"
           },
           "attributes": {
-            "category": "theme-light",
+            "category": "theme",
             "type": "light",
             "item": "text1"
           },
           "path": {
-            "0": "theme-light",
+            "0": "theme",
             "1": "light",
             "2": "text1"
           }
@@ -2282,12 +2270,12 @@
             "value": "{gray.7}"
           },
           "attributes": {
-            "category": "theme-light",
+            "category": "theme",
             "type": "light",
             "item": "text2"
           },
           "path": {
-            "0": "theme-light",
+            "0": "theme",
             "1": "light",
             "2": "text2"
           }
@@ -2300,12 +2288,12 @@
             "value": "{gray.0}"
           },
           "attributes": {
-            "category": "theme-light",
+            "category": "theme",
             "type": "light",
             "item": "surface1"
           },
           "path": {
-            "0": "theme-light",
+            "0": "theme",
             "1": "light",
             "2": "surface1"
           }
@@ -2318,12 +2306,12 @@
             "value": "{gray.1}"
           },
           "attributes": {
-            "category": "theme-light",
+            "category": "theme",
             "type": "light",
             "item": "surface2"
           },
           "path": {
-            "0": "theme-light",
+            "0": "theme",
             "1": "light",
             "2": "surface2"
           }
@@ -2336,12 +2324,12 @@
             "value": "{gray.2}"
           },
           "attributes": {
-            "category": "theme-light",
+            "category": "theme",
             "type": "light",
             "item": "surface3"
           },
           "path": {
-            "0": "theme-light",
+            "0": "theme",
             "1": "light",
             "2": "surface3"
           }
@@ -2354,12 +2342,12 @@
             "value": "{gray.3}"
           },
           "attributes": {
-            "category": "theme-light",
+            "category": "theme",
             "type": "light",
             "item": "surface4"
           },
           "path": {
-            "0": "theme-light",
+            "0": "theme",
             "1": "light",
             "2": "surface4"
           }
@@ -2372,12 +2360,12 @@
             "value": "200 10% 20%"
           },
           "attributes": {
-            "category": "theme-light",
+            "category": "theme",
             "type": "light",
             "item": "surface-shadow"
           },
           "path": {
-            "0": "theme-light",
+            "0": "theme",
             "1": "light",
             "2": "surface-shadow"
           }
@@ -2390,12 +2378,12 @@
             "value": "2%"
           },
           "attributes": {
-            "category": "theme-light",
+            "category": "theme",
             "type": "light",
             "item": "shadow-strength"
           },
           "path": {
-            "0": "theme-light",
+            "0": "theme",
             "1": "light",
             "2": "shadow-strength"
           }

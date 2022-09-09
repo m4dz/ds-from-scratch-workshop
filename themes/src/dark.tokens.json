@@ -1,5 +1,5 @@
 {
-  "theme-dark": {
+  "theme": {
     "tokenset": "theme-dark$",
     "dark": {
       "brand": {

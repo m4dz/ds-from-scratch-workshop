@@ -1,20 +1,44 @@
 {
   "shadow": {
     "light": {
-      "tint": "200 10% 20%",
-      "strength": "2%"
+      "tint": {
+        "value": "hsl(200 10% 20%)",
+        "type": "boxShadow"
+      },
+      "strength": {
+        "value": "2%",
+        "type": "opacity"
+      }
     },
     "dark": {
-      "tint": "200 50% 3%",
-      "strength": "80%"
+      "tint": {
+        "value": "hsl(200 50% 3%)",
+        "type": "boxShadow"
+      },
+      "strength": {
+        "value": "80%",
+        "type": "opacity"
+      }
     },
     "dim": {
-      "tint": "200 10% 13%",
-      "strength": "20%"
+      "tint": {
+        "value": "hsl(200 10% 13%)",
+        "type": "boxShadow"
+      },
+      "strength": {
+        "value": "20%",
+        "type": "opacity"
+      }
     },
     "colored": {
-      "tint": "288 30% 20%",
-      "strength": "2%"
+      "tint": {
+        "value": "hsl(288 30% 20%)",
+        "type": "boxShadow"
+      },
+      "strength": {
+        "value": "2%",
+        "type": "opacity"
+      }
     }
   }
 }

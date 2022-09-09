@@ -31,10 +31,10 @@
     },
     "surface-shadow": {
       "value": "{shadow.dim.tint}",
-      "type": "boxShadow"
+      "type": "color"
     },
     "shadow-strength": {
-      "value": "{shadow.dim.strenght}",
+      "value": "{shadow.dim.strength}",
       "type": "opacity"
     }
   }

@@ -1,5 +1,6 @@
 {
   "orange": {
+    "tokenset": "global",
     "0": {
       "value": "#fff4e6"
     },

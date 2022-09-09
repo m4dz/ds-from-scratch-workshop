@@ -27,7 +27,7 @@ jobs:
       - name: Commit changes
         uses: EndBug/add-and-commit@v9
         with:
-          author_name: m4dz
-          author_email: code@m4dz.net
+          author_name: thais-divriots
+          author_email: thais@divriots.com
           message: 'chore: style-dictionary output'
           add: '.'

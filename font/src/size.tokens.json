@@ -1,5 +1,6 @@
 {
   "font": {
+    "tokenset": "global",
     "size": {
       "00": {
         "value": ".5rem"

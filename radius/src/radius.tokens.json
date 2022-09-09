@@ -1,5 +1,6 @@
 {
   "radius": {
+    "tokenset": "global",
     "1": {
       "value": "2px"
     },

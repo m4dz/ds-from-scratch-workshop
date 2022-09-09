@@ -1,5 +1,6 @@
 {
   "size": {
+    "tokenset": "global",
     "content": {
       "1": {
         "value": "20ch"

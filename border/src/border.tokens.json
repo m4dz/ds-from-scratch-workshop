@@ -1,5 +1,6 @@
 {
   "border": {
+    "tokenset": "global",
     "size": {
       "1": {
         "value": "1px"

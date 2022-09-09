@@ -1,5 +1,6 @@
 {
   "font": {
+    "tokenset": "global",
     "weight": {
       "1": {
         "value": "100"

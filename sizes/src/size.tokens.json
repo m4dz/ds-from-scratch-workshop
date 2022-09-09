@@ -1,5 +1,6 @@
 {
   "size": {
+    "tokenset": "global",
     "000": {
       "value": "-.5rem"
     },

@@ -1,5 +1,6 @@
 {
   "grape": {
+    "tokenset": "global",
     "0": {
       "value": "#f8f0fc"
     },

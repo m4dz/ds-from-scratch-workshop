@@ -19,7 +19,7 @@ jobs:
         run: npm install
 
       - name: Run token-transformer
-        run: npx token-transformer sd-input/src/figma-tokens-output.json sd-input/src/sd-input.json --resolveReferences false
+        run: npx token-transformer figma-tokens.json figma-tokens-for-sd.json --resolveReferences false
 
       - name: Run style-dictionary
         run: npx style-dictionary build --config sd.config.cjs

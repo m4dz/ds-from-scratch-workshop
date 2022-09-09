@@ -171,43 +171,7 @@
     "shadow-strength": {
       "value": "80%",
       "type": "opacity"
-    },
-    "button": {
-      "value": "{theme-dark.brand}",
-      "type": "color"
     }
-  },
-  "--shadow-1": {
-    "value": {
-      "x": 0,
-      "y": 3,
-      "blur": 5,
-      "spread": -2,
-      "color": "{theme-dark.surface1}",
-      "type": "dropShadow"
-    },
-    "type": "boxShadow"
-  },
-  "new-shadow": {
-    "value": [
-      {
-        "color": "#25252703",
-        "type": "dropShadow",
-        "x": 0,
-        "y": 3,
-        "blur": 5,
-        "spread": -2
-      },
-      {
-        "color": "#00000040",
-        "type": "dropShadow",
-        "x": 0,
-        "y": 7,
-        "blur": 14,
-        "spread": -5
-      }
-    ],
-    "type": "boxShadow"
   },
   "border": {
     "size": {

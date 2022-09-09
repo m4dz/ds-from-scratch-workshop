@@ -2,55 +2,72 @@
   "size": {
     "tokenset": "global",
     "000": {
-      "value": "-.5rem"
+      "value": "-.5rem",
+      "type": "sizing"
     },
     "00": {
-      "value": "-.25rem"
+      "value": "-.25rem",
+      "type": "sizing"
     },
     "1": {
-      "value": ".25rem"
+      "value": ".25rem",
+      "type": "sizing"
     },
     "2": {
-      "value": ".5rem"
+      "value": ".5rem",
+      "type": "sizing"
     },
     "3": {
-      "value": "1rem"
+      "value": "1rem",
+      "type": "sizing"
     },
     "4": {
-      "value": "1.25rem"
+      "value": "1.25rem",
+      "type": "sizing"
     },
     "5": {
-      "value": "1.5rem"
+      "value": "1.5rem",
+      "type": "sizing"
     },
     "6": {
-      "value": "1.75rem"
+      "value": "1.75rem",
+      "type": "sizing"
     },
     "7": {
-      "value": "2rem"
+      "value": "2rem",
+      "type": "sizing"
     },
     "8": {
-      "value": "3rem"
+      "value": "3rem",
+      "type": "sizing"
     },
     "9": {
-      "value": "4rem"
+      "value": "4rem",
+      "type": "sizing"
     },
     "10": {
-      "value": "5rem"
+      "value": "5rem",
+      "type": "sizing"
     },
     "11": {
-      "value": "7.5rem"
+      "value": "7.5rem",
+      "type": "sizing"
     },
     "12": {
-      "value": "10rem"
+      "value": "10rem",
+      "type": "sizing"
     },
     "13": {
-      "value": "15rem"
+      "value": "15rem",
+      "type": "sizing"
     },
     "14": {
-      "value": "20rem"
+      "value": "20rem",
+      "type": "sizing"
     },
     "15": {
-      "value": "30rem"
+      "value": "30rem",
+      "type": "sizing"
     }
   }
 }

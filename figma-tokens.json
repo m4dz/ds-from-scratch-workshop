@@ -1,13 +1,679 @@
 {
+  "theme-dark": {
+    "dark": {
+      "brand": {
+        "value": "{orange.3}",
+        "filePath": "themes/src/dark.tokens.json",
+        "isSource": true,
+        "original": {
+          "value": "{orange.3}"
+        },
+        "attributes": {
+          "category": "theme-dark",
+          "type": "dark",
+          "item": "brand"
+        },
+        "path": {
+          "0": "theme-dark",
+          "1": "dark",
+          "2": "brand"
+        }
+      },
+      "text1": {
+        "value": "{gray.1}",
+        "filePath": "themes/src/dark.tokens.json",
+        "isSource": true,
+        "original": {
+          "value": "{gray.1}"
+        },
+        "attributes": {
+          "category": "theme-dark",
+          "type": "dark",
+          "item": "text1"
+        },
+        "path": {
+          "0": "theme-dark",
+          "1": "dark",
+          "2": "text1"
+        }
+      },
+      "text2": {
+        "value": "{gray.3}",
+        "filePath": "themes/src/dark.tokens.json",
+        "isSource": true,
+        "original": {
+          "value": "{gray.3}"
+        },
+        "attributes": {
+          "category": "theme-dark",
+          "type": "dark",
+          "item": "text2"
+        },
+        "path": {
+          "0": "theme-dark",
+          "1": "dark",
+          "2": "text2"
+        }
+      },
+      "surface1": {
+        "value": "{gray.9}",
+        "filePath": "themes/src/dark.tokens.json",
+        "isSource": true,
+        "original": {
+          "value": "{gray.9}"
+        },
+        "attributes": {
+          "category": "theme-dark",
+          "type": "dark",
+          "item": "surface1"
+        },
+        "path": {
+          "0": "theme-dark",
+          "1": "dark",
+          "2": "surface1"
+        }
+      },
+      "surface2": {
+        "value": "{gray.8}",
+        "filePath": "themes/src/dark.tokens.json",
+        "isSource": true,
+        "original": {
+          "value": "{gray.8}"
+        },
+        "attributes": {
+          "category": "theme-dark",
+          "type": "dark",
+          "item": "surface2"
+        },
+        "path": {
+          "0": "theme-dark",
+          "1": "dark",
+          "2": "surface2"
+        }
+      },
+      "surface3": {
+        "value": "{gray.7}",
+        "filePath": "themes/src/dark.tokens.json",
+        "isSource": true,
+        "original": {
+          "value": "{gray.7}"
+        },
+        "attributes": {
+          "category": "theme-dark",
+          "type": "dark",
+          "item": "surface3"
+        },
+        "path": {
+          "0": "theme-dark",
+          "1": "dark",
+          "2": "surface3"
+        }
+      },
+      "surface4": {
+        "value": "{gray.6}",
+        "filePath": "themes/src/dark.tokens.json",
+        "isSource": true,
+        "original": {
+          "value": "{gray.6}"
+        },
+        "attributes": {
+          "category": "theme-dark",
+          "type": "dark",
+          "item": "surface4"
+        },
+        "path": {
+          "0": "theme-dark",
+          "1": "dark",
+          "2": "surface4"
+        }
+      },
+      "surface-shadow": {
+        "value": "200 50% 3%",
+        "filePath": "themes/src/dark.tokens.json",
+        "isSource": true,
+        "original": {
+          "value": "200 50% 3%"
+        },
+        "attributes": {
+          "category": "theme-dark",
+          "type": "dark",
+          "item": "surface-shadow"
+        },
+        "path": {
+          "0": "theme-dark",
+          "1": "dark",
+          "2": "surface-shadow"
+        }
+      },
+      "shadow-strength": {
+        "value": "80%",
+        "filePath": "themes/src/dark.tokens.json",
+        "isSource": true,
+        "original": {
+          "value": "80%"
+        },
+        "attributes": {
+          "category": "theme-dark",
+          "type": "dark",
+          "item": "shadow-strength"
+        },
+        "path": {
+          "0": "theme-dark",
+          "1": "dark",
+          "2": "shadow-strength"
+        }
+      }
+    }
+  },
+  "theme-dim": {
+    "dim": {
+      "brand": {
+        "value": "{orange.4}",
+        "filePath": "themes/src/dim.tokens.json",
+        "isSource": true,
+        "original": {
+          "value": "{orange.4}"
+        },
+        "attributes": {
+          "category": "theme-dim",
+          "type": "dim",
+          "item": "brand"
+        },
+        "path": {
+          "0": "theme-dim",
+          "1": "dim",
+          "2": "brand"
+        }
+      },
+      "text1": {
+        "value": "{gray.3}",
+        "filePath": "themes/src/dim.tokens.json",
+        "isSource": true,
+        "original": {
+          "value": "{gray.3}"
+        },
+        "attributes": {
+          "category": "theme-dim",
+          "type": "dim",
+          "item": "text1"
+        },
+        "path": {
+          "0": "theme-dim",
+          "1": "dim",
+          "2": "text1"
+        }
+      },
+      "text2": {
+        "value": "{gray.4}",
+        "filePath": "themes/src/dim.tokens.json",
+        "isSource": true,
+        "original": {
+          "value": "{gray.4}"
+        },
+        "attributes": {
+          "category": "theme-dim",
+          "type": "dim",
+          "item": "text2"
+        },
+        "path": {
+          "0": "theme-dim",
+          "1": "dim",
+          "2": "text2"
+        }
+      },
+      "surface1": {
+        "value": "{gray.8}",
+        "filePath": "themes/src/dim.tokens.json",
+        "isSource": true,
+        "original": {
+          "value": "{gray.8}"
+        },
+        "attributes": {
+          "category": "theme-dim",
+          "type": "dim",
+          "item": "surface1"
+        },
+        "path": {
+          "0": "theme-dim",
+          "1": "dim",
+          "2": "surface1"
+        }
+      },
+      "surface2": {
+        "value": "{gray.7}",
+        "filePath": "themes/src/dim.tokens.json",
+        "isSource": true,
+        "original": {
+          "value": "{gray.7}"
+        },
+        "attributes": {
+          "category": "theme-dim",
+          "type": "dim",
+          "item": "surface2"
+        },
+        "path": {
+          "0": "theme-dim",
+          "1": "dim",
+          "2": "surface2"
+        }
+      },
+      "surface3": {
+        "value": "{gray.6}",
+        "filePath": "themes/src/dim.tokens.json",
+        "isSource": true,
+        "original": {
+          "value": "{gray.6}"
+        },
+        "attributes": {
+          "category": "theme-dim",
+          "type": "dim",
+          "item": "surface3"
+        },
+        "path": {
+          "0": "theme-dim",
+          "1": "dim",
+          "2": "surface3"
+        }
+      },
+      "surface4": {
+        "value": "{gray.5}",
+        "filePath": "themes/src/dim.tokens.json",
+        "isSource": true,
+        "original": {
+          "value": "{gray.5}"
+        },
+        "attributes": {
+          "category": "theme-dim",
+          "type": "dim",
+          "item": "surface4"
+        },
+        "path": {
+          "0": "theme-dim",
+          "1": "dim",
+          "2": "surface4"
+        }
+      },
+      "surface-shadow": {
+        "value": "200 10% 13%",
+        "filePath": "themes/src/dim.tokens.json",
+        "isSource": true,
+        "original": {
+          "value": "200 10% 13%"
+        },
+        "attributes": {
+          "category": "theme-dim",
+          "type": "dim",
+          "item": "surface-shadow"
+        },
+        "path": {
+          "0": "theme-dim",
+          "1": "dim",
+          "2": "surface-shadow"
+        }
+      },
+      "shadow-strength": {
+        "value": "20%",
+        "filePath": "themes/src/dim.tokens.json",
+        "isSource": true,
+        "original": {
+          "value": "20%"
+        },
+        "attributes": {
+          "category": "theme-dim",
+          "type": "dim",
+          "item": "shadow-strength"
+        },
+        "path": {
+          "0": "theme-dim",
+          "1": "dim",
+          "2": "shadow-strength"
+        }
+      }
+    }
+  },
+  "theme-grape": {
+    "grape": {
+      "brand": {
+        "value": "{grape.5}",
+        "filePath": "themes/src/grape.tokens.json",
+        "isSource": true,
+        "original": {
+          "value": "{grape.5}"
+        },
+        "attributes": {
+          "category": "theme-grape",
+          "type": "grape",
+          "item": "brand"
+        },
+        "path": {
+          "0": "theme-grape",
+          "1": "grape",
+          "2": "brand"
+        }
+      },
+      "text1": {
+        "value": "{grape.9}",
+        "filePath": "themes/src/grape.tokens.json",
+        "isSource": true,
+        "original": {
+          "value": "{grape.9}"
+        },
+        "attributes": {
+          "category": "theme-grape",
+          "type": "grape",
+          "item": "text1"
+        },
+        "path": {
+          "0": "theme-grape",
+          "1": "grape",
+          "2": "text1"
+        }
+      },
+      "text2": {
+        "value": "{grape.7}",
+        "filePath": "themes/src/grape.tokens.json",
+        "isSource": true,
+        "original": {
+          "value": "{grape.7}"
+        },
+        "attributes": {
+          "category": "theme-grape",
+          "type": "grape",
+          "item": "text2"
+        },
+        "path": {
+          "0": "theme-grape",
+          "1": "grape",
+          "2": "text2"
+        }
+      },
+      "surface1": {
+        "value": "{grape.0}",
+        "filePath": "themes/src/grape.tokens.json",
+        "isSource": true,
+        "original": {
+          "value": "{grape.0}"
+        },
+        "attributes": {
+          "category": "theme-grape",
+          "type": "grape",
+          "item": "surface1"
+        },
+        "path": {
+          "0": "theme-grape",
+          "1": "grape",
+          "2": "surface1"
+        }
+      },
+      "surface2": {
+        "value": "{grape.1}",
+        "filePath": "themes/src/grape.tokens.json",
+        "isSource": true,
+        "original": {
+          "value": "{grape.1}"
+        },
+        "attributes": {
+          "category": "theme-grape",
+          "type": "grape",
+          "item": "surface2"
+        },
+        "path": {
+          "0": "theme-grape",
+          "1": "grape",
+          "2": "surface2"
+        }
+      },
+      "surface3": {
+        "value": "{grape.2}",
+        "filePath": "themes/src/grape.tokens.json",
+        "isSource": true,
+        "original": {
+          "value": "{grape.2}"
+        },
+        "attributes": {
+          "category": "theme-grape",
+          "type": "grape",
+          "item": "surface3"
+        },
+        "path": {
+          "0": "theme-grape",
+          "1": "grape",
+          "2": "surface3"
+        }
+      },
+      "surface4": {
+        "value": "{grape.3}",
+        "filePath": "themes/src/grape.tokens.json",
+        "isSource": true,
+        "original": {
+          "value": "{grape.3}"
+        },
+        "attributes": {
+          "category": "theme-grape",
+          "type": "grape",
+          "item": "surface4"
+        },
+        "path": {
+          "0": "theme-grape",
+          "1": "grape",
+          "2": "surface4"
+        }
+      },
+      "surface-shadow": {
+        "value": "288 30% 20%",
+        "filePath": "themes/src/grape.tokens.json",
+        "isSource": true,
+        "original": {
+          "value": "288 30% 20%"
+        },
+        "attributes": {
+          "category": "theme-grape",
+          "type": "grape",
+          "item": "surface-shadow"
+        },
+        "path": {
+          "0": "theme-grape",
+          "1": "grape",
+          "2": "surface-shadow"
+        }
+      },
+      "shadow-strength": {
+        "value": "2%",
+        "filePath": "themes/src/grape.tokens.json",
+        "isSource": true,
+        "original": {
+          "value": "2%"
+        },
+        "attributes": {
+          "category": "theme-grape",
+          "type": "grape",
+          "item": "shadow-strength"
+        },
+        "path": {
+          "0": "theme-grape",
+          "1": "grape",
+          "2": "shadow-strength"
+        }
+      }
+    }
+  },
+  "theme-light": {
+    "light": {
+      "brand": {
+        "value": "{orange.6}",
+        "filePath": "themes/src/light.tokens.json",
+        "isSource": true,
+        "original": {
+          "value": "{orange.6}"
+        },
+        "attributes": {
+          "category": "theme-light",
+          "type": "light",
+          "item": "brand"
+        },
+        "path": {
+          "0": "theme-light",
+          "1": "light",
+          "2": "brand"
+        }
+      },
+      "text1": {
+        "value": "{gray.8}",
+        "filePath": "themes/src/light.tokens.json",
+        "isSource": true,
+        "original": {
+          "value": "{gray.8}"
+        },
+        "attributes": {
+          "category": "theme-light",
+          "type": "light",
+          "item": "text1"
+        },
+        "path": {
+          "0": "theme-light",
+          "1": "light",
+          "2": "text1"
+        }
+      },
+      "text2": {
+        "value": "{gray.7}",
+        "filePath": "themes/src/light.tokens.json",
+        "isSource": true,
+        "original": {
+          "value": "{gray.7}"
+        },
+        "attributes": {
+          "category": "theme-light",
+          "type": "light",
+          "item": "text2"
+        },
+        "path": {
+          "0": "theme-light",
+          "1": "light",
+          "2": "text2"
+        }
+      },
+      "surface1": {
+        "value": "{gray.0}",
+        "filePath": "themes/src/light.tokens.json",
+        "isSource": true,
+        "original": {
+          "value": "{gray.0}"
+        },
+        "attributes": {
+          "category": "theme-light",
+          "type": "light",
+          "item": "surface1"
+        },
+        "path": {
+          "0": "theme-light",
+          "1": "light",
+          "2": "surface1"
+        }
+      },
+      "surface2": {
+        "value": "{gray.1}",
+        "filePath": "themes/src/light.tokens.json",
+        "isSource": true,
+        "original": {
+          "value": "{gray.1}"
+        },
+        "attributes": {
+          "category": "theme-light",
+          "type": "light",
+          "item": "surface2"
+        },
+        "path": {
+          "0": "theme-light",
+          "1": "light",
+          "2": "surface2"
+        }
+      },
+      "surface3": {
+        "value": "{gray.2}",
+        "filePath": "themes/src/light.tokens.json",
+        "isSource": true,
+        "original": {
+          "value": "{gray.2}"
+        },
+        "attributes": {
+          "category": "theme-light",
+          "type": "light",
+          "item": "surface3"
+        },
+        "path": {
+          "0": "theme-light",
+          "1": "light",
+          "2": "surface3"
+        }
+      },
+      "surface4": {
+        "value": "{gray.3}",
+        "filePath": "themes/src/light.tokens.json",
+        "isSource": true,
+        "original": {
+          "value": "{gray.3}"
+        },
+        "attributes": {
+          "category": "theme-light",
+          "type": "light",
+          "item": "surface4"
+        },
+        "path": {
+          "0": "theme-light",
+          "1": "light",
+          "2": "surface4"
+        }
+      },
+      "surface-shadow": {
+        "value": "200 10% 20%",
+        "filePath": "themes/src/light.tokens.json",
+        "isSource": true,
+        "original": {
+          "value": "200 10% 20%"
+        },
+        "attributes": {
+          "category": "theme-light",
+          "type": "light",
+          "item": "surface-shadow"
+        },
+        "path": {
+          "0": "theme-light",
+          "1": "light",
+          "2": "surface-shadow"
+        }
+      },
+      "shadow-strength": {
+        "value": "2%",
+        "filePath": "themes/src/light.tokens.json",
+        "isSource": true,
+        "original": {
+          "value": "2%"
+        },
+        "attributes": {
+          "category": "theme-light",
+          "type": "light",
+          "item": "shadow-strength"
+        },
+        "path": {
+          "0": "theme-light",
+          "1": "light",
+          "2": "shadow-strength"
+        }
+      }
+    }
+  },
   "global": {
     "border": {
       "size": {
         "1": {
           "value": "1px",
+          "type": "borderWidth",
           "filePath": "border/src/border.tokens.json",
           "isSource": true,
           "original": {
-            "value": "1px"
+            "value": "1px",
+            "type": "borderWidth"
           },
           "attributes": {
             "category": "border",
@@ -22,10 +688,12 @@
         },
         "2": {
           "value": "2px",
+          "type": "borderWidth",
           "filePath": "border/src/border.tokens.json",
           "isSource": true,
           "original": {
-            "value": "2px"
+            "value": "2px",
+            "type": "borderWidth"
           },
           "attributes": {
             "category": "border",
@@ -40,10 +708,12 @@
         },
         "3": {
           "value": "5px",
+          "type": "borderWidth",
           "filePath": "border/src/border.tokens.json",
           "isSource": true,
           "original": {
-            "value": "5px"
+            "value": "5px",
+            "type": "borderWidth"
           },
           "attributes": {
             "category": "border",
@@ -58,10 +728,12 @@
         },
         "4": {
           "value": "10px",
+          "type": "borderWidth",
           "filePath": "border/src/border.tokens.json",
           "isSource": true,
           "original": {
-            "value": "10px"
+            "value": "10px",
+            "type": "borderWidth"
           },
           "attributes": {
             "category": "border",
@@ -76,10 +748,12 @@
         },
         "5": {
           "value": "25px",
+          "type": "borderWidth",
           "filePath": "border/src/border.tokens.json",
           "isSource": true,
           "original": {
-            "value": "25px"
+            "value": "25px",
+            "type": "borderWidth"
           },
           "attributes": {
             "category": "border",
@@ -97,10 +771,12 @@
     "grape": {
       "0": {
         "value": "#f8f0fc",
+        "type": "color",
         "filePath": "colors/src/grape.tokens.json",
         "isSource": true,
         "original": {
-          "value": "#f8f0fc"
+          "value": "#f8f0fc",
+          "type": "color"
         },
         "attributes": {
           "category": "grape",
@@ -113,10 +789,12 @@
       },
       "1": {
         "value": "#f3d9fa",
+        "type": "color",
         "filePath": "colors/src/grape.tokens.json",
         "isSource": true,
         "original": {
-          "value": "#f3d9fa"
+          "value": "#f3d9fa",
+          "type": "color"
         },
         "attributes": {
           "category": "grape",
@@ -129,10 +807,12 @@
       },
       "2": {
         "value": "#eebefa",
+        "type": "color",
         "filePath": "colors/src/grape.tokens.json",
         "isSource": true,
         "original": {
-          "value": "#eebefa"
+          "value": "#eebefa",
+          "type": "color"
         },
         "attributes": {
           "category": "grape",
@@ -145,10 +825,12 @@
       },
       "3": {
         "value": "#e599f7",
+        "type": "color",
         "filePath": "colors/src/grape.tokens.json",
         "isSource": true,
         "original": {
-          "value": "#e599f7"
+          "value": "#e599f7",
+          "type": "color"
         },
         "attributes": {
           "category": "grape",
@@ -161,10 +843,12 @@
       },
       "4": {
         "value": "#da77f2",
+        "type": "color",
         "filePath": "colors/src/grape.tokens.json",
         "isSource": true,
         "original": {
-          "value": "#da77f2"
+          "value": "#da77f2",
+          "type": "color"
         },
         "attributes": {
           "category": "grape",
@@ -177,10 +861,12 @@
       },
       "5": {
         "value": "#cc5de8",
+        "type": "color",
         "filePath": "colors/src/grape.tokens.json",
         "isSource": true,
         "original": {
-          "value": "#cc5de8"
+          "value": "#cc5de8",
+          "type": "color"
         },
         "attributes": {
           "category": "grape",
@@ -193,10 +879,12 @@
       },
       "6": {
         "value": "#be4bdb",
+        "type": "color",
         "filePath": "colors/src/grape.tokens.json",
         "isSource": true,
         "original": {
-          "value": "#be4bdb"
+          "value": "#be4bdb",
+          "type": "color"
         },
         "attributes": {
           "category": "grape",
@@ -209,10 +897,12 @@
       },
       "7": {
         "value": "#ae3ec9",
+        "type": "color",
         "filePath": "colors/src/grape.tokens.json",
         "isSource": true,
         "original": {
-          "value": "#ae3ec9"
+          "value": "#ae3ec9",
+          "type": "color"
         },
         "attributes": {
           "category": "grape",
@@ -225,10 +915,12 @@
       },
       "8": {
         "value": "#9c36b5",
+        "type": "color",
         "filePath": "colors/src/grape.tokens.json",
         "isSource": true,
         "original": {
-          "value": "#9c36b5"
+          "value": "#9c36b5",
+          "type": "color"
         },
         "attributes": {
           "category": "grape",
@@ -241,10 +933,12 @@
       },
       "9": {
         "value": "#862e9c",
+        "type": "color",
         "filePath": "colors/src/grape.tokens.json",
         "isSource": true,
         "original": {
-          "value": "#862e9c"
+          "value": "#862e9c",
+          "type": "color"
         },
         "attributes": {
           "category": "grape",
@@ -259,10 +953,12 @@
     "gray": {
       "0": {
         "value": "#f8f9fa",
+        "type": "color",
         "filePath": "colors/src/gray.tokens.json",
         "isSource": true,
         "original": {
-          "value": "#f8f9fa"
+          "value": "#f8f9fa",
+          "type": "color"
         },
         "attributes": {
           "category": "gray",
@@ -275,10 +971,12 @@
       },
       "1": {
         "value": "#f1f3f5",
+        "type": "color",
         "filePath": "colors/src/gray.tokens.json",
         "isSource": true,
         "original": {
-          "value": "#f1f3f5"
+          "value": "#f1f3f5",
+          "type": "color"
         },
         "attributes": {
           "category": "gray",
@@ -291,10 +989,12 @@
       },
       "2": {
         "value": "#e9ecef",
+        "type": "color",
         "filePath": "colors/src/gray.tokens.json",
         "isSource": true,
         "original": {
-          "value": "#e9ecef"
+          "value": "#e9ecef",
+          "type": "color"
         },
         "attributes": {
           "category": "gray",
@@ -307,10 +1007,12 @@
       },
       "3": {
         "value": "#dee2e6",
+        "type": "color",
         "filePath": "colors/src/gray.tokens.json",
         "isSource": true,
         "original": {
-          "value": "#dee2e6"
+          "value": "#dee2e6",
+          "type": "color"
         },
         "attributes": {
           "category": "gray",
@@ -323,10 +1025,12 @@
       },
       "4": {
         "value": "#ced4da",
+        "type": "color",
         "filePath": "colors/src/gray.tokens.json",
         "isSource": true,
         "original": {
-          "value": "#ced4da"
+          "value": "#ced4da",
+          "type": "color"
         },
         "attributes": {
           "category": "gray",
@@ -339,10 +1043,12 @@
       },
       "5": {
         "value": "#adb5bd",
+        "type": "color",
         "filePath": "colors/src/gray.tokens.json",
         "isSource": true,
         "original": {
-          "value": "#adb5bd"
+          "value": "#adb5bd",
+          "type": "color"
         },
         "attributes": {
           "category": "gray",
@@ -355,10 +1061,12 @@
       },
       "6": {
         "value": "#868e96",
+        "type": "color",
         "filePath": "colors/src/gray.tokens.json",
         "isSource": true,
         "original": {
-          "value": "#868e96"
+          "value": "#868e96",
+          "type": "color"
         },
         "attributes": {
           "category": "gray",
@@ -371,10 +1079,12 @@
       },
       "7": {
         "value": "#495057",
+        "type": "color",
         "filePath": "colors/src/gray.tokens.json",
         "isSource": true,
         "original": {
-          "value": "#495057"
+          "value": "#495057",
+          "type": "color"
         },
         "attributes": {
           "category": "gray",
@@ -387,10 +1097,12 @@
       },
       "8": {
         "value": "#343a40",
+        "type": "color",
         "filePath": "colors/src/gray.tokens.json",
         "isSource": true,
         "original": {
-          "value": "#343a40"
+          "value": "#343a40",
+          "type": "color"
         },
         "attributes": {
           "category": "gray",
@@ -403,10 +1115,12 @@
       },
       "9": {
         "value": "#212529",
+        "type": "color",
         "filePath": "colors/src/gray.tokens.json",
         "isSource": true,
         "original": {
-          "value": "#212529"
+          "value": "#212529",
+          "type": "color"
         },
         "attributes": {
           "category": "gray",
@@ -421,10 +1135,12 @@
     "orange": {
       "0": {
         "value": "#fff4e6",
+        "type": "color",
         "filePath": "colors/src/orange.tokens.json",
         "isSource": true,
         "original": {
-          "value": "#fff4e6"
+          "value": "#fff4e6",
+          "type": "color"
         },
         "attributes": {
           "category": "orange",
@@ -437,10 +1153,12 @@
       },
       "1": {
         "value": "#ffe8cc",
+        "type": "color",
         "filePath": "colors/src/orange.tokens.json",
         "isSource": true,
         "original": {
-          "value": "#ffe8cc"
+          "value": "#ffe8cc",
+          "type": "color"
         },
         "attributes": {
           "category": "orange",
@@ -453,10 +1171,12 @@
       },
       "2": {
         "value": "#ffd8a8",
+        "type": "color",
         "filePath": "colors/src/orange.tokens.json",
         "isSource": true,
         "original": {
-          "value": "#ffd8a8"
+          "value": "#ffd8a8",
+          "type": "color"
         },
         "attributes": {
           "category": "orange",
@@ -469,10 +1189,12 @@
       },
       "3": {
         "value": "#ffc078",
+        "type": "color",
         "filePath": "colors/src/orange.tokens.json",
         "isSource": true,
         "original": {
-          "value": "#ffc078"
+          "value": "#ffc078",
+          "type": "color"
         },
         "attributes": {
           "category": "orange",
@@ -485,10 +1207,12 @@
       },
       "4": {
         "value": "#ffa94d",
+        "type": "color",
         "filePath": "colors/src/orange.tokens.json",
         "isSource": true,
         "original": {
-          "value": "#ffa94d"
+          "value": "#ffa94d",
+          "type": "color"
         },
         "attributes": {
           "category": "orange",
@@ -501,10 +1225,12 @@
       },
       "5": {
         "value": "#ff922b",
+        "type": "color",
         "filePath": "colors/src/orange.tokens.json",
         "isSource": true,
         "original": {
-          "value": "#ff922b"
+          "value": "#ff922b",
+          "type": "color"
         },
         "attributes": {
           "category": "orange",
@@ -517,10 +1243,12 @@
       },
       "6": {
         "value": "#fd7e14",
+        "type": "color",
         "filePath": "colors/src/orange.tokens.json",
         "isSource": true,
         "original": {
-          "value": "#fd7e14"
+          "value": "#fd7e14",
+          "type": "color"
         },
         "attributes": {
           "category": "orange",
@@ -533,10 +1261,12 @@
       },
       "7": {
         "value": "#f76707",
+        "type": "color",
         "filePath": "colors/src/orange.tokens.json",
         "isSource": true,
         "original": {
-          "value": "#f76707"
+          "value": "#f76707",
+          "type": "color"
         },
         "attributes": {
           "category": "orange",
@@ -549,10 +1279,12 @@
       },
       "8": {
         "value": "#e8590c",
+        "type": "color",
         "filePath": "colors/src/orange.tokens.json",
         "isSource": true,
         "original": {
-          "value": "#e8590c"
+          "value": "#e8590c",
+          "type": "color"
         },
         "attributes": {
           "category": "orange",
@@ -565,10 +1297,12 @@
       },
       "9": {
         "value": "#d9480f",
+        "type": "color",
         "filePath": "colors/src/orange.tokens.json",
         "isSource": true,
         "original": {
-          "value": "#d9480f"
+          "value": "#d9480f",
+          "type": "color"
         },
         "attributes": {
           "category": "orange",
@@ -583,10 +1317,12 @@
     "font": {
       "sans": {
         "value": "system-ui,-apple-system,Segoe UI,Roboto,Ubuntu,Cantarell,Noto Sans,sans-serif",
+        "type": "fontFamily",
         "filePath": "font/src/family.tokens.json",
         "isSource": true,
         "original": {
-          "value": "system-ui,-apple-system,Segoe UI,Roboto,Ubuntu,Cantarell,Noto Sans,sans-serif"
+          "value": "system-ui,-apple-system,Segoe UI,Roboto,Ubuntu,Cantarell,Noto Sans,sans-serif",
+          "type": "fontFamily"
         },
         "attributes": {
           "category": "font",
@@ -599,10 +1335,12 @@
       },
       "serif": {
         "value": "ui-serif,serif",
+        "type": "fontFamily",
         "filePath": "font/src/family.tokens.json",
         "isSource": true,
         "original": {
-          "value": "ui-serif,serif"
+          "value": "ui-serif,serif",
+          "type": "fontFamily"
         },
         "attributes": {
           "category": "font",
@@ -615,10 +1353,12 @@
       },
       "mono": {
         "value": "Dank Mono,Operator Mono,Inconsolata,Fira Mono,ui-monospace,SF Mono,Monaco,Droid Sans Mono,Source Code Pro,monospace",
+        "type": "fontFamily",
         "filePath": "font/src/family.tokens.json",
         "isSource": true,
         "original": {
-          "value": "Dank Mono,Operator Mono,Inconsolata,Fira Mono,ui-monospace,SF Mono,Monaco,Droid Sans Mono,Source Code Pro,monospace"
+          "value": "Dank Mono,Operator Mono,Inconsolata,Fira Mono,ui-monospace,SF Mono,Monaco,Droid Sans Mono,Source Code Pro,monospace",
+          "type": "fontFamily"
         },
         "attributes": {
           "category": "font",
@@ -632,10 +1372,12 @@
       "lineheight": {
         "0": {
           "value": "1.1",
+          "type": "lineHeight",
           "filePath": "font/src/lineheight.tokens.json",
           "isSource": true,
           "original": {
-            "value": "1.1"
+            "value": "1.1",
+            "type": "lineHeight"
           },
           "attributes": {
             "category": "font",
@@ -650,10 +1392,12 @@
         },
         "1": {
           "value": "1.25",
+          "type": "lineHeight",
           "filePath": "font/src/lineheight.tokens.json",
           "isSource": true,
           "original": {
-            "value": "1.25"
+            "value": "1.25",
+            "type": "lineHeight"
           },
           "attributes": {
             "category": "font",
@@ -668,10 +1412,12 @@
         },
         "2": {
           "value": "1.375",
+          "type": "lineHeight",
           "filePath": "font/src/lineheight.tokens.json",
           "isSource": true,
           "original": {
-            "value": "1.375"
+            "value": "1.375",
+            "type": "lineHeight"
           },
           "attributes": {
             "category": "font",
@@ -686,10 +1432,12 @@
         },
         "3": {
           "value": "1.5",
+          "type": "lineHeight",
           "filePath": "font/src/lineheight.tokens.json",
           "isSource": true,
           "original": {
-            "value": "1.5"
+            "value": "1.5",
+            "type": "lineHeight"
           },
           "attributes": {
             "category": "font",
@@ -704,10 +1452,12 @@
         },
         "4": {
           "value": "1.75",
+          "type": "lineHeight",
           "filePath": "font/src/lineheight.tokens.json",
           "isSource": true,
           "original": {
-            "value": "1.75"
+            "value": "1.75",
+            "type": "lineHeight"
           },
           "attributes": {
             "category": "font",
@@ -722,10 +1472,12 @@
         },
         "5": {
           "value": "2",
+          "type": "lineHeight",
           "filePath": "font/src/lineheight.tokens.json",
           "isSource": true,
           "original": {
-            "value": "2"
+            "value": "2",
+            "type": "lineHeight"
           },
           "attributes": {
             "category": "font",
@@ -740,10 +1492,12 @@
         },
         "00": {
           "value": ".95",
+          "type": "lineHeight",
           "filePath": "font/src/lineheight.tokens.json",
           "isSource": true,
           "original": {
-            "value": ".95"
+            "value": ".95",
+            "type": "lineHeight"
           },
           "attributes": {
             "category": "font",
@@ -760,10 +1514,12 @@
       "size": {
         "0": {
           "value": ".75rem",
+          "type": "lineHeight",
           "filePath": "font/src/size.tokens.json",
           "isSource": true,
           "original": {
-            "value": ".75rem"
+            "value": ".75rem",
+            "type": "lineHeight"
           },
           "attributes": {
             "category": "font",
@@ -778,10 +1534,12 @@
         },
         "1": {
           "value": "1rem",
+          "type": "lineHeight",
           "filePath": "font/src/size.tokens.json",
           "isSource": true,
           "original": {
-            "value": "1rem"
+            "value": "1rem",
+            "type": "lineHeight"
           },
           "attributes": {
             "category": "font",
@@ -796,10 +1554,12 @@
         },
         "2": {
           "value": "1.1rem",
+          "type": "lineHeight",
           "filePath": "font/src/size.tokens.json",
           "isSource": true,
           "original": {
-            "value": "1.1rem"
+            "value": "1.1rem",
+            "type": "lineHeight"
           },
           "attributes": {
             "category": "font",
@@ -814,10 +1574,12 @@
         },
         "3": {
           "value": "1.25rem",
+          "type": "lineHeight",
           "filePath": "font/src/size.tokens.json",
           "isSource": true,
           "original": {
-            "value": "1.25rem"
+            "value": "1.25rem",
+            "type": "lineHeight"
           },
           "attributes": {
             "category": "font",
@@ -832,10 +1594,12 @@
         },
         "4": {
           "value": "1.5rem",
+          "type": "lineHeight",
           "filePath": "font/src/size.tokens.json",
           "isSource": true,
           "original": {
-            "value": "1.5rem"
+            "value": "1.5rem",
+            "type": "lineHeight"
           },
           "attributes": {
             "category": "font",
@@ -850,10 +1614,12 @@
         },
         "5": {
           "value": "2rem",
+          "type": "lineHeight",
           "filePath": "font/src/size.tokens.json",
           "isSource": true,
           "original": {
-            "value": "2rem"
+            "value": "2rem",
+            "type": "lineHeight"
           },
           "attributes": {
             "category": "font",
@@ -868,10 +1634,12 @@
         },
         "6": {
           "value": "2.5rem",
+          "type": "lineHeight",
           "filePath": "font/src/size.tokens.json",
           "isSource": true,
           "original": {
-            "value": "2.5rem"
+            "value": "2.5rem",
+            "type": "lineHeight"
           },
           "attributes": {
             "category": "font",
@@ -886,10 +1654,12 @@
         },
         "7": {
           "value": "3rem",
+          "type": "lineHeight",
           "filePath": "font/src/size.tokens.json",
           "isSource": true,
           "original": {
-            "value": "3rem"
+            "value": "3rem",
+            "type": "lineHeight"
           },
           "attributes": {
             "category": "font",
@@ -904,10 +1674,12 @@
         },
         "8": {
           "value": "3.5rem",
+          "type": "lineHeight",
           "filePath": "font/src/size.tokens.json",
           "isSource": true,
           "original": {
-            "value": "3.5rem"
+            "value": "3.5rem",
+            "type": "lineHeight"
           },
           "attributes": {
             "category": "font",
@@ -922,10 +1694,12 @@
         },
         "00": {
           "value": ".5rem",
+          "type": "lineHeight",
           "filePath": "font/src/size.tokens.json",
           "isSource": true,
           "original": {
-            "value": ".5rem"
+            "value": ".5rem",
+            "type": "lineHeight"
           },
           "attributes": {
             "category": "font",
@@ -942,10 +1716,12 @@
       "weight": {
         "1": {
           "value": "100",
+          "type": "fontWeight",
           "filePath": "font/src/weight.tokens.json",
           "isSource": true,
           "original": {
-            "value": "100"
+            "value": "100",
+            "type": "fontWeight"
           },
           "attributes": {
             "category": "font",
@@ -960,10 +1736,12 @@
         },
         "2": {
           "value": "200",
+          "type": "fontWeight",
           "filePath": "font/src/weight.tokens.json",
           "isSource": true,
           "original": {
-            "value": "200"
+            "value": "200",
+            "type": "fontWeight"
           },
           "attributes": {
             "category": "font",
@@ -978,10 +1756,12 @@
         },
         "3": {
           "value": "300",
+          "type": "fontWeight",
           "filePath": "font/src/weight.tokens.json",
           "isSource": true,
           "original": {
-            "value": "300"
+            "value": "300",
+            "type": "fontWeight"
           },
           "attributes": {
             "category": "font",
@@ -996,10 +1776,12 @@
         },
         "4": {
           "value": "400",
+          "type": "fontWeight",
           "filePath": "font/src/weight.tokens.json",
           "isSource": true,
           "original": {
-            "value": "400"
+            "value": "400",
+            "type": "fontWeight"
           },
           "attributes": {
             "category": "font",
@@ -1014,10 +1796,12 @@
         },
         "5": {
           "value": "500",
+          "type": "fontWeight",
           "filePath": "font/src/weight.tokens.json",
           "isSource": true,
           "original": {
-            "value": "500"
+            "value": "500",
+            "type": "fontWeight"
           },
           "attributes": {
             "category": "font",
@@ -1032,10 +1816,12 @@
         },
         "6": {
           "value": "600",
+          "type": "fontWeight",
           "filePath": "font/src/weight.tokens.json",
           "isSource": true,
           "original": {
-            "value": "600"
+            "value": "600",
+            "type": "fontWeight"
           },
           "attributes": {
             "category": "font",
@@ -1050,10 +1836,12 @@
         },
         "7": {
           "value": "700",
+          "type": "fontWeight",
           "filePath": "font/src/weight.tokens.json",
           "isSource": true,
           "original": {
-            "value": "700"
+            "value": "700",
+            "type": "fontWeight"
           },
           "attributes": {
             "category": "font",
@@ -1068,10 +1856,12 @@
         },
         "8": {
           "value": "800",
+          "type": "fontWeight",
           "filePath": "font/src/weight.tokens.json",
           "isSource": true,
           "original": {
-            "value": "800"
+            "value": "800",
+            "type": "fontWeight"
           },
           "attributes": {
             "category": "font",
@@ -1086,10 +1876,12 @@
         },
         "9": {
           "value": "900",
+          "type": "fontWeight",
           "filePath": "font/src/weight.tokens.json",
           "isSource": true,
           "original": {
-            "value": "900"
+            "value": "900",
+            "type": "fontWeight"
           },
           "attributes": {
             "category": "font",
@@ -1107,10 +1899,12 @@
     "radius": {
       "1": {
         "value": "2px",
+        "type": "borderRadius",
         "filePath": "radius/src/radius.tokens.json",
         "isSource": true,
         "original": {
-          "value": "2px"
+          "value": "2px",
+          "type": "borderRadius"
         },
         "attributes": {
           "category": "radius",
@@ -1123,10 +1917,12 @@
       },
       "2": {
         "value": "5px",
+        "type": "borderRadius",
         "filePath": "radius/src/radius.tokens.json",
         "isSource": true,
         "original": {
-          "value": "5px"
+          "value": "5px",
+          "type": "borderRadius"
         },
         "attributes": {
           "category": "radius",
@@ -1139,10 +1935,12 @@
       },
       "3": {
         "value": "1rem",
+        "type": "borderRadius",
         "filePath": "radius/src/radius.tokens.json",
         "isSource": true,
         "original": {
-          "value": "1rem"
+          "value": "1rem",
+          "type": "borderRadius"
         },
         "attributes": {
           "category": "radius",
@@ -1155,10 +1953,12 @@
       },
       "4": {
         "value": "2rem",
+        "type": "borderRadius",
         "filePath": "radius/src/radius.tokens.json",
         "isSource": true,
         "original": {
-          "value": "2rem"
+          "value": "2rem",
+          "type": "borderRadius"
         },
         "attributes": {
           "category": "radius",
@@ -1171,10 +1971,12 @@
       },
       "5": {
         "value": "4rem",
+        "type": "borderRadius",
         "filePath": "radius/src/radius.tokens.json",
         "isSource": true,
         "original": {
-          "value": "4rem"
+          "value": "4rem",
+          "type": "borderRadius"
         },
         "attributes": {
           "category": "radius",
@@ -1187,10 +1989,12 @@
       },
       "6": {
         "value": "8rem",
+        "type": "borderRadius",
         "filePath": "radius/src/radius.tokens.json",
         "isSource": true,
         "original": {
-          "value": "8rem"
+          "value": "8rem",
+          "type": "borderRadius"
         },
         "attributes": {
           "category": "radius",
@@ -1203,10 +2007,12 @@
       },
       "round": {
         "value": "1e5px",
+        "type": "borderRadius",
         "filePath": "radius/src/radius.tokens.json",
         "isSource": true,
         "original": {
-          "value": "1e5px"
+          "value": "1e5px",
+          "type": "borderRadius"
         },
         "attributes": {
           "category": "radius",
@@ -1221,10 +2027,12 @@
     "size": {
       "1": {
         "value": "0.25rem",
+        "type": "sizing",
         "filePath": "sizes/src/size.tokens.json",
         "isSource": true,
         "original": {
-          "value": ".25rem"
+          "value": ".25rem",
+          "type": "sizing"
         },
         "attributes": {
           "category": "size",
@@ -1237,10 +2045,12 @@
       },
       "2": {
         "value": "0.5rem",
+        "type": "sizing",
         "filePath": "sizes/src/size.tokens.json",
         "isSource": true,
         "original": {
-          "value": ".5rem"
+          "value": ".5rem",
+          "type": "sizing"
         },
         "attributes": {
           "category": "size",
@@ -1253,10 +2063,12 @@
       },
       "3": {
         "value": "1rem",
+        "type": "sizing",
         "filePath": "sizes/src/size.tokens.json",
         "isSource": true,
         "original": {
-          "value": "1rem"
+          "value": "1rem",
+          "type": "sizing"
         },
         "attributes": {
           "category": "size",
@@ -1269,10 +2081,12 @@
       },
       "4": {
         "value": "1.25rem",
+        "type": "sizing",
         "filePath": "sizes/src/size.tokens.json",
         "isSource": true,
         "original": {
-          "value": "1.25rem"
+          "value": "1.25rem",
+          "type": "sizing"
         },
         "attributes": {
           "category": "size",
@@ -1285,10 +2099,12 @@
       },
       "5": {
         "value": "1.5rem",
+        "type": "sizing",
         "filePath": "sizes/src/size.tokens.json",
         "isSource": true,
         "original": {
-          "value": "1.5rem"
+          "value": "1.5rem",
+          "type": "sizing"
         },
         "attributes": {
           "category": "size",
@@ -1301,10 +2117,12 @@
       },
       "6": {
         "value": "1.75rem",
+        "type": "sizing",
         "filePath": "sizes/src/size.tokens.json",
         "isSource": true,
         "original": {
-          "value": "1.75rem"
+          "value": "1.75rem",
+          "type": "sizing"
         },
         "attributes": {
           "category": "size",
@@ -1317,10 +2135,12 @@
       },
       "7": {
         "value": "2rem",
+        "type": "sizing",
         "filePath": "sizes/src/size.tokens.json",
         "isSource": true,
         "original": {
-          "value": "2rem"
+          "value": "2rem",
+          "type": "sizing"
         },
         "attributes": {
           "category": "size",
@@ -1333,10 +2153,12 @@
       },
       "8": {
         "value": "3rem",
+        "type": "sizing",
         "filePath": "sizes/src/size.tokens.json",
         "isSource": true,
         "original": {
-          "value": "3rem"
+          "value": "3rem",
+          "type": "sizing"
         },
         "attributes": {
           "category": "size",
@@ -1349,10 +2171,12 @@
       },
       "9": {
         "value": "4rem",
+        "type": "sizing",
         "filePath": "sizes/src/size.tokens.json",
         "isSource": true,
         "original": {
-          "value": "4rem"
+          "value": "4rem",
+          "type": "sizing"
         },
         "attributes": {
           "category": "size",
@@ -1365,10 +2189,12 @@
       },
       "10": {
         "value": "5rem",
+        "type": "sizing",
         "filePath": "sizes/src/size.tokens.json",
         "isSource": true,
         "original": {
-          "value": "5rem"
+          "value": "5rem",
+          "type": "sizing"
         },
         "attributes": {
           "category": "size",
@@ -1381,10 +2207,12 @@
       },
       "11": {
         "value": "7.5rem",
+        "type": "sizing",
         "filePath": "sizes/src/size.tokens.json",
         "isSource": true,
         "original": {
-          "value": "7.5rem"
+          "value": "7.5rem",
+          "type": "sizing"
         },
         "attributes": {
           "category": "size",
@@ -1397,10 +2225,12 @@
       },
       "12": {
         "value": "10rem",
+        "type": "sizing",
         "filePath": "sizes/src/size.tokens.json",
         "isSource": true,
         "original": {
-          "value": "10rem"
+          "value": "10rem",
+          "type": "sizing"
         },
         "attributes": {
           "category": "size",
@@ -1413,10 +2243,12 @@
       },
       "13": {
         "value": "15rem",
+        "type": "sizing",
         "filePath": "sizes/src/size.tokens.json",
         "isSource": true,
         "original": {
-          "value": "15rem"
+          "value": "15rem",
+          "type": "sizing"
         },
         "attributes": {
           "category": "size",
@@ -1429,10 +2261,12 @@
       },
       "14": {
         "value": "20rem",
+        "type": "sizing",
         "filePath": "sizes/src/size.tokens.json",
         "isSource": true,
         "original": {
-          "value": "20rem"
+          "value": "20rem",
+          "type": "sizing"
         },
         "attributes": {
           "category": "size",
@@ -1445,10 +2279,12 @@
       },
       "15": {
         "value": "30rem",
+        "type": "sizing",
         "filePath": "sizes/src/size.tokens.json",
         "isSource": true,
         "original": {
-          "value": "30rem"
+          "value": "30rem",
+          "type": "sizing"
         },
         "attributes": {
           "category": "size",
@@ -1462,10 +2298,12 @@
       "content": {
         "1": {
           "value": "20rem",
+          "type": "sizing",
           "filePath": "sizes/src/content.tokens.json",
           "isSource": true,
           "original": {
-            "value": "20ch"
+            "value": "20ch",
+            "type": "sizing"
           },
           "attributes": {
             "category": "size",
@@ -1480,10 +2318,12 @@
         },
         "2": {
           "value": "45rem",
+          "type": "sizing",
           "filePath": "sizes/src/content.tokens.json",
           "isSource": true,
           "original": {
-            "value": "45ch"
+            "value": "45ch",
+            "type": "sizing"
           },
           "attributes": {
             "category": "size",
@@ -1498,10 +2338,12 @@
         },
         "3": {
           "value": "60rem",
+          "type": "sizing",
           "filePath": "sizes/src/content.tokens.json",
           "isSource": true,
           "original": {
-            "value": "60ch"
+            "value": "60ch",
+            "type": "sizing"
           },
           "attributes": {
             "category": "size",
@@ -1517,10 +2359,12 @@
       },
       "000": {
         "value": "-0.5rem",
+        "type": "sizing",
         "filePath": "sizes/src/size.tokens.json",
         "isSource": true,
         "original": {
-          "value": "-.5rem"
+          "value": "-.5rem",
+          "type": "sizing"
         },
         "attributes": {
           "category": "size",
@@ -1533,10 +2377,12 @@
       },
       "00": {
         "value": "-0.25rem",
+        "type": "sizing",
         "filePath": "sizes/src/size.tokens.json",
         "isSource": true,
         "original": {
-          "value": "-.25rem"
+          "value": "-.25rem",
+          "type": "sizing"
         },
         "attributes": {
           "category": "size",
@@ -1545,666 +2391,6 @@
         "path": {
           "0": "size",
           "1": "00"
-        }
-      }
-    }
-  },
-  "tema": {
-    "theme": {
-      "dark": {
-        "brand": {
-          "value": "{orange.3}",
-          "filePath": "themes/src/dark.tokens.json",
-          "isSource": true,
-          "original": {
-            "value": "{orange.3}"
-          },
-          "attributes": {
-            "category": "theme",
-            "type": "dark",
-            "item": "brand"
-          },
-          "path": {
-            "0": "theme",
-            "1": "dark",
-            "2": "brand"
-          }
-        },
-        "text1": {
-          "value": "{gray.1}",
-          "filePath": "themes/src/dark.tokens.json",
-          "isSource": true,
-          "original": {
-            "value": "{gray.1}"
-          },
-          "attributes": {
-            "category": "theme",
-            "type": "dark",
-            "item": "text1"
-          },
-          "path": {
-            "0": "theme",
-            "1": "dark",
-            "2": "text1"
-          }
-        },
-        "text2": {
-          "value": "{gray.3}",
-          "filePath": "themes/src/dark.tokens.json",
-          "isSource": true,
-          "original": {
-            "value": "{gray.3}"
-          },
-          "attributes": {
-            "category": "theme",
-            "type": "dark",
-            "item": "text2"
-          },
-          "path": {
-            "0": "theme",
-            "1": "dark",
-            "2": "text2"
-          }
-        },
-        "surface1": {
-          "value": "{gray.9}",
-          "filePath": "themes/src/dark.tokens.json",
-          "isSource": true,
-          "original": {
-            "value": "{gray.9}"
-          },
-          "attributes": {
-            "category": "theme",
-            "type": "dark",
-            "item": "surface1"
-          },
-          "path": {
-            "0": "theme",
-            "1": "dark",
-            "2": "surface1"
-          }
-        },
-        "surface2": {
-          "value": "{gray.8}",
-          "filePath": "themes/src/dark.tokens.json",
-          "isSource": true,
-          "original": {
-            "value": "{gray.8}"
-          },
-          "attributes": {
-            "category": "theme",
-            "type": "dark",
-            "item": "surface2"
-          },
-          "path": {
-            "0": "theme",
-            "1": "dark",
-            "2": "surface2"
-          }
-        },
-        "surface3": {
-          "value": "{gray.7}",
-          "filePath": "themes/src/dark.tokens.json",
-          "isSource": true,
-          "original": {
-            "value": "{gray.7}"
-          },
-          "attributes": {
-            "category": "theme",
-            "type": "dark",
-            "item": "surface3"
-          },
-          "path": {
-            "0": "theme",
-            "1": "dark",
-            "2": "surface3"
-          }
-        },
-        "surface4": {
-          "value": "{gray.6}",
-          "filePath": "themes/src/dark.tokens.json",
-          "isSource": true,
-          "original": {
-            "value": "{gray.6}"
-          },
-          "attributes": {
-            "category": "theme",
-            "type": "dark",
-            "item": "surface4"
-          },
-          "path": {
-            "0": "theme",
-            "1": "dark",
-            "2": "surface4"
-          }
-        },
-        "surface-shadow": {
-          "value": "200 50% 3%",
-          "filePath": "themes/src/dark.tokens.json",
-          "isSource": true,
-          "original": {
-            "value": "200 50% 3%"
-          },
-          "attributes": {
-            "category": "theme",
-            "type": "dark",
-            "item": "surface-shadow"
-          },
-          "path": {
-            "0": "theme",
-            "1": "dark",
-            "2": "surface-shadow"
-          }
-        },
-        "shadow-strength": {
-          "value": "80%",
-          "filePath": "themes/src/dark.tokens.json",
-          "isSource": true,
-          "original": {
-            "value": "80%"
-          },
-          "attributes": {
-            "category": "theme",
-            "type": "dark",
-            "item": "shadow-strength"
-          },
-          "path": {
-            "0": "theme",
-            "1": "dark",
-            "2": "shadow-strength"
-          }
-        }
-      },
-      "dim": {
-        "brand": {
-          "value": "{orange.4}",
-          "filePath": "themes/src/dim.tokens.json",
-          "isSource": true,
-          "original": {
-            "value": "{orange.4}"
-          },
-          "attributes": {
-            "category": "theme",
-            "type": "dim",
-            "item": "brand"
-          },
-          "path": {
-            "0": "theme",
-            "1": "dim",
-            "2": "brand"
-          }
-        },
-        "text1": {
-          "value": "{gray.3}",
-          "filePath": "themes/src/dim.tokens.json",
-          "isSource": true,
-          "original": {
-            "value": "{gray.3}"
-          },
-          "attributes": {
-            "category": "theme",
-            "type": "dim",
-            "item": "text1"
-          },
-          "path": {
-            "0": "theme",
-            "1": "dim",
-            "2": "text1"
-          }
-        },
-        "text2": {
-          "value": "{gray.4}",
-          "filePath": "themes/src/dim.tokens.json",
-          "isSource": true,
-          "original": {
-            "value": "{gray.4}"
-          },
-          "attributes": {
-            "category": "theme",
-            "type": "dim",
-            "item": "text2"
-          },
-          "path": {
-            "0": "theme",
-            "1": "dim",
-            "2": "text2"
-          }
-        },
-        "surface1": {
-          "value": "{gray.8}",
-          "filePath": "themes/src/dim.tokens.json",
-          "isSource": true,
-          "original": {
-            "value": "{gray.8}"
-          },
-          "attributes": {
-            "category": "theme",
-            "type": "dim",
-            "item": "surface1"
-          },
-          "path": {
-            "0": "theme",
-            "1": "dim",
-            "2": "surface1"
-          }
-        },
-        "surface2": {
-          "value": "{gray.7}",
-          "filePath": "themes/src/dim.tokens.json",
-          "isSource": true,
-          "original": {
-            "value": "{gray.7}"
-          },
-          "attributes": {
-            "category": "theme",
-            "type": "dim",
-            "item": "surface2"
-          },
-          "path": {
-            "0": "theme",
-            "1": "dim",
-            "2": "surface2"
-          }
-        },
-        "surface3": {
-          "value": "{gray.6}",
-          "filePath": "themes/src/dim.tokens.json",
-          "isSource": true,
-          "original": {
-            "value": "{gray.6}"
-          },
-          "attributes": {
-            "category": "theme",
-            "type": "dim",
-            "item": "surface3"
-          },
-          "path": {
-            "0": "theme",
-            "1": "dim",
-            "2": "surface3"
-          }
-        },
-        "surface4": {
-          "value": "{gray.5}",
-          "filePath": "themes/src/dim.tokens.json",
-          "isSource": true,
-          "original": {
-            "value": "{gray.5}"
-          },
-          "attributes": {
-            "category": "theme",
-            "type": "dim",
-            "item": "surface4"
-          },
-          "path": {
-            "0": "theme",
-            "1": "dim",
-            "2": "surface4"
-          }
-        },
-        "surface-shadow": {
-          "value": "200 10% 13%",
-          "filePath": "themes/src/dim.tokens.json",
-          "isSource": true,
-          "original": {
-            "value": "200 10% 13%"
-          },
-          "attributes": {
-            "category": "theme",
-            "type": "dim",
-            "item": "surface-shadow"
-          },
-          "path": {
-            "0": "theme",
-            "1": "dim",
-            "2": "surface-shadow"
-          }
-        },
-        "shadow-strength": {
-          "value": "20%",
-          "filePath": "themes/src/dim.tokens.json",
-          "isSource": true,
-          "original": {
-            "value": "20%"
-          },
-          "attributes": {
-            "category": "theme",
-            "type": "dim",
-            "item": "shadow-strength"
-          },
-          "path": {
-            "0": "theme",
-            "1": "dim",
-            "2": "shadow-strength"
-          }
-        }
-      },
-      "grape": {
-        "brand": {
-          "value": "{grape.5}",
-          "filePath": "themes/src/grape.tokens.json",
-          "isSource": true,
-          "original": {
-            "value": "{grape.5}"
-          },
-          "attributes": {
-            "category": "theme",
-            "type": "grape",
-            "item": "brand"
-          },
-          "path": {
-            "0": "theme",
-            "1": "grape",
-            "2": "brand"
-          }
-        },
-        "text1": {
-          "value": "{grape.9}",
-          "filePath": "themes/src/grape.tokens.json",
-          "isSource": true,
-          "original": {
-            "value": "{grape.9}"
-          },
-          "attributes": {
-            "category": "theme",
-            "type": "grape",
-            "item": "text1"
-          },
-          "path": {
-            "0": "theme",
-            "1": "grape",
-            "2": "text1"
-          }
-        },
-        "text2": {
-          "value": "{grape.7}",
-          "filePath": "themes/src/grape.tokens.json",
-          "isSource": true,
-          "original": {
-            "value": "{grape.7}"
-          },
-          "attributes": {
-            "category": "theme",
-            "type": "grape",
-            "item": "text2"
-          },
-          "path": {
-            "0": "theme",
-            "1": "grape",
-            "2": "text2"
-          }
-        },
-        "surface1": {
-          "value": "{grape.0}",
-          "filePath": "themes/src/grape.tokens.json",
-          "isSource": true,
-          "original": {
-            "value": "{grape.0}"
-          },
-          "attributes": {
-            "category": "theme",
-            "type": "grape",
-            "item": "surface1"
-          },
-          "path": {
-            "0": "theme",
-            "1": "grape",
-            "2": "surface1"
-          }
-        },
-        "surface2": {
-          "value": "{grape.1}",
-          "filePath": "themes/src/grape.tokens.json",
-          "isSource": true,
-          "original": {
-            "value": "{grape.1}"
-          },
-          "attributes": {
-            "category": "theme",
-            "type": "grape",
-            "item": "surface2"
-          },
-          "path": {
-            "0": "theme",
-            "1": "grape",
-            "2": "surface2"
-          }
-        },
-        "surface3": {
-          "value": "{grape.2}",
-          "filePath": "themes/src/grape.tokens.json",
-          "isSource": true,
-          "original": {
-            "value": "{grape.2}"
-          },
-          "attributes": {
-            "category": "theme",
-            "type": "grape",
-            "item": "surface3"
-          },
-          "path": {
-            "0": "theme",
-            "1": "grape",
-            "2": "surface3"
-          }
-        },
-        "surface4": {
-          "value": "{grape.3}",
-          "filePath": "themes/src/grape.tokens.json",
-          "isSource": true,
-          "original": {
-            "value": "{grape.3}"
-          },
-          "attributes": {
-            "category": "theme",
-            "type": "grape",
-            "item": "surface4"
-          },
-          "path": {
-            "0": "theme",
-            "1": "grape",
-            "2": "surface4"
-          }
-        },
-        "surface-shadow": {
-          "value": "288 30% 20%",
-          "filePath": "themes/src/grape.tokens.json",
-          "isSource": true,
-          "original": {
-            "value": "288 30% 20%"
-          },
-          "attributes": {
-            "category": "theme",
-            "type": "grape",
-            "item": "surface-shadow"
-          },
-          "path": {
-            "0": "theme",
-            "1": "grape",
-            "2": "surface-shadow"
-          }
-        },
-        "shadow-strength": {
-          "value": "2%",
-          "filePath": "themes/src/grape.tokens.json",
-          "isSource": true,
-          "original": {
-            "value": "2%"
-          },
-          "attributes": {
-            "category": "theme",
-            "type": "grape",
-            "item": "shadow-strength"
-          },
-          "path": {
-            "0": "theme",
-            "1": "grape",
-            "2": "shadow-strength"
-          }
-        }
-      },
-      "light": {
-        "brand": {
-          "value": "{orange.6}",
-          "filePath": "themes/src/light.tokens.json",
-          "isSource": true,
-          "original": {
-            "value": "{orange.6}"
-          },
-          "attributes": {
-            "category": "theme",
-            "type": "light",
-            "item": "brand"
-          },
-          "path": {
-            "0": "theme",
-            "1": "light",
-            "2": "brand"
-          }
-        },
-        "text1": {
-          "value": "{gray.8}",
-          "filePath": "themes/src/light.tokens.json",
-          "isSource": true,
-          "original": {
-            "value": "{gray.8}"
-          },
-          "attributes": {
-            "category": "theme",
-            "type": "light",
-            "item": "text1"
-          },
-          "path": {
-            "0": "theme",
-            "1": "light",
-            "2": "text1"
-          }
-        },
-        "text2": {
-          "value": "{gray.7}",
-          "filePath": "themes/src/light.tokens.json",
-          "isSource": true,
-          "original": {
-            "value": "{gray.7}"
-          },
-          "attributes": {
-            "category": "theme",
-            "type": "light",
-            "item": "text2"
-          },
-          "path": {
-            "0": "theme",
-            "1": "light",
-            "2": "text2"
-          }
-        },
-        "surface1": {
-          "value": "{gray.0}",
-          "filePath": "themes/src/light.tokens.json",
-          "isSource": true,
-          "original": {
-            "value": "{gray.0}"
-          },
-          "attributes": {
-            "category": "theme",
-            "type": "light",
-            "item": "surface1"
-          },
-          "path": {
-            "0": "theme",
-            "1": "light",
-            "2": "surface1"
-          }
-        },
-        "surface2": {
-          "value": "{gray.1}",
-          "filePath": "themes/src/light.tokens.json",
-          "isSource": true,
-          "original": {
-            "value": "{gray.1}"
-          },
-          "attributes": {
-            "category": "theme",
-            "type": "light",
-            "item": "surface2"
-          },
-          "path": {
-            "0": "theme",
-            "1": "light",
-            "2": "surface2"
-          }
-        },
-        "surface3": {
-          "value": "{gray.2}",
-          "filePath": "themes/src/light.tokens.json",
-          "isSource": true,
-          "original": {
-            "value": "{gray.2}"
-          },
-          "attributes": {
-            "category": "theme",
-            "type": "light",
-            "item": "surface3"
-          },
-          "path": {
-            "0": "theme",
-            "1": "light",
-            "2": "surface3"
-          }
-        },
-        "surface4": {
-          "value": "{gray.3}",
-          "filePath": "themes/src/light.tokens.json",
-          "isSource": true,
-          "original": {
-            "value": "{gray.3}"
-          },
-          "attributes": {
-            "category": "theme",
-            "type": "light",
-            "item": "surface4"
-          },
-          "path": {
-            "0": "theme",
-            "1": "light",
-            "2": "surface4"
-          }
-        },
-        "surface-shadow": {
-          "value": "200 10% 20%",
-          "filePath": "themes/src/light.tokens.json",
-          "isSource": true,
-          "original": {
-            "value": "200 10% 20%"
-          },
-          "attributes": {
-            "category": "theme",
-            "type": "light",
-            "item": "surface-shadow"
-          },
-          "path": {
-            "0": "theme",
-            "1": "light",
-            "2": "surface-shadow"
-          }
-        },
-        "shadow-strength": {
-          "value": "2%",
-          "filePath": "themes/src/light.tokens.json",
-          "isSource": true,
-          "original": {
-            "value": "2%"
-          },
-          "attributes": {
-            "category": "theme",
-            "type": "light",
-            "item": "shadow-strength"
-          },
-          "path": {
-            "0": "theme",
-            "1": "light",
-            "2": "shadow-strength"
-          }
         }
       }
     }

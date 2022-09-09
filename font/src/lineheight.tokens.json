@@ -3,25 +3,32 @@
     "tokenset": "global",
     "lineheight": {
       "00": {
-        "value": ".95"
+        "value": ".95",
+        "type": "lineHeight"
       },
       "0": {
-        "value": "1.1"
+        "value": "1.1",
+        "type": "lineHeight"
       },
       "1": {
-        "value": "1.25"
+        "value": "1.25",
+        "type": "lineHeight"
       },
       "2": {
-        "value": "1.375"
+        "value": "1.375",
+        "type": "lineHeight"
       },
       "3": {
-        "value": "1.5"
+        "value": "1.5",
+        "type": "lineHeight"
       },
       "4": {
-        "value": "1.75"
+        "value": "1.75",
+        "type": "lineHeight"
       },
       "5": {
-        "value": "2"
+        "value": "2",
+        "type": "lineHeight"
       }
     }
   }

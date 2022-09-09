@@ -2,34 +2,44 @@
   "gray": {
     "tokenset": "global",
     "0": {
-      "value": "#f8f9fa"
+      "value": "#f8f9fa",
+      "type": "color"
     },
     "1": {
-      "value": "#f1f3f5"
+      "value": "#f1f3f5",
+      "type": "color"
     },
     "2": {
-      "value": "#e9ecef"
+      "value": "#e9ecef",
+      "type": "color"
     },
     "3": {
-      "value": "#dee2e6"
+      "value": "#dee2e6",
+      "type": "color"
     },
     "4": {
-      "value": "#ced4da"
+      "value": "#ced4da",
+      "type": "color"
     },
     "5": {
-      "value": "#adb5bd"
+      "value": "#adb5bd",
+      "type": "color"
     },
     "6": {
-      "value": "#868e96"
+      "value": "#868e96",
+      "type": "color"
     },
     "7": {
-      "value": "#495057"
+      "value": "#495057",
+      "type": "color"
     },
     "8": {
-      "value": "#343a40"
+      "value": "#343a40",
+      "type": "color"
     },
     "9": {
-      "value": "#212529"
+      "value": "#212529",
+      "type": "color"
     }
   }
 }

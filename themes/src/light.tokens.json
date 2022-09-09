@@ -1,6 +1,5 @@
 {
-  "theme": {
-    "tokenset": "tema",
+  "theme-light": {
     "light": {
       "brand": {
         "value": "{orange.6}"

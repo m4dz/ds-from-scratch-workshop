@@ -1,6 +1,5 @@
 {
-  "theme": {
-    "tokenset": "tema",
+  "theme-grape": {
     "grape": {
       "brand": {
         "value": "{grape.5}"

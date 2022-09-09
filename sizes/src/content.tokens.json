@@ -3,13 +3,16 @@
     "tokenset": "global",
     "content": {
       "1": {
-        "value": "20ch"
+        "value": "20ch",
+        "type": "sizing"
       },
       "2": {
-        "value": "45ch"
+        "value": "45ch",
+        "type": "sizing"
       },
       "3": {
-        "value": "60ch"
+        "value": "60ch",
+        "type": "sizing"
       }
     }
   }

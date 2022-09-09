@@ -1,0 +1,17 @@
+@use '../../mixins.scss';
+
+.card1 {
+  @include mixins.card(1);
+}
+
+.card2 {
+  @include mixins.card(2);
+}
+
+.card3 {
+  @include mixins.card(3, true);
+}
+
+.card4 {
+  @include mixins.card(4, true);
+}

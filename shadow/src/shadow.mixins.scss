@@ -1,5 +1,4 @@
 @mixin box-shadow {
-  border: var(--border-size-1) solid hsl(var(--brand) 10% 50% / 15%);
   box-shadow: 0 1rem 0.5rem -0.5rem;
   box-shadow: 0 2.8px 2.2px
       hsl(var(--surface-shadow) / calc(var(--shadow-strength) + 3%)),

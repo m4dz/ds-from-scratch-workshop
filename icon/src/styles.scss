@@ -3,19 +3,22 @@
 :host {
   display: grid;
   place-content: center;
+  --s: var(--icon-size, var(--size-8));
 }
 
 i {
-  background: var(--icon-color, #000);
-
-  mask: var(--icon) center / contain no-repeat;
-  -webkit-mask: var(--icon) center / contain no-repeat;
-
   display: inline-block;
-  width: var(--icon-size, var(--size-8));
-  height: var(--icon-size, var(--size-8));
+  clip-path: content-box;
+  width: var(--s);
+  height: var(--s);
 
-  span {
+  .icn {
+    color: var(--icon-color, #000);
+    font-variation-settings: 'FILL' 1, 'wght' 400, 'GRAD' 0, 'opsz' 48;
+    font-size: var(--s);
+  }
+
+  .caption {
     @include mixins.sr-only;
   }
 }

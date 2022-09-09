@@ -1,0 +1,29 @@
+{
+  "shadow": {
+    "tokenset": "global",
+    "light": {
+      "strength": {
+        "value": "2%",
+        "type": "opacity"
+      }
+    },
+    "dark": {
+      "strength": {
+        "value": "80%",
+        "type": "opacity"
+      }
+    },
+    "dim": {
+      "strength": {
+        "value": "20%",
+        "type": "opacity"
+      }
+    },
+    "colored": {
+      "strength": {
+        "value": "2%",
+        "type": "opacity"
+      }
+    }
+  }
+}

@@ -1,9 +1,14 @@
+@use 'mixins.scss';
+
 // TOKENS
 @import './tokens/open-props.css';
 
 // CORE
 @import './heading/src/heading.scss';
 @import './text/src/text.scss';
+
+// COMPONENTS
+@import './card/src/card.scss';
 
 // THEMES
 @import './themes/src/themes.scss';

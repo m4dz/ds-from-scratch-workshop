@@ -53,7 +53,7 @@
   --grape-1: #f3d9fa;
   --grape-2: #eebefa;
   --grape-3: #e599f7;
-  --grape-4: #da77f2;
+  --grape-4: #da77f3;
   --grape-5: #cc5de8;
   --grape-6: #be4bdb;
   --grape-7: #ae3ec9;
@@ -115,6 +115,14 @@
   --radius-5: 4rem;
   --radius-6: 8rem;
   --radius-round: 1e5px;
+  --shadow-light-strength: 2%;
+  --shadow-light-tint: 200 10% 20%;
+  --shadow-dark-strength: 80%;
+  --shadow-dark-tint: 200 50% 3%;
+  --shadow-dim-strength: 20%;
+  --shadow-dim-tint: 200 10% 13%;
+  --shadow-colored-strength: 2%;
+  --shadow-colored-tint: 288 30% 20%;
   --size-1: 0.25rem;
   --size-2: 0.5rem;
   --size-3: 1rem;

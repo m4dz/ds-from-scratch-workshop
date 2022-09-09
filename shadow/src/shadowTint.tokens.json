@@ -1,0 +1,29 @@
+{
+  "shadow": {
+    "tokenset": "global",
+    "light": {
+      "tint": {
+        "value": "200 10% 20%",
+        "type": "color"
+      }
+    },
+    "dark": {
+      "tint": {
+        "value": "200 50% 3%",
+        "type": "color"
+      }
+    },
+    "dim": {
+      "tint": {
+        "value": "200 10% 13%",
+        "type": "color"
+      }
+    },
+    "colored": {
+      "tint": {
+        "value": "288 30% 20%",
+        "type": "color"
+      }
+    }
+  }
+}

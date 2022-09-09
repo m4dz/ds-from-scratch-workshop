@@ -7,10 +7,10 @@ const template = document.createElement('template');
 template.innerHTML = `
   <style>${styles}</style>
   <ds-toggle name="theme">
-    <li value="light"><ds-icon icn="sun" /></li>
-    <li value="dark"><ds-icon icn="moon-fill" /></li>
-    <li value="dim"><ds-icon icn="drop" /></li>
-    <li value="grape"><ds-icon icn="paint-roller" /></li>
+    <li value="light"><ds-icon icn="light_mode" /></li>
+    <li value="dark"><ds-icon icn="dark_mode" /></li>
+    <li value="dim"><ds-icon icn="water_drop" /></li>
+    <li value="grape"><ds-icon icn="format_paint" /></li>
   </ds-toggle>`;
 
 class Switcher extends HTMLElement {

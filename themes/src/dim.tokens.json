@@ -23,10 +23,10 @@
         "value": "{gray.5}"
       },
       "surface-shadow": {
-        "value": "200 10% 13%"
+        "value": "{shadow.dim.tint}"
       },
       "shadow-strength": {
-        "value": "20%"
+        "value": "{shadow.dim.strenght}"
       }
     }
   }

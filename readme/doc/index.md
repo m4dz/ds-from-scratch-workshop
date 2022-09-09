@@ -12,6 +12,27 @@ tokens, a few components, and a theme feature.
 
 ---
 
+## Preparation Notes
+
+- [ ] Showcase font/radius/etc switchs
+- Missing chapters
+  - [ ] brand styleguide > UI > tokens
+  - [ ] figma files
+  - [ ] tokens in figma
+  - [ ] figma-tokens plugin
+  - [ ] settings repo to import tokens in SD
+  - [ ] UX Writing (documentation)
+  - [ ] Inserting Figma links into DS
+  - [ ] Final app (in react) using the DS
+  - [ ] S2D
+- Missing components
+  - [ ] input
+  - [x] shadow token
+  - [x] card
+- [x] Move swatch
+
+---
+
 ## Chapters
 
 1. What is a Design System?

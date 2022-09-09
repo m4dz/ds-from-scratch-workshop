@@ -1,0 +1,20 @@
+{
+  "shadow": {
+    "light": {
+      "tint": "200 10% 20%",
+      "strength": "2%"
+    },
+    "dark": {
+      "tint": "200 50% 3%",
+      "strength": "80%"
+    },
+    "dim": {
+      "tint": "200 10% 13%",
+      "strength": "20%"
+    },
+    "colored": {
+      "tint": "288 30% 20%",
+      "strength": "2%"
+    }
+  }
+}

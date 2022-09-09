@@ -1,16 +1,52 @@
 import '..';
 import '../../icon';
 
-export const buttonDefault = () =>
-  `<ds-button>Here's a default button</ds-button>`;
+export default {
+  argTypes: {
+    variant: {
+      control: { type: 'select' },
+      options: ['primary', 'overlayed'],
+    },
+    icon: {
+      control: { type: 'text' },
+    },
+  },
+  render: ({ variant, icon }) => {
+    let attrs = `${variant}`;
 
-export const buttonPrimary = () =>
-  `<ds-button primary>This is a primary button</ds-button>`;
+    if (!variant) {
+      variant = `default`;
+    }
+    let l = `This is a ${variant} button`;
 
-export const buttonIcon = () =>
-  `<ds-button primary><ds-icon icn="heart-fill"></ds-icon>This is a primary button</ds-button>`;
+    if (variant == 'overlayed') {
+      l = `<span slot="content">${l}</span>`;
+    }
 
-export const buttonOverlay = () =>
-  `<ds-button overlayed>
-    <span slot="content">Here's the overlayed content</span>
-  </ds-button>`;
+    if (icon) {
+      l = `<ds-icon icn="${icon}"></ds-icon> ${l} with icon`;
+    }
+
+    return `<ds-button ${attrs}>${l}</ds-button>`;
+  },
+};
+
+export const button_default = {};
+
+export const button_primary = {
+  args: {
+    variant: 'primary',
+  },
+};
+
+export const button_icon = {
+  args: {
+    icon: 'favorite',
+  },
+};
+
+export const button_overlay = {
+  args: {
+    variant: 'overlayed',
+  },
+};

@@ -6,10 +6,10 @@ template.innerHTML = `
   <main>
     <section>
       <div class="surface-samples">
-        <div class="surface surface1">1</div>
-        <div class="surface surface2">2</div>
-        <div class="surface surface3">3</div>
-        <div class="surface surface4">4</div>
+        <div class="surface1">1</div>
+        <div class="surface2">2</div>
+        <div class="surface3">3</div>
+        <div class="surface4">4</div>
       </div>
     </section>
 

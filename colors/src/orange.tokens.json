@@ -1,34 +1,45 @@
 {
   "orange": {
+    "tokenset": "global",
     "0": {
-      "value": "#fff4e6"
+      "value": "#fff4e6",
+      "type": "color"
     },
     "1": {
-      "value": "#ffe8cc"
+      "value": "#ffe8cc",
+      "type": "color"
     },
     "2": {
-      "value": "#ffd8a8"
+      "value": "#ffd8a8",
+      "type": "color"
     },
     "3": {
-      "value": "#ffc078"
+      "value": "#ffc078",
+      "type": "color"
     },
     "4": {
-      "value": "#ffa94d"
+      "value": "#ffa94d",
+      "type": "color"
     },
     "5": {
-      "value": "#ff922b"
+      "value": "#ff922b",
+      "type": "color"
     },
     "6": {
-      "value": "#fd7e14"
+      "value": "#fd7e14",
+      "type": "color"
     },
     "7": {
-      "value": "#f76707"
+      "value": "#f76707",
+      "type": "color"
     },
     "8": {
-      "value": "#e8590c"
+      "value": "#e8590c",
+      "type": "color"
     },
     "9": {
-      "value": "#d9480f"
+      "value": "#d9480f",
+      "type": "color"
     }
   }
 }

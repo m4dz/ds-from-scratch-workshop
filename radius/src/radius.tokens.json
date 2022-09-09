@@ -1,25 +1,33 @@
 {
   "radius": {
+    "tokenset": "global",
     "1": {
-      "value": "2px"
+      "value": "2px",
+      "type": "borderRadius"
     },
     "2": {
-      "value": "5px"
+      "value": "5px",
+      "type": "borderRadius"
     },
     "3": {
-      "value": "1rem"
+      "value": "1rem",
+      "type": "borderRadius"
     },
     "4": {
-      "value": "2rem"
+      "value": "2rem",
+      "type": "borderRadius"
     },
     "5": {
-      "value": "4rem"
+      "value": "4rem",
+      "type": "borderRadius"
     },
     "6": {
-      "value": "8rem"
+      "value": "8rem",
+      "type": "borderRadius"
     },
     "round": {
-      "value": "1e5px"
+      "value": "1e5px",
+      "type": "borderRadius"
     }
   }
 }

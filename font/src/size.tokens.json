@@ -1,35 +1,46 @@
 {
   "font": {
+    "tokenset": "global",
     "size": {
       "00": {
-        "value": ".5rem"
+        "value": ".5rem",
+        "type": "lineHeight"
       },
       "0": {
-        "value": ".75rem"
+        "value": ".75rem",
+        "type": "lineHeight"
       },
       "1": {
-        "value": "1rem"
+        "value": "1rem",
+        "type": "lineHeight"
       },
       "2": {
-        "value": "1.1rem"
+        "value": "1.1rem",
+        "type": "lineHeight"
       },
       "3": {
-        "value": "1.25rem"
+        "value": "1.25rem",
+        "type": "lineHeight"
       },
       "4": {
-        "value": "1.5rem"
+        "value": "1.5rem",
+        "type": "lineHeight"
       },
       "5": {
-        "value": "2rem"
+        "value": "2rem",
+        "type": "lineHeight"
       },
       "6": {
-        "value": "2.5rem"
+        "value": "2.5rem",
+        "type": "lineHeight"
       },
       "7": {
-        "value": "3rem"
+        "value": "3rem",
+        "type": "lineHeight"
       },
       "8": {
-        "value": "3.5rem"
+        "value": "3.5rem",
+        "type": "lineHeight"
       }
     }
   }

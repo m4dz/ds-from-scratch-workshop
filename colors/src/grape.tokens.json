@@ -1,34 +1,45 @@
 {
   "grape": {
+    "tokenset": "global",
     "0": {
-      "value": "#f8f0fc"
+      "value": "#f8f0fc",
+      "type": "color"
     },
     "1": {
-      "value": "#f3d9fa"
+      "value": "#f3d9fa",
+      "type": "color"
     },
     "2": {
-      "value": "#eebefa"
+      "value": "#eebefa",
+      "type": "color"
     },
     "3": {
-      "value": "#e599f7"
+      "value": "#e599f7",
+      "type": "color"
     },
     "4": {
-      "value": "#da77f2"
+      "value": "#da77f2",
+      "type": "color"
     },
     "5": {
-      "value": "#cc5de8"
+      "value": "#cc5de8",
+      "type": "color"
     },
     "6": {
-      "value": "#be4bdb"
+      "value": "#be4bdb",
+      "type": "color"
     },
     "7": {
-      "value": "#ae3ec9"
+      "value": "#ae3ec9",
+      "type": "color"
     },
     "8": {
-      "value": "#9c36b5"
+      "value": "#9c36b5",
+      "type": "color"
     },
     "9": {
-      "value": "#862e9c"
+      "value": "#862e9c",
+      "type": "color"
     }
   }
 }

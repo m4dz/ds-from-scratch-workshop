@@ -1736,10 +1736,12 @@
       "dark": {
         "brand": {
           "value": "{orange.3}",
+          "type": "color",
           "filePath": "themes/src/dark.tokens.json",
           "isSource": true,
           "original": {
-            "value": "{orange.3}"
+            "value": "{orange.3}",
+            "type": "color"
           },
           "attributes": {
             "category": "theme-dark",
@@ -1754,10 +1756,12 @@
         },
         "text1": {
           "value": "{gray.1}",
+          "type": "color",
           "filePath": "themes/src/dark.tokens.json",
           "isSource": true,
           "original": {
-            "value": "{gray.1}"
+            "value": "{gray.1}",
+            "type": "color"
           },
           "attributes": {
             "category": "theme-dark",
@@ -1772,10 +1776,12 @@
         },
         "text2": {
           "value": "{gray.3}",
+          "type": "color",
           "filePath": "themes/src/dark.tokens.json",
           "isSource": true,
           "original": {
-            "value": "{gray.3}"
+            "value": "{gray.3}",
+            "type": "color"
           },
           "attributes": {
             "category": "theme-dark",
@@ -1790,10 +1796,12 @@
         },
         "surface1": {
           "value": "{gray.9}",
+          "type": "color",
           "filePath": "themes/src/dark.tokens.json",
           "isSource": true,
           "original": {
-            "value": "{gray.9}"
+            "value": "{gray.9}",
+            "type": "color"
           },
           "attributes": {
             "category": "theme-dark",
@@ -1808,10 +1816,12 @@
         },
         "surface2": {
           "value": "{gray.8}",
+          "type": "color",
           "filePath": "themes/src/dark.tokens.json",
           "isSource": true,
           "original": {
-            "value": "{gray.8}"
+            "value": "{gray.8}",
+            "type": "color"
           },
           "attributes": {
             "category": "theme-dark",
@@ -1826,10 +1836,12 @@
         },
         "surface3": {
           "value": "{gray.7}",
+          "type": "color",
           "filePath": "themes/src/dark.tokens.json",
           "isSource": true,
           "original": {
-            "value": "{gray.7}"
+            "value": "{gray.7}",
+            "type": "color"
           },
           "attributes": {
             "category": "theme-dark",
@@ -1844,10 +1856,12 @@
         },
         "surface4": {
           "value": "{gray.6}",
+          "type": "color",
           "filePath": "themes/src/dark.tokens.json",
           "isSource": true,
           "original": {
-            "value": "{gray.6}"
+            "value": "{gray.6}",
+            "type": "color"
           },
           "attributes": {
             "category": "theme-dark",
@@ -1862,10 +1876,12 @@
         },
         "surface-shadow": {
           "value": "200 50% 3%",
+          "type": "boxShadow",
           "filePath": "themes/src/dark.tokens.json",
           "isSource": true,
           "original": {
-            "value": "200 50% 3%"
+            "value": "200 50% 3%",
+            "type": "boxShadow"
           },
           "attributes": {
             "category": "theme-dark",
@@ -1880,10 +1896,12 @@
         },
         "shadow-strength": {
           "value": "80%",
+          "type": "opacity",
           "filePath": "themes/src/dark.tokens.json",
           "isSource": true,
           "original": {
-            "value": "80%"
+            "value": "80%",
+            "type": "opacity"
           },
           "attributes": {
             "category": "theme-dark",
@@ -1904,10 +1922,12 @@
       "dim": {
         "brand": {
           "value": "{orange.4}",
+          "type": "color",
           "filePath": "themes/src/dim.tokens.json",
           "isSource": true,
           "original": {
-            "value": "{orange.4}"
+            "value": "{orange.4}",
+            "type": "color"
           },
           "attributes": {
             "category": "theme-dim",
@@ -1922,10 +1942,12 @@
         },
         "text1": {
           "value": "{gray.3}",
+          "type": "color",
           "filePath": "themes/src/dim.tokens.json",
           "isSource": true,
           "original": {
-            "value": "{gray.3}"
+            "value": "{gray.3}",
+            "type": "color"
           },
           "attributes": {
             "category": "theme-dim",
@@ -1940,10 +1962,12 @@
         },
         "text2": {
           "value": "{gray.4}",
+          "type": "color",
           "filePath": "themes/src/dim.tokens.json",
           "isSource": true,
           "original": {
-            "value": "{gray.4}"
+            "value": "{gray.4}",
+            "type": "color"
           },
           "attributes": {
             "category": "theme-dim",
@@ -1958,10 +1982,12 @@
         },
         "surface1": {
           "value": "{gray.8}",
+          "type": "color",
           "filePath": "themes/src/dim.tokens.json",
           "isSource": true,
           "original": {
-            "value": "{gray.8}"
+            "value": "{gray.8}",
+            "type": "color"
           },
           "attributes": {
             "category": "theme-dim",
@@ -1976,10 +2002,12 @@
         },
         "surface2": {
           "value": "{gray.7}",
+          "type": "color",
           "filePath": "themes/src/dim.tokens.json",
           "isSource": true,
           "original": {
-            "value": "{gray.7}"
+            "value": "{gray.7}",
+            "type": "color"
           },
           "attributes": {
             "category": "theme-dim",
@@ -1994,10 +2022,12 @@
         },
         "surface3": {
           "value": "{gray.6}",
+          "type": "color",
           "filePath": "themes/src/dim.tokens.json",
           "isSource": true,
           "original": {
-            "value": "{gray.6}"
+            "value": "{gray.6}",
+            "type": "color"
           },
           "attributes": {
             "category": "theme-dim",
@@ -2012,10 +2042,12 @@
         },
         "surface4": {
           "value": "{gray.5}",
+          "type": "color",
           "filePath": "themes/src/dim.tokens.json",
           "isSource": true,
           "original": {
-            "value": "{gray.5}"
+            "value": "{gray.5}",
+            "type": "color"
           },
           "attributes": {
             "category": "theme-dim",
@@ -2030,10 +2062,12 @@
         },
         "surface-shadow": {
           "value": "200 10% 13%",
+          "type": "boxShadow",
           "filePath": "themes/src/dim.tokens.json",
           "isSource": true,
           "original": {
-            "value": "200 10% 13%"
+            "value": "200 10% 13%",
+            "type": "boxShadow"
           },
           "attributes": {
             "category": "theme-dim",
@@ -2048,10 +2082,12 @@
         },
         "shadow-strength": {
           "value": "20%",
+          "type": "opacity",
           "filePath": "themes/src/dim.tokens.json",
           "isSource": true,
           "original": {
-            "value": "20%"
+            "value": "20%",
+            "type": "opacity"
           },
           "attributes": {
             "category": "theme-dim",
@@ -2072,10 +2108,12 @@
       "grape": {
         "brand": {
           "value": "{grape.5}",
+          "type": "color",
           "filePath": "themes/src/grape.tokens.json",
           "isSource": true,
           "original": {
-            "value": "{grape.5}"
+            "value": "{grape.5}",
+            "type": "color"
           },
           "attributes": {
             "category": "theme-grape",
@@ -2090,10 +2128,12 @@
         },
         "text1": {
           "value": "{grape.9}",
+          "type": "color",
           "filePath": "themes/src/grape.tokens.json",
           "isSource": true,
           "original": {
-            "value": "{grape.9}"
+            "value": "{grape.9}",
+            "type": "color"
           },
           "attributes": {
             "category": "theme-grape",
@@ -2108,10 +2148,12 @@
         },
         "text2": {
           "value": "{grape.7}",
+          "type": "color",
           "filePath": "themes/src/grape.tokens.json",
           "isSource": true,
           "original": {
-            "value": "{grape.7}"
+            "value": "{grape.7}",
+            "type": "color"
           },
           "attributes": {
             "category": "theme-grape",
@@ -2126,10 +2168,12 @@
         },
         "surface1": {
           "value": "{grape.0}",
+          "type": "color",
           "filePath": "themes/src/grape.tokens.json",
           "isSource": true,
           "original": {
-            "value": "{grape.0}"
+            "value": "{grape.0}",
+            "type": "color"
           },
           "attributes": {
             "category": "theme-grape",
@@ -2144,10 +2188,12 @@
         },
         "surface2": {
           "value": "{grape.1}",
+          "type": "color",
           "filePath": "themes/src/grape.tokens.json",
           "isSource": true,
           "original": {
-            "value": "{grape.1}"
+            "value": "{grape.1}",
+            "type": "color"
           },
           "attributes": {
             "category": "theme-grape",
@@ -2162,10 +2208,12 @@
         },
         "surface3": {
           "value": "{grape.2}",
+          "type": "color",
           "filePath": "themes/src/grape.tokens.json",
           "isSource": true,
           "original": {
-            "value": "{grape.2}"
+            "value": "{grape.2}",
+            "type": "color"
           },
           "attributes": {
             "category": "theme-grape",
@@ -2180,10 +2228,12 @@
         },
         "surface4": {
           "value": "{grape.3}",
+          "type": "color",
           "filePath": "themes/src/grape.tokens.json",
           "isSource": true,
           "original": {
-            "value": "{grape.3}"
+            "value": "{grape.3}",
+            "type": "color"
           },
           "attributes": {
             "category": "theme-grape",
@@ -2198,10 +2248,12 @@
         },
         "surface-shadow": {
           "value": "288 30% 20%",
+          "type": "boxShadow",
           "filePath": "themes/src/grape.tokens.json",
           "isSource": true,
           "original": {
-            "value": "288 30% 20%"
+            "value": "288 30% 20%",
+            "type": "boxShadow"
           },
           "attributes": {
             "category": "theme-grape",
@@ -2216,10 +2268,12 @@
         },
         "shadow-strength": {
           "value": "2%",
+          "type": "opacity",
           "filePath": "themes/src/grape.tokens.json",
           "isSource": true,
           "original": {
-            "value": "2%"
+            "value": "2%",
+            "type": "opacity"
           },
           "attributes": {
             "category": "theme-grape",
@@ -2240,10 +2294,12 @@
       "light": {
         "brand": {
           "value": "{orange.6}",
+          "type": "color",
           "filePath": "themes/src/light.tokens.json",
           "isSource": true,
           "original": {
-            "value": "{orange.6}"
+            "value": "{orange.6}",
+            "type": "color"
           },
           "attributes": {
             "category": "theme-light",
@@ -2258,10 +2314,12 @@
         },
         "text1": {
           "value": "{gray.8}",
+          "type": "color",
           "filePath": "themes/src/light.tokens.json",
           "isSource": true,
           "original": {
-            "value": "{gray.8}"
+            "value": "{gray.8}",
+            "type": "color"
           },
           "attributes": {
             "category": "theme-light",
@@ -2276,10 +2334,12 @@
         },
         "text2": {
           "value": "{gray.7}",
+          "type": "color",
           "filePath": "themes/src/light.tokens.json",
           "isSource": true,
           "original": {
-            "value": "{gray.7}"
+            "value": "{gray.7}",
+            "type": "color"
           },
           "attributes": {
             "category": "theme-light",
@@ -2294,10 +2354,12 @@
         },
         "surface1": {
           "value": "{gray.0}",
+          "type": "color",
           "filePath": "themes/src/light.tokens.json",
           "isSource": true,
           "original": {
-            "value": "{gray.0}"
+            "value": "{gray.0}",
+            "type": "color"
           },
           "attributes": {
             "category": "theme-light",
@@ -2312,10 +2374,12 @@
         },
         "surface2": {
           "value": "{gray.1}",
+          "type": "color",
           "filePath": "themes/src/light.tokens.json",
           "isSource": true,
           "original": {
-            "value": "{gray.1}"
+            "value": "{gray.1}",
+            "type": "color"
           },
           "attributes": {
             "category": "theme-light",
@@ -2330,10 +2394,12 @@
         },
         "surface3": {
           "value": "{gray.2}",
+          "type": "color",
           "filePath": "themes/src/light.tokens.json",
           "isSource": true,
           "original": {
-            "value": "{gray.2}"
+            "value": "{gray.2}",
+            "type": "color"
           },
           "attributes": {
             "category": "theme-light",
@@ -2348,10 +2414,12 @@
         },
         "surface4": {
           "value": "{gray.3}",
+          "type": "color",
           "filePath": "themes/src/light.tokens.json",
           "isSource": true,
           "original": {
-            "value": "{gray.3}"
+            "value": "{gray.3}",
+            "type": "color"
           },
           "attributes": {
             "category": "theme-light",
@@ -2366,10 +2434,12 @@
         },
         "surface-shadow": {
           "value": "200 10% 20%",
+          "type": "boxShadow",
           "filePath": "themes/src/light.tokens.json",
           "isSource": true,
           "original": {
-            "value": "200 10% 20%"
+            "value": "200 10% 20%",
+            "type": "boxShadow"
           },
           "attributes": {
             "category": "theme-light",
@@ -2384,10 +2454,12 @@
         },
         "shadow-strength": {
           "value": "2%",
+          "type": "opacity",
           "filePath": "themes/src/light.tokens.json",
           "isSource": true,
           "original": {
-            "value": "2%"
+            "value": "2%",
+            "type": "opacity"
           },
           "attributes": {
             "category": "theme-light",

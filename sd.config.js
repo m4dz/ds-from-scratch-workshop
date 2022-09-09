@@ -1,4 +1,4 @@
-// Importing our tokens transformer for Figma Tokens JSON format
+// Importing our tokens transformer for Figma Tokens JSON
 import { transform } from '@divriots/style-dictionary-to-figma';
 
 export default {
@@ -19,11 +19,24 @@ export default {
     // and exports it to a file /figma-tokens.json
     json: {
       transformGroup: 'js',
-      buildPath: '/',
+      buildPath: '',
       files: [
         {
           destination: 'figma-tokens.json',
           format: 'figmaTokensPluginJson',
+        },
+      ],
+    },
+    css: {
+      transformGroup: 'css',
+      buildPath: 'tokens/',
+      files: [
+        {
+          destination: 'open-props.css',
+          format: 'css/variables',
+          options: {
+            selector: ':where(html)',
+          },
         },
       ],
     },

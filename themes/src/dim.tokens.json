@@ -34,7 +34,7 @@
       "type": "color"
     },
     "shadow-strength": {
-      "value": "{shadow.dim.strenght}",
+      "value": "{shadow.dim.strength}",
       "type": "opacity"
     }
   }

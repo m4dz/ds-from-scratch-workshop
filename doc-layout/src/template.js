@@ -7,8 +7,7 @@ import '@divriots/dockit-core/css-showcases/dockit-css-showcases.define.js';
 
 import appStyles from '../../styles.scss?inline';
 import commonStyles from './styles.scss?inline';
-// import logoSvg from './sunny-tech.svg?raw';
-const logoSvg = '';
+import logoSvg from './react-finland.svg?raw';
 
 import '../../switcher';
 
@@ -22,7 +21,9 @@ export const docLayoutTemplate = (content, context) => html`
     initial-color-scheme="light"
     .context="${context}"
   >
-    <div class="logo" slot="logo">${unsafeHTML(logoSvg)}</div>
+    <div class="logo" slot="logo" style="color: var(--brand, #000)">
+      ${unsafeHTML(logoSvg)}
+    </div>
     <div slot="topbar"><ds-switcher></ds-switcher></div>
     <div class="prose">${unsafeHTML(content)}</div>
   </dockit-layout>

@@ -36,15 +36,28 @@ tokens, a few components, and a theme feature.
 ## Chapters
 
 1. What is a Design System?
+   a) Requirements to get started: Backlight, GitHub integration, Figma
+
 2. Tokens: using style-dictionary to generate tokens from an
    external source
+   a) using SD to bring tokens to Figma
+
 3. Components: making core elements with WebComponents
+   a) using story.to.design to generate initial components in Figma
+
 4. Documentation: creating a layout for consistency
+   a) involving the UX writter in the process
+
 5. Organisms: consuming design system resources and documenting them
+   a) import them to Figma with story.to.design
+
 6. Theming: cascading the tokens
+
 7. Publishing: being ready to distribute
+
 8. Future of design systems: having a look at the upcoming
    web features empowering the design system tooling
+   a) using Figma as source of truth with tokens
 
 ## Resources
 
@@ -57,6 +70,8 @@ tokens, a few components, and a theme feature.
 - Style Dictionary: https://amzn.github.io/style-dictionary/
 - SD Playground: https://www.style-dictionary-play.dev/
 - Open Props: https://open-props.style/
+- Figma: https://www.figma.com/
+- story.to.design: https://story.to.design/
 
 * Sass mixins: https://sass-lang.com/documentation/at-rules/mixin
 

@@ -34,12 +34,15 @@ tokens, a few components, and a theme feature.
    2. keep Figma and the code in-sync with story.to.design
 
 6. Theming: cascading the tokens
+   - use Figma as source of truth for tokens
+   - sync tokens through apps
+   - cascade tokens 
 
 7. Publishing: being ready to distribute
 
 8. Future of design systems: having a look at the upcoming web features empowering the design system tooling
    - using Figma as source of truth with tokens
-   - CSS upcoming features
+   - CSS upcoming features
 
 ## Resources
 

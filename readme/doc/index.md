@@ -12,39 +12,37 @@ tokens, a few components, and a theme feature.
 
 ---
 
-## Preparation Notes
-
-- [ ] Showcase font/radius/etc switchs
-- Missing chapters
-  - [ ] brand styleguide > UI > tokens
-  - [ ] figma files
-  - [ ] tokens in figma
-  - [ ] figma-tokens plugin
-  - [ ] settings repo to import tokens in SD
-  - [ ] UX Writing (documentation)
-  - [ ] Inserting Figma links into DS
-  - [ ] Final app (in react) using the DS
-  - [ ] S2D
-- Missing components
-  - [ ] input
-  - [x] shadow token
-  - [x] card
-- [x] Move swatch
-
----
-
 ## Chapters
 
 1. What is a Design System?
-2. Tokens: using style-dictionary to generate tokens from an
-   external source
-3. Components: making core elements with WebComponents
+   - from a brand style guide to design systems
+   - our choices for thihs workshop to get started: Backlight, GitHub integration, Figma
+
+2. Tokens: using style-dictionary to generate tokens from an external source
+   1. import tokens from Open Props
+   2. using SD to bring tokens to Figma
+
+3. Components: making core elements with Web Components
+   1. create a few basic elements with CSS, JavaScript, and a bit of Web Copmonents
+   2. using story.to.design to generate initial components in Figma
+
 4. Documentation: creating a layout for consistency
+   - involving the UX writter in the process
+
 5. Organisms: consuming design system resources and documenting them
+   1. create advanced components using Design System primitives
+   2. keep Figma and the code in-sync with story.to.design
+
 6. Theming: cascading the tokens
+   - use Figma as source of truth for tokens
+   - sync tokens through apps
+   - cascade tokens 
+
 7. Publishing: being ready to distribute
-8. Future of design systems: having a look at the upcoming
-   web features empowering the design system tooling
+
+8. Future of design systems: having a look at the upcoming web features empowering the design system tooling
+   - using Figma as source of truth with tokens
+   - CSS upcoming features
 
 ## Resources
 
@@ -57,6 +55,8 @@ tokens, a few components, and a theme feature.
 - Style Dictionary: https://amzn.github.io/style-dictionary/
 - SD Playground: https://www.style-dictionary-play.dev/
 - Open Props: https://open-props.style/
+- Figma: https://www.figma.com/
+- story.to.design: https://story.to.design/
 
 * Sass mixins: https://sass-lang.com/documentation/at-rules/mixin
 

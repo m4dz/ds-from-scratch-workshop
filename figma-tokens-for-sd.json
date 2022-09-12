@@ -1237,7 +1237,7 @@
       ]
     },
     "5": {
-      "value": "#ff922b",
+      "value": "#7d0afa",
       "type": "color",
       "filePath": "colors/src/orange.tokens.json",
       "isSource": true,

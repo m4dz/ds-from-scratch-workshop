@@ -1,8 +1,3 @@
-```js script
-import '..';
-import '../../icon';
-```
-
 # core/button
 
 This package contains a `<ds-button>` web component to display buttons into your app.
@@ -28,28 +23,4 @@ The component trigger a `clicked` event you can catch in an external listener:
 myBytton.addEventListener('clicked', () => {
   /* your callback here */
 });
-```
-
-## Examples
-
-```html preview-story
-<ds-button>Here's a default button</ds-button>
-```
-
-```html preview-story
-<ds-button primary>
-  <ds-icon icn="heart-fill"></ds-icon>
-  This is a primary button
-</ds-button>
-```
-
-```html preview-story
-<p>In this overlayed content, the button is transparent and over the icon</p>
-<ds-button overlayed>
-  <ds-icon
-    slot="content"
-    icn="crosshair-simple"
-    style="--size: var(--size-8); --color: var(--brand)"
-  ></ds-icon>
-</ds-button>
 ```

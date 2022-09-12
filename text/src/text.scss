@@ -9,7 +9,3 @@ ol {
 p strong {
   @include mixins.strong();
 }
-
-a {
-  color: var(--brand);
-}

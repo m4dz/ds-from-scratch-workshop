@@ -1,9 +1,54 @@
 import '..';
 
-export const iconSun = () => `<ds-icon icn="sun-bold">light</ds-icon>`;
+export default {
+  argTypes: {
+    name: {
+      control: { type: 'text' },
+    },
+    size: {
+      control: { type: 'range', min: 1, max: 15 },
+    },
+    color: {
+      control: { type: 'select' },
+      options: ['orange', 'grape'],
+    },
+    colorShade: {
+      control: { type: 'range', min: 1, max: 9 },
+      defaultValue: 5,
+    },
+  },
+  render: ({ name, size, color, colorShade }) => {
+    let s = '';
+    if (size) {
+      s = `--icon-size: var(--size-${size});`;
+    }
 
-export const iconColored = () =>
-  `<ds-icon icn="moon-fill" style="--icon-color: var(--orange-5)">dark</ds-icon>`;
+    let c = '';
+    if (color) {
+      c = `--icon-color: var(--${color}-${colorShade});`;
+    }
 
-export const iconLarge = () =>
-  `<ds-icon icn="drop" style="--icon-size: var(--size-12)">dim</ds-icon>`;
+    return `<ds-icon icn="${name}" style="${s}${c}">${name}</ds-icon>`;
+  },
+};
+
+export const icon_bulb = {
+  args: {
+    name: 'lightbulb',
+  },
+};
+
+export const icon_colored = {
+  args: {
+    name: 'add_location_alt',
+    color: 'orange',
+    colorShade: 8,
+  },
+};
+
+export const icon_large = {
+  args: {
+    name: 'cookie',
+    size: 12,
+  },
+};

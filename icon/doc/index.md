@@ -1,7 +1,3 @@
-```js script
-import '..';
-```
-
 # core/icon
 
 This package contains a `<ds-icon>` web component to embed icons into your app.
@@ -19,17 +15,3 @@ Use _components tokens_ in the shape of CSS Custom Properties to customize your 
 
 You can pass a label as a slot for accessibility purposes, the content is hidden by
 default in the final rendering on non-assistive devices.
-
-## Examples
-
-```html preview-story
-<ds-icon icn="sun-bold">light</ds-icon>
-```
-
-```html preview-story
-<ds-icon icn="moon-fill" style="--icon-color: var(--orange-5)"></ds-icon>
-```
-
-```html preview-story
-<ds-icon icn="drop" style="--icon-size: var(--size-12)"></ds-icon>
-```

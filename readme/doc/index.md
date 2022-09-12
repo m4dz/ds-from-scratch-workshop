@@ -1,14 +1,8 @@
-```js script
-import '../../swatch';
-```
-
 # Build Your Design System from Scratch - A Workshop
 
 This repo contains a design system sample for a workshop where
 attendees will work on implementing a design system made of
 tokens, a few components, and a theme feature.
-
-<ds-swatch></ds-swatch>
 
 ---
 

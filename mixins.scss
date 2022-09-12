@@ -1,7 +1,7 @@
 @forward './heading/src/heading.mixins.scss';
 @forward './text/src/text.mixins.scss';
-@forward './themes/src/themes.mixins.scss';
 @forward './border/src/box-shadow.mixins.scss';
+@forward './icon/src/icon.mixins.scss';
 
 @mixin sr-only {
   position: absolute;

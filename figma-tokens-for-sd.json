@@ -23,7 +23,7 @@
   },
   "theme-light": {
     "brand": {
-      "value": "{orange.6}",
+      "value": "{grape.6}",
       "type": "color",
       "filePath": "themes/src/light.tokens.json",
       "isSource": true,

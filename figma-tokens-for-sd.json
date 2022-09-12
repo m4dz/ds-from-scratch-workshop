@@ -1219,7 +1219,7 @@
       ]
     },
     "4": {
-      "value": "#ffa94d",
+      "value": "#39e42a",
       "type": "color",
       "filePath": "colors/src/orange.tokens.json",
       "isSource": true,
@@ -1237,7 +1237,7 @@
       ]
     },
     "5": {
-      "value": "#ff922b",
+      "value": "#7d0afa",
       "type": "color",
       "filePath": "colors/src/orange.tokens.json",
       "isSource": true,

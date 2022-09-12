@@ -15,28 +15,34 @@ tokens, a few components, and a theme feature.
 ## Chapters
 
 1. What is a Design System?
+
    - from a brand style guide to design systems
    - our choices for thihs workshop to get started: Backlight, GitHub integration, Figma
 
 2. Tokens: using style-dictionary to generate tokens from an external source
+
    1. import tokens from Open Props
    2. using SD to bring tokens to Figma
 
 3. Components: making core elements with Web Components
+
    1. create a few basic elements with CSS, JavaScript, and a bit of Web Copmonents
    2. using story.to.design to generate initial components in Figma
 
 4. Documentation: creating a layout for consistency
+
    - involving the UX writter in the process
 
 5. Organisms: consuming design system resources and documenting them
+
    1. create advanced components using Design System primitives
    2. keep Figma and the code in-sync with story.to.design
 
 6. Theming: cascading the tokens
+
    - use Figma as source of truth for tokens
    - sync tokens through apps
-   - cascade tokens 
+   - cascade tokens
 
 7. Publishing: being ready to distribute
 
@@ -95,3 +101,11 @@ then `@include mixins.[mixinName]` in your Sass files.
 
 Global styles are gathered in the root `styles.scss` file, meaning you need to import it
 (or its `styles.css` dist version) in your final app to embed the overall styles.
+
+### Contact us
+
+M4dz
+[Twitter](https://twitter.com/m4d_z) - [LinkedIn](https://www.linkedin.com/in/m4d-z/)
+
+Thais Santos
+[Twitter](https://twitter.com/th4is_ds) - [LinkedIn](https://www.linkedin.com/in/thaissantosdesigner/)

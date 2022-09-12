@@ -2402,7 +2402,7 @@
   "themeLight": {
     "theme-light": {
       "brand": {
-        "value": "{grape.6}",
+        "value": "{orange.5}",
         "type": "color",
         "filePath": "themes/src/light.tokens.json",
         "isSource": true,

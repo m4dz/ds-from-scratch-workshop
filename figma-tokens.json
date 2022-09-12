@@ -542,7 +542,7 @@
         ]
       },
       "4": {
-        "value": "#39e42a",
+        "value": "#ffa94d",
         "type": "color",
         "filePath": "colors/src/orange.tokens.json",
         "isSource": true,
@@ -560,7 +560,7 @@
         ]
       },
       "5": {
-        "value": "#7d0afa",
+        "value": "#ff922b",
         "type": "color",
         "filePath": "colors/src/orange.tokens.json",
         "isSource": true,
@@ -2402,7 +2402,7 @@
   "themeLight": {
     "theme-light": {
       "brand": {
-        "value": "{orange.5}",
+        "value": "{orange.4}",
         "type": "color",
         "filePath": "themes/src/light.tokens.json",
         "isSource": true,

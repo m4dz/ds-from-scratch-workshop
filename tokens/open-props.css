@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Thu, 30 Jun 2022 07:42:01 GMT
+ * Generated on Mon, 12 Sep 2022 10:05:39 GMT
  */
 
 :where(html) {
@@ -75,6 +75,14 @@
   --radius-5: 4rem;
   --radius-6: 8rem;
   --radius-round: 1e5px;
+  --shadow-light-strength: 2%;
+  --shadow-light-tint: 200 10% 20%;
+  --shadow-dark-strength: 80%;
+  --shadow-dark-tint: 200 50% 3%;
+  --shadow-dim-strength: 20%;
+  --shadow-dim-tint: 200 10% 13%;
+  --shadow-colored-strength: 2%;
+  --shadow-colored-tint: 288 30% 20%;
   --size-1: 0.25rem;
   --size-2: 0.5rem;
   --size-3: 1rem;

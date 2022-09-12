@@ -7,9 +7,7 @@ import '@divriots/dockit-core/css-showcases/dockit-css-showcases.define.js';
 
 import appStyles from '../../styles.scss?inline';
 import commonStyles from './styles.scss?inline';
-import logoSvg from './sunny-tech.svg?raw';
-
-import '../../switcher';
+import logoSvg from './react-finland.svg?raw';
 
 export const docLayoutTemplate = (content, context) => html`
   <style>
@@ -22,7 +20,6 @@ export const docLayoutTemplate = (content, context) => html`
     .context="${context}"
   >
     <div class="logo" slot="logo">${unsafeHTML(logoSvg)}</div>
-    <div slot="topbar"><ds-switcher></ds-switcher></div>
     <div class="prose">${unsafeHTML(content)}</div>
   </dockit-layout>
 `;

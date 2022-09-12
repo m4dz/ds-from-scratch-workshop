@@ -7,6 +7,10 @@ import '../../icon';
 
 This package contains a `<ds-button>` web component to display buttons into your app.
 
+## Dos/Donts
+
+Buttons are used for actions.
+
 ## Usage
 
 Import the `button` package, then use the `<ds-button>` component.

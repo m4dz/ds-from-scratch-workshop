@@ -11,9 +11,6 @@
 }
 
 button {
-  --btn-bg: var(--surface3);
-  --btn-color: var(--text1);
-  --icon-color: var(--btn-color);
   --icon-size: 1em;
 
   display: flex;
@@ -28,15 +25,11 @@ button {
 
   cursor: pointer;
 
-  background-color: var(--btn-bg);
-  color: var(--btn-color);
+  background-color: var(--gray-1);
 }
 
-:host([primary]) {
-  button {
-    --btn-bg: var(--brand);
-    --btn-color: var(--surface1);
-  }
+:host([primary]) button {
+  background-color: var(--orange-3);
 }
 
 :host([overlayed]) {

@@ -554,7 +554,7 @@
   "themeLight": {
     "theme-light": {
       "brand": {
-        "value": "{orange.6}",
+        "value": "{orange.5}",
         "type": "color"
       },
       "text1": {
